@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Test Application 8</title>
+    <link rel="stylesheet" href="./index7.css"/>
+    <script src="./index7.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1>Medical-Financial Application 7</h1>
+    </header>
+
+    <section>
+      <fieldset>
+        <legend>General Information</legend>
+        <!-- <form class="" action="/processForm" method="post"> -->
+        <form id="myForm">
+            <legend>Medical Information</legend>
+            <fieldset>
+              <legend>Age/Height/Weight</legend>
+              Age: <input type="input" name="age" value=""/> &nbsp;
+              Height: <input type="text" name="height-feet" value=""/> feet &nbsp;
+              <input type="input" name="height-inches" value=""/><label for="heightInches"> <em>inches</em></label> &nbsp;
+              Weight: <input type="input" name="weight" value=""/><label for="weight"> <em>pounds</em></label>
+            </fieldset>
+            <br>
+            <fieldset>
+                <legend>Conditions</legend>
+                What condition are you suffering from? Pick one.
+                <br>
+                <select id="conditions" name="conditions">
+                    <option value="">-Select-</option>
+                    <option value="Allergies">Allergies</option>
+                    <option value="Asthma">Asthma</option>
+                    <option value="Stomach Ache">Stomach Ache</option>
+                </select>
+            </fieldset>
+            <br>
+            <fieldset>
+                <legend>Time Period</legend>
+                How long have you experienced any of the above conditions? <input type="input" name="time" value=""/>
+            </fieldset>
+            <br>
+            <fieldset>
+                <legend>Study Information</legend>
+                <label for="study">Which study are you taking part of?</label>
+                <select id="study" name="studyType">
+                <option value="Long Term">Long Term</option>
+                <option value="Short Term">Short Term</option>
+                </select> &nbsp;
+                <label for="studyID">Assigned Study ID:</label>
+                <input type="text" class="ID" name="firstFourDigits" value="">-<input type="text" class="ID" name="secondFourDigits" value="">
+            </fieldset>
+            <fieldset>
+                <legend>Additional Information (Comments)</legend>
+                <textarea name="comments" rows="5" cols="80"></textarea>
+            </fieldset>
+        </form>
+    </fieldset>
+    <br>
+    <fieldset>
+        <input type="button" name="clear" value="Clear Form" onclick="return resetForm()">
+        <input type="button" name="submit" value="Submit Information" onclick="return validate()">
+    </fieldset>
+      <!-- </form> -->
+    <br>
+    </section>
+    <footer>
+        Test 8
+    </footer>
+</body>
+
+</html>

@@ -1,0 +1,355 @@
+{
+  "id": "fdb63060-010a-44a3-9bd4-c8e993f9d5a2",
+  "version": "2.0",
+  "name": "Test Page 1",
+  "url": "http://vacancy.cs.umd.edu",
+  "tests": [{
+    "id": "9987d86a-dcb5-4084-a2fa-21b507716a41",
+    "name": "Test1 for Test Page 1",
+    "commands": [{
+      "id": "f7d4d2f6-54e1-445b-b491-07beeba99320",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "438ea824-9639-49aa-b461-97c100cfa6ea",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "585x715",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6bd771ff-3cad-437c-ac39-ef2acaabb82c",
+      "comment": "",
+      "command": "click",
+      "target": "id=firstName",
+      "targets": [
+        ["id=firstName", "id"],
+        ["name=firstname", "name"],
+        ["css=#firstName", "css:finder"],
+        ["xpath=//input[@id='firstName']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b76f744b-762e-4903-a9fc-a31a4e3f68c2",
+      "comment": "",
+      "command": "click",
+      "target": "id=lastName",
+      "targets": [
+        ["id=lastName", "id"],
+        ["name=lastname", "name"],
+        ["css=#lastName", "css:finder"],
+        ["xpath=//input[@id='lastName']", "xpath:attributes"],
+        ["xpath=//input[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "995b3fc3-2682-4015-b7d0-19362118051c",
+      "comment": "",
+      "command": "click",
+      "target": "name=phoneFirstPart",
+      "targets": [
+        ["name=phoneFirstPart", "name"],
+        ["css=.phone:nth-child(5)", "css:finder"],
+        ["xpath=//input[@name='phoneFirstPart']", "xpath:attributes"],
+        ["xpath=//input[3]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "96115521-0975-422c-8364-25bc3276e2db",
+      "comment": "",
+      "command": "click",
+      "target": "name=phoneSecondPart",
+      "targets": [
+        ["name=phoneSecondPart", "name"],
+        ["css=.phone:nth-child(6)", "css:finder"],
+        ["xpath=//input[@name='phoneSecondPart']", "xpath:attributes"],
+        ["xpath=//input[4]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "08a8ab4c-15e7-4372-8cba-809a0748746e",
+      "comment": "",
+      "command": "click",
+      "target": "name=phoneThirdPart",
+      "targets": [
+        ["name=phoneThirdPart", "name"],
+        ["css=.phone:nth-child(7)", "css:finder"],
+        ["xpath=//input[@name='phoneThirdPart']", "xpath:attributes"],
+        ["xpath=//input[5]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a574b76b-2ab6-4f31-af6d-f76083c23bb0",
+      "comment": "",
+      "command": "click",
+      "target": "name=email",
+      "targets": [
+        ["name=email", "name"],
+        ["css=form > input:nth-child(8)", "css:finder"],
+        ["xpath=//input[@name='email']", "xpath:attributes"],
+        ["xpath=//input[6]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d03c47a5-4ec4-4ced-af33-a9329016cad7",
+      "comment": "",
+      "command": "click",
+      "target": "name=age",
+      "targets": [
+        ["name=age", "name"],
+        ["css=fieldset:nth-child(2) > input:nth-child(3)", "css:finder"],
+        ["xpath=//input[@name='age']", "xpath:attributes"],
+        ["xpath=//div[@id='research-study-data']/fieldset/fieldset/input", "xpath:idRelative"],
+        ["xpath=//fieldset/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b5dac3a8-17b0-45d2-aa59-74aba47e0392",
+      "comment": "",
+      "command": "click",
+      "target": "name=heightFeet",
+      "targets": [
+        ["name=heightFeet", "name"],
+        ["css=input:nth-child(4)", "css:finder"],
+        ["xpath=//input[@name='heightFeet']", "xpath:attributes"],
+        ["xpath=//div[@id='research-study-data']/fieldset/fieldset/input[2]", "xpath:idRelative"],
+        ["xpath=//fieldset/input[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "195a4814-c116-4988-8f25-c5c4c98f535a",
+      "comment": "",
+      "command": "click",
+      "target": "name=heightInches",
+      "targets": [
+        ["name=heightInches", "name"],
+        ["css=fieldset:nth-child(2) > input:nth-child(6)", "css:finder"],
+        ["xpath=//input[@name='heightInches']", "xpath:attributes"],
+        ["xpath=//div[@id='research-study-data']/fieldset/fieldset/input[3]", "xpath:idRelative"],
+        ["xpath=//fieldset/input[3]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "9dc485ab-fd5f-4e4d-8386-2982ee696fd5",
+      "comment": "",
+      "command": "click",
+      "target": "name=weight",
+      "targets": [
+        ["name=weight", "name"],
+        ["css=fieldset > input:nth-child(8)", "css:finder"],
+        ["xpath=//input[@name='weight']", "xpath:attributes"],
+        ["xpath=//div[@id='research-study-data']/fieldset/fieldset/input[4]", "xpath:idRelative"],
+        ["xpath=//fieldset/input[4]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "43307e1d-568d-40f4-859c-54b91da00d01",
+      "comment": "",
+      "command": "select",
+      "target": "id=conditions",
+      "targets": [],
+      "value": "label=Allergies"
+    }, {
+      "id": "7f4f4045-e7bb-492b-b73c-efa8353c30ac",
+      "comment": "",
+      "command": "click",
+      "target": "css=#conditions > option:nth-child(2)",
+      "targets": [
+        ["css=#conditions > option:nth-child(2)", "css:finder"],
+        ["xpath=//option[@value='Allergies']", "xpath:attributes"],
+        ["xpath=//select[@id='conditions']/option[2]", "xpath:idRelative"],
+        ["xpath=//option[2]", "xpath:position"],
+        ["xpath=//option[contains(.,'Allergies')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "36b5694b-794a-459c-a788-3622b3a321c2",
+      "comment": "",
+      "command": "select",
+      "target": "id=conditions",
+      "targets": [],
+      "value": "label=Asthma"
+    }, {
+      "id": "92b92276-a749-4c4f-8f32-06acf42b0269",
+      "comment": "",
+      "command": "click",
+      "target": "css=option:nth-child(3)",
+      "targets": [
+        ["css=option:nth-child(3)", "css:finder"],
+        ["xpath=//option[@value='Asthma']", "xpath:attributes"],
+        ["xpath=//select[@id='conditions']/option[3]", "xpath:idRelative"],
+        ["xpath=//option[3]", "xpath:position"],
+        ["xpath=//option[contains(.,'Asthma')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "37689a2c-5164-4265-a879-363644168c42",
+      "comment": "",
+      "command": "select",
+      "target": "id=conditions",
+      "targets": [],
+      "value": "label=Stomach Ache"
+    }, {
+      "id": "054b528d-d424-48e0-a76a-70b15be51a4b",
+      "comment": "",
+      "command": "click",
+      "target": "css=option:nth-child(4)",
+      "targets": [
+        ["css=option:nth-child(4)", "css:finder"],
+        ["xpath=//option[@value='Stomach Ache']", "xpath:attributes"],
+        ["xpath=//select[@id='conditions']/option[4]", "xpath:idRelative"],
+        ["xpath=//option[4]", "xpath:position"],
+        ["xpath=//option[contains(.,'Stomach Ache')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "f423caad-2e4e-49ce-a8c9-6263b5e348f2",
+      "comment": "",
+      "command": "click",
+      "target": "name=period",
+      "targets": [
+        ["name=period", "name"],
+        ["css=fieldset:nth-child(7) > input:nth-child(3)", "css:finder"],
+        ["xpath=//input[@name='period']", "xpath:attributes"],
+        ["xpath=//div[@id='research-study-data']/fieldset/fieldset[4]/input", "xpath:idRelative"],
+        ["xpath=//fieldset[4]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "7148c688-7d28-4a2d-ba3f-a84cb2bd5ed0",
+      "comment": "",
+      "command": "click",
+      "target": "css=fieldset:nth-child(7) > input:nth-child(5)",
+      "targets": [
+        ["css=fieldset:nth-child(7) > input:nth-child(5)", "css:finder"],
+        ["xpath=(//input[@name='period'])[2]", "xpath:attributes"],
+        ["xpath=//div[@id='research-study-data']/fieldset/fieldset[4]/input[2]", "xpath:idRelative"],
+        ["xpath=//fieldset[4]/input[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "34ff4471-a95f-43d2-b562-bf9acf119d45",
+      "comment": "",
+      "command": "click",
+      "target": "css=fieldset > input:nth-child(7)",
+      "targets": [
+        ["css=fieldset > input:nth-child(7)", "css:finder"],
+        ["xpath=(//input[@name='period'])[3]", "xpath:attributes"],
+        ["xpath=//div[@id='research-study-data']/fieldset/fieldset[4]/input[3]", "xpath:idRelative"],
+        ["xpath=//fieldset[4]/input[3]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "dc96b02d-636b-4cc5-9745-63cf83444907",
+      "comment": "",
+      "command": "click",
+      "target": "css=input:nth-child(9)",
+      "targets": [
+        ["css=input:nth-child(9)", "css:finder"],
+        ["xpath=(//input[@name='period'])[4]", "xpath:attributes"],
+        ["xpath=//div[@id='research-study-data']/fieldset/fieldset[4]/input[4]", "xpath:idRelative"],
+        ["xpath=//fieldset[4]/input[4]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4f8c688b-95f3-4979-bc08-5be7e2df859c",
+      "comment": "",
+      "command": "click",
+      "target": "css=#study > option:nth-child(1)",
+      "targets": [
+        ["css=#study > option:nth-child(1)", "css:finder"],
+        ["xpath=//option[@value='Long Term']", "xpath:attributes"],
+        ["xpath=//select[@id='study']/option", "xpath:idRelative"],
+        ["xpath=//fieldset[5]/select/option", "xpath:position"],
+        ["xpath=//option[contains(.,'Long Term')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "d73f9b05-c534-4c9f-a752-272c837c7e24",
+      "comment": "",
+      "command": "select",
+      "target": "id=study",
+      "targets": [],
+      "value": "label=Short Term"
+    }, {
+      "id": "51d16f4c-314b-4c16-b691-869719c710ef",
+      "comment": "",
+      "command": "click",
+      "target": "css=#study > option:nth-child(2)",
+      "targets": [
+        ["css=#study > option:nth-child(2)", "css:finder"],
+        ["xpath=//option[@value='Short Term']", "xpath:attributes"],
+        ["xpath=//select[@id='study']/option[2]", "xpath:idRelative"],
+        ["xpath=//fieldset[5]/select/option[2]", "xpath:position"],
+        ["xpath=//option[contains(.,'Short Term')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "3feb6e65-a64b-42e1-8681-4b40e9294a40",
+      "comment": "",
+      "command": "click",
+      "target": "name=firstFourDigits",
+      "targets": [
+        ["name=firstFourDigits", "name"],
+        ["css=.ID:nth-child(5)", "css:finder"],
+        ["xpath=//input[@name='firstFourDigits']", "xpath:attributes"],
+        ["xpath=//div[@id='research-study-data']/fieldset/fieldset[5]/input", "xpath:idRelative"],
+        ["xpath=//fieldset[5]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f0f81329-dec4-4bd0-95e4-fe8fbd4dc9c9",
+      "comment": "",
+      "command": "click",
+      "target": "name=secondFourDigits",
+      "targets": [
+        ["name=secondFourDigits", "name"],
+        ["css=.ID:nth-child(6)", "css:finder"],
+        ["xpath=//input[@name='secondFourDigits']", "xpath:attributes"],
+        ["xpath=//div[@id='research-study-data']/fieldset/fieldset[5]/input[2]", "xpath:idRelative"],
+        ["xpath=//fieldset[5]/input[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3b37d3fa-6dd0-4784-9ade-5264e6371162",
+      "comment": "",
+      "command": "click",
+      "target": "name=comments",
+      "targets": [
+        ["name=comments", "name"],
+        ["css=textarea", "css:finder"],
+        ["xpath=//textarea[@name='comments']", "xpath:attributes"],
+        ["xpath=//div[@id='research-study-data']/fieldset/fieldset[6]/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "9f309d0c-8c5c-4c86-9ce2-d569306c3c95",
+      "comment": "",
+      "command": "click",
+      "target": "name=submit",
+      "targets": [
+        ["name=submit", "name"],
+        ["css=fieldset > input:nth-child(2)", "css:finder"],
+        ["xpath=//input[@name='submit']", "xpath:attributes"],
+        ["xpath=//div[@id='research-study-data']/fieldset[2]/input[2]", "xpath:idRelative"],
+        ["xpath=//fieldset[2]/input[2]", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "700d6803-8920-4c43-b7f5-039be570b731",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["9987d86a-dcb5-4084-a2fa-21b507716a41"]
+  }],
+  "urls": ["http://vacancy.cs.umd.edu/"],
+  "plugins": []
+}

@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Test Application 8</title>
+    <link rel="stylesheet" href="./index7.css"/>
+    <script src="./index7.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1>Medical-Financial Application 8</h1>
+    </header>
+
+    <section>
+      <fieldset>
+        <legend>General Information</legend>
+        <!-- <form class="" action="/processForm" method="post"> -->
+        <form id="myForm">
+          First Name: <input type="text" id="firstName" name="firstname" value=""/> &nbsp;
+          Last Name: <input type="text" id="lastName" name="lastname" value=""/>
+          <br>
+          <br>
+          Address: <input type="text" id="address" name="address" value=""/> &nbsp;
+          City: <input type="text" id="city" name="city" value=""/> &nbsp;
+          State: <input type="text" id="state" name="state" value=""/> &nbsp;
+          Zip Code: <input type="text" id="zipcode" name="zipcode"/>
+          <br>
+          <br>
+          Phone: <input type="text" class="phone" name="phoneFirstPart" value="">-<input type="text" class="phone" name="phoneSecondPart" value="">-<input type="text" class="phone" name="phoneThirdPart" value=""> &nbsp;
+          Email: <input type="text" name="email" value="">
+
+      </fieldset>
+      <br>
+      <fieldset>
+          <input type="button" name="clear" value="Clear Form" onclick="return resetForm()">
+          <input type="button" name="next" value="Next" onclick="window.location.href = './index7b.html'">
+      </form>
+    <br>
+    </section>
+    <br>
+    <footer>
+        Test 8
+    </footer>
+</body>
+
+</html>

@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Test Application 4</title>
+    <link rel="stylesheet" href="./index3.css"/>
+    <script src="./index3.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1>Medical-Financial Application 4</h1>
+    </header>
+
+    <section>
+      <fieldset>
+        <legend>General Information</legend>
+        <!-- <form class="" action="/processForm" method="post"> -->
+        <form id="myForm">
+          First Name: <input type="text" id="firstName" name="firstname" value=""/> &nbsp;
+          Last Name: <input type="text" id="lastName" name="lastname" value=""/>
+          <br>
+          <br>
+          Address: <input type="text" id="address" name="address" value=""/> &nbsp;
+          City: <input type="text" id="city" name="city" value=""/> &nbsp;
+          State: <input type="text" id="state" name="state" value=""/> &nbsp;
+          Zip Code: <input type="text" id="zipcode" name="zipcode"/>
+          <br>
+          <br>
+          Phone: <input type="text" class="phone" name="phoneFirstPart" value="">-<input type="text" class="phone" name="phoneSecondPart" value="">-<input type="text" class="phone" name="phoneThirdPart" value=""> &nbsp;
+          Email: <input type="text" name="email" value="">
+      </fieldset>
+      <br>
+      <div id="research-study-data">
+        <fieldset>
+          <legend>Medical Information</legend>
+              <fieldset>
+                <legend>Age/Height/Weight</legend>
+                Age: <input type="input" name="age" value=""/> &nbsp;
+                Height: <input type="text" name="height-feet" value=""/> feet &nbsp;
+                <input type="input" name="height-inches" value=""/><label for="heightInches"> <em>inches</em></label> &nbsp;
+                Weight: <input type="input" name="weight" value=""/><label for="weight"> <em>pounds</em></label>
+              </fieldset>
+          <br>
+          <fieldset>
+            <legend>Conditions</legend>
+              What condition are you suffering from? <input type="text" name="condition" value=""/>
+              <br>
+              <br>
+              What medicine are you taking for your condition? <input type="text" name="medicine" value=""/>
+          </fieldset>
+          <br>
+          <fieldset>
+            <legend>Time Period</legend>
+            How long have you experienced any of the above conditions? <input type="input" name="time" value=""/>
+          </fieldset>
+          <br>
+          <fieldset>
+            <legend>Study Information</legend>
+              <label for="study">Which study are you taking part of?</label> <input type="input" name="study" value=""/>
+              <label for="studyID">Assigned Study ID:</label>
+              <input type="text" class="ID" name="firstFourDigits" value="">-<input type="text" class="ID" name="secondFourDigits" value="">
+          </fieldset>
+          <fieldset>
+            <legend>Additional Information (Comments)</legend>
+            <textarea name="comments" rows="5" cols="80"></textarea>
+          </fieldset>
+        </fieldset>
+        <fieldset>
+            <input type="button" name="clear" value="Clear Form" onclick="return resetForm()">
+            <input type="button" name="submit" value="Submit Information" onclick="return validate()">
+          </form>
+        </fieldset>
+      </div>
+
+    </section>
+
+    <footer>
+        Test 4
+    </footer>
+</body>
+
+</html>
