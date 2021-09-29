@@ -8,6 +8,9 @@ debugging = True
 
 def main():
     
+    if not os.path.exists("outputs"):
+        os.mkdir("outputs")
+
     side_file = sys.argv[1]
     data_file = sys.argv[2]
 
@@ -18,22 +21,18 @@ def main():
 
     data = json.load(open(data_file))
     derive(data)
-    print(data)
     unfilled = json.load(open(side_file))
     filled = fill(unfilled, data)
 
-    test_file = "outputs/a1.side"
+    test_file = "outputs/result.side"
     json.dump(filled, open(test_file, "w+"))
+    print("Dump json successfully!")
     
-
 
 def derive(native):
     derived = dict()
-
     derived['fullName'] = native['firstName'] + " " + native['lastName']
-    
     native.update(derived)
-
 
 def fill(unfilled, data):
     old_commands = unfilled['tests'][0]['commands']
@@ -44,25 +43,25 @@ def fill(unfilled, data):
     for command in old_commands:
         
         # Check if else mode. One-level (no nested if-else, if nested, need to implement stack)
-        if command['command'] == 'if':
-            if_mode = True
-        elif command['command'] == 'end':
-            if_mode = False
+        # if command['command'] == 'if':
+        #     if_mode = True
+        # elif command['command'] == 'end':
+        #     if_mode = False
 
         # Check and append the data
         if command['command'] == 'type':
             label = command['value']
             command['value'] = data[label]
             new_commands.append(command)
-        elif if_mode:
+        elif command['command'] == 'if':
             tag_label = command['target'] # get the tag value
             bool_label = data[tag_label] # Get the actual binary data in the user json file
             # put the binary data in
-            # if bool_label: 
-            #     command['target'] = "true" # Need to check primitive binary value of side script
-            # else:
-            #     command['target'] = "false" # Need to check primitive binary value of side script
-            command['target'] = bool_label
+            if bool_label: 
+                command['target'] = "true"
+            else:
+                command['target'] = "false"
+            command['value'] = "true"
             new_commands.append(command)
         else:
             new_commands.append(command)

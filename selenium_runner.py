@@ -18,8 +18,6 @@ if __name__ == "__main__":
         os.system("selenium-side-runner " + side_file_path)
     except Exception as ex:
         print(ex)
-        driver.quit()
         sys.exit(-1)
     else:
         print(" was successful.")
-        driver.quit()

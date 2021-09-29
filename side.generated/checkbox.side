@@ -1,15 +1,15 @@
 {
-  "id": "88a020e9-e067-4adc-ac8e-1c7bdd7d8a0e",
+  "id": "a537c4c2-b376-4f23-bf10-cf797f6c2ebc",
   "version": "2.0",
   "name": "a",
   "url": "https://hopeful-bartik-dccd71.netlify.app",
   "tests": [
     {
-      "id": "02277347-2969-4c5e-a6aa-509288aebdca",
+      "id": "898fb055-1745-428b-bfe6-a2b8a80ac01e",
       "name": "a",
       "commands": [
         {
-          "id": "50254170-2bfc-4bdb-804b-c5ca0a22334b",
+          "id": "6172703f-ffd4-4d66-817e-7e45f6072959",
           "comment": "",
           "command": "open",
           "target": "/index1.html",
@@ -17,15 +17,15 @@
           "value": ""
         },
         {
-          "id": "10e977d2-ca64-4900-8400-e2cf27fd3861",
+          "id": "033858d8-641a-4db4-a387-269fc3531778",
           "comment": "",
           "command": "setWindowSize",
-          "target": "550x701",
+          "target": "550x732",
           "targets": [],
           "value": ""
         },
         {
-          "id": "aa22bc9f-2e7f-47ea-8146-01b46a463730",
+          "id": "2c84ecc7-d2c0-4d9e-91c9-74b3616d47e4",
           "comment": "",
           "command": "click",
           "target": "id=firstName",
@@ -58,7 +58,7 @@
           "value": ""
         },
         {
-          "id": "e4f9f0de-a24b-457f-9e60-af155433590c",
+          "id": "4da0aca6-d46b-4e18-adec-30b033ed0e57",
           "comment": "",
           "command": "type",
           "target": "id=firstName",
@@ -66,7 +66,7 @@
           "value": "firstName"
         },
         {
-          "id": "ffa41161-680b-45ba-b9af-82b8a53a9de9",
+          "id": "70a0c868-2147-4860-8184-90823ff537b1",
           "comment": "",
           "command": "click",
           "target": "id=lastName",
@@ -99,7 +99,7 @@
           "value": ""
         },
         {
-          "id": "f1f2eaff-c041-4a1c-a493-91dd953028f1",
+          "id": "cb871383-6819-49ec-93f2-a2face71f37a",
           "comment": "",
           "command": "type",
           "target": "id=lastName",
@@ -107,44 +107,7 @@
           "value": "lastName"
         },
         {
-          "id": "a24a0f3d-79e8-4832-b8c0-29284d4f18a8",
-          "comment": "",
-          "command": "click",
-          "target": "name=phoneFirstPart",
-          "targets": [
-            [
-              "name=phoneFirstPart",
-              "name"
-            ],
-            [
-              "css=.phone:nth-child(5)",
-              "css:finder"
-            ],
-            [
-              "xpath=//input[@name='phoneFirstPart']",
-              "xpath:attributes"
-            ],
-            [
-              "xpath=//form[@id='myForm']/input[3]",
-              "xpath:idRelative"
-            ],
-            [
-              "xpath=//input[3]",
-              "xpath:position"
-            ]
-          ],
-          "value": ""
-        },
-        {
-          "id": "aa5fe442-6275-49e2-87b1-690c0c2044eb",
-          "comment": "",
-          "command": "type",
-          "target": "name=phoneFirstPart",
-          "targets": [],
-          "value": "phone"
-        },
-        {
-          "id": "55a2e4e1-7cc3-4f21-9988-c5884629584d",
+          "id": "910bb7d0-fc1b-45dc-855c-558c43f2e89f",
           "comment": "",
           "command": "click",
           "target": "name=email",
@@ -173,25 +136,97 @@
           "value": ""
         },
         {
-          "id": "8cf70663-35c7-407c-8941-8e1b50b473dd",
+          "id": "0baee770-6129-494f-a7c8-2d4b1cc8bc66",
           "comment": "",
           "command": "type",
           "target": "name=email",
           "targets": [],
           "value": "email"
+        },
+        {
+          "id": "458885cb-d4f6-4e34-8885-12139a5860a7",
+          "comment": "",
+          "command": "if",
+          "target": "hasInsurance",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "21de8651-647d-46b1-a705-006ec6287d8d",
+          "comment": "",
+          "command": "click",
+          "target": "name=highBloodPressure",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "e2370f22-27f9-40c8-aec0-8131d7f1830b",
+          "comment": "",
+          "command": "end",
+          "target": "",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "0b60fe4b-b92d-4088-b87a-6930cc377e30",
+          "comment": "",
+          "command": "if",
+          "target": "hasDeductiblesOrCoPayments",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "8b29a792-cf97-485b-8d95-6776464f08a8",
+          "comment": "",
+          "command": "click",
+          "target": "name=diabetes",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "f9ed2689-69c8-43ff-8a74-16fe94ef6438",
+          "comment": "",
+          "command": "end",
+          "target": "",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "af3349b4-b9d6-456e-b311-a06e472f842a",
+          "comment": "",
+          "command": "if",
+          "target": "hasPhysician",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "9f80af4b-9d08-41d0-897e-3a8282691877",
+          "comment": "",
+          "command": "click",
+          "target": "name=glaucoma",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "c52047e9-33c1-4376-b6bc-1e6d1a3b0a77",
+          "comment": "",
+          "command": "end",
+          "target": "",
+          "targets": [],
+          "value": ""
         }
       ]
     }
   ],
   "suites": [
     {
-      "id": "be3020e7-2550-4a2d-8a9e-cca967f32b6f",
+      "id": "b8fc5a99-de75-488d-bcf5-3bf0dbbfb48a",
       "name": "Default Suite",
       "persistSession": false,
       "parallel": false,
       "timeout": 300,
       "tests": [
-        "02277347-2969-4c5e-a6aa-509288aebdca"
+        "898fb055-1745-428b-bfe6-a2b8a80ac01e"
       ]
     }
   ],
