@@ -7,7 +7,7 @@ import json
 if __name__ == "__main__":
 
     print("Running a file...")
-    # side_file_path = sys.argv[1]
+    side_file_path = sys.argv[1]
     # generated_side = json.load(open(side_file_path))
 
     # assert generated_side["tests"][0]["commands"][0]["command"] == "open", print("Behavior not expected!")
