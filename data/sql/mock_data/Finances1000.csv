@@ -1,0 +1,1001 @@
+id,employmentStatus,currentEmployer,positionTitle,grossAnnualIncome,unemploymentPeriod,receivesFinancialAssistance,assistanceExplanation,receivesSocialSecurity,numberOfPeopleInHousehold
+1,0,NULL,NULL,NULL,More than 1 year,1,sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in,1,2
+2,0,NULL,NULL,NULL,Less than 6 months,1,accumsan tellus nisi eu orci mauris lacinia sapien quis libero,1,1
+3,1,Eidel,Business Systems Development Analyst,95117,NULL,1,donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices,0,8
+4,1,Zoomzone,Structural Analysis Engineer,41958,NULL,1,morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed,0,1
+5,0,NULL,NULL,NULL,More than 6 months,1,enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam,0,7
+6,1,Gigashots,Chemical Engineer,47257,NULL,0,NULL,1,5
+7,1,Jaxbean,Mechanical Systems Engineer,24256,NULL,1,ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus,1,5
+8,1,Agimba,Business Systems Development Analyst,33143,NULL,1,pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac,1,6
+9,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,3
+10,1,Yata,Research Associate,67423,NULL,1,eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat,1,7
+11,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,10
+12,0,NULL,NULL,NULL,More than 6 months,1,lacus morbi quis tortor id nulla ultrices aliquet maecenas leo,0,5
+13,1,Nlounge,Structural Analysis Engineer,63927,NULL,0,NULL,1,1
+14,1,Tagcat,Quality Engineer,92118,NULL,1,nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta,0,2
+15,1,Camimbo,Senior Quality Engineer,55774,NULL,1,ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus,1,6
+16,0,NULL,NULL,NULL,Less than 6 months,1,nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea,1,4
+17,0,NULL,NULL,NULL,More than 6 months,1,egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend,0,9
+18,0,NULL,NULL,NULL,More than 1 year,1,nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices,0,7
+19,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,5
+20,1,Zazio,Nuclear Power Engineer,80523,NULL,1,sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia,1,7
+21,1,Photolist,Health Coach IV,37237,NULL,1,suspendisse potenti in eleifend quam a odio in hac habitasse,1,4
+22,1,Dabfeed,Software Engineer IV,20761,NULL,1,mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus,0,4
+23,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,9
+24,0,NULL,NULL,NULL,More than 6 months,1,quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at,0,6
+25,1,Realbuzz,Chief Design Engineer,82750,NULL,1,sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis,1,4
+26,1,Roomm,Staff Accountant I,06127,NULL,1,tortor quis turpis sed ante vivamus tortor duis mattis egestas,0,4
+27,0,NULL,NULL,NULL,Less than 6 months,1,lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse,0,8
+28,1,Lajo,Senior Financial Analyst,40770,NULL,0,NULL,1,6
+29,1,Brightbean,Structural Engineer,47257,NULL,1,nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus,0,2
+30,1,Meejo,Operator,11612,NULL,0,NULL,0,10
+31,1,Livepath,Assistant Media Planner,37450,NULL,1,id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci,1,5
+32,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,10
+33,1,Skippad,VP Product Management,28445,NULL,0,NULL,1,6
+34,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,4
+35,0,NULL,NULL,NULL,More than 6 months,1,maecenas ut massa quis augue luctus tincidunt nulla mollis molestie,1,10
+36,1,Jetwire,Actuary,75670,NULL,1,eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla,1,10
+37,1,Photobean,Sales Associate,21804,NULL,1,aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in,0,2
+38,1,Flashspan,Health Coach IV,37834,NULL,0,NULL,1,3
+39,1,Teklist,Analog Circuit Design manager,76097,NULL,1,ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat,1,1
+40,0,NULL,NULL,NULL,More than 6 months,1,magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus,0,7
+41,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,2
+42,1,Mynte,Safety Technician IV,50987,NULL,0,NULL,0,10
+43,0,NULL,NULL,NULL,More than 1 year,1,ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla,1,7
+44,0,NULL,NULL,NULL,Less than 6 months,1,ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et,0,9
+45,1,Brightbean,Actuary,72785,NULL,0,NULL,1,10
+46,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,10
+47,1,Voolia,Clinical Specialist,49792,NULL,1,vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros,0,10
+48,1,Blogspan,Media Manager I,18319,NULL,0,NULL,0,1
+49,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,7
+50,1,Thoughtstorm,Help Desk Operator,70254,NULL,1,nullam orci pede venenatis non sodales sed tincidunt eu felis fusce,0,2
+51,1,Riffpedia,Assistant Media Planner,90346,NULL,0,NULL,0,5
+52,1,Blogtags,Research Associate,53698,NULL,1,mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer,0,6
+53,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,6
+54,0,NULL,NULL,NULL,More than 6 months,1,pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh,0,1
+55,1,Wordify,Assistant Professor,97697,NULL,1,commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor,0,1
+56,1,Devpulse,VP Marketing,88104,NULL,0,NULL,0,8
+57,0,NULL,NULL,NULL,More than 1 year,1,et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti,1,1
+58,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,7
+59,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,1
+60,1,InnoZ,Analog Circuit Design manager,23166,NULL,0,NULL,1,9
+61,0,NULL,NULL,NULL,More than 6 months,1,at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae,0,10
+62,0,NULL,NULL,NULL,Less than 6 months,1,elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor,0,6
+63,1,Livetube,Geological Engineer,86503,NULL,1,pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel,1,9
+64,0,NULL,NULL,NULL,More than 6 months,1,faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo,1,6
+65,1,Oloo,Budget/Accounting Analyst III,20567,NULL,0,NULL,0,6
+66,1,Twiyo,Nurse,13739,NULL,1,consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl,0,4
+67,1,Minyx,Software Consultant,42382,NULL,1,in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel,1,9
+68,1,Meedoo,Quality Engineer,59874,NULL,1,amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien,0,1
+69,0,NULL,NULL,NULL,More than 6 months,1,ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus,1,1
+70,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,10
+71,1,Vidoo,Senior Financial Analyst,96778,NULL,0,NULL,0,9
+72,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,6
+73,1,Skyndu,Information Systems Manager,94614,NULL,1,quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis,0,2
+74,1,Podcat,Recruiter,67910,NULL,1,facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at,1,8
+75,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,7
+76,1,Brainbox,Civil Engineer,64189,NULL,0,NULL,0,9
+77,1,Kayveo,Payment Adjustment Coordinator,85435,NULL,0,NULL,1,5
+78,1,Browsebug,Senior Sales Associate,89257,NULL,1,platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque,1,1
+79,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,8
+80,1,Flipbug,Health Coach IV,74022,NULL,0,NULL,0,10
+81,1,Avamm,Librarian,37086,NULL,1,cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui,0,4
+82,1,Innojam,Software Test Engineer II,27161,NULL,0,NULL,1,7
+83,1,Muxo,Geologist III,54451,NULL,0,NULL,0,10
+84,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,1
+85,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,10
+86,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,5
+87,1,Edgetag,Electrical Engineer,95601,NULL,1,odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus,1,3
+88,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,8
+89,1,Skinte,Tax Accountant,82050,NULL,0,NULL,1,7
+90,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,2
+91,1,Meedoo,Administrative Officer,59598,NULL,1,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis,0,10
+92,0,NULL,NULL,NULL,Less than 6 months,1,quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in,1,10
+93,1,Oloo,Programmer Analyst I,56285,NULL,1,convallis eget eleifend luctus ultricies eu nibh quisque id justo sit,1,2
+94,1,Feednation,Senior Editor,57028,NULL,1,sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui,0,5
+95,1,Yadel,Business Systems Development Analyst,06884,NULL,0,NULL,1,5
+96,1,Innojam,Nurse Practicioner,07359,NULL,0,NULL,1,7
+97,1,Bluezoom,Software Engineer I,02706,NULL,0,NULL,0,4
+98,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,5
+99,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,4
+100,1,Zooveo,General Manager,76654,NULL,1,sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis,1,10
+101,1,Wordpedia,Project Manager,52024,NULL,0,NULL,1,9
+102,0,NULL,NULL,NULL,More than 1 year,1,donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies,1,9
+103,0,NULL,NULL,NULL,More than 6 months,1,amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem,1,10
+104,0,NULL,NULL,NULL,Less than 6 months,1,curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor,1,6
+105,0,NULL,NULL,NULL,Less than 6 months,1,amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque,1,3
+106,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,10
+107,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,4
+108,1,Divanoodle,Senior Financial Analyst,02121,NULL,0,NULL,0,7
+109,1,Yodo,Administrative Officer,46265,NULL,1,nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa,1,3
+110,0,NULL,NULL,NULL,More than 1 year,1,tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus,0,3
+111,0,NULL,NULL,NULL,More than 6 months,1,erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero,1,5
+112,0,NULL,NULL,NULL,More than 1 year,1,sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac,0,1
+113,1,Fivebridge,Web Developer I,15340,NULL,0,NULL,0,4
+114,1,Gabcube,Clinical Specialist,32330,NULL,1,convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque,1,10
+115,1,Wikido,Professor,18642,NULL,1,vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit,1,6
+116,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,2
+117,1,Centizu,Assistant Professor,67734,NULL,0,NULL,1,7
+118,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,10
+119,0,NULL,NULL,NULL,More than 1 year,1,dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet,0,7
+120,0,NULL,NULL,NULL,More than 6 months,1,auctor sed tristique in tempus sit amet sem fusce consequat nulla,0,3
+121,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,7
+122,1,Oyondu,Senior Editor,67579,NULL,0,NULL,1,1
+123,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,4
+124,0,NULL,NULL,NULL,Less than 6 months,1,mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit,1,9
+125,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,5
+126,1,Meezzy,VP Product Management,93454,NULL,0,NULL,1,2
+127,1,Ozu,Structural Engineer,87469,NULL,0,NULL,1,1
+128,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,9
+129,0,NULL,NULL,NULL,More than 6 months,1,justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque,1,7
+130,1,Miboo,Assistant Media Planner,42999,NULL,1,in felis eu sapien cursus vestibulum proin eu mi nulla ac,0,6
+131,1,Eadel,VP Quality Control,09021,NULL,1,aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo,1,5
+132,0,NULL,NULL,NULL,More than 1 year,1,accumsan tellus nisi eu orci mauris lacinia sapien quis libero,0,5
+133,1,Voonix,Project Manager,50762,NULL,0,NULL,1,4
+134,1,Skimia,Clinical Specialist,33466,NULL,1,donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum,0,9
+135,0,NULL,NULL,NULL,Less than 6 months,1,at turpis donec posuere metus vitae ipsum aliquam non mauris morbi,0,1
+136,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,4
+137,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,6
+138,0,NULL,NULL,NULL,More than 6 months,1,lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst,1,1
+139,1,Yotz,Systems Administrator IV,60491,NULL,0,NULL,0,10
+140,1,Meembee,Research Associate,78361,NULL,1,eu felis fusce posuere felis sed lacus morbi sem mauris,0,4
+141,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,8
+142,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,4
+143,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,4
+144,1,Dabjam,Senior Sales Associate,48300,NULL,0,NULL,1,7
+145,0,NULL,NULL,NULL,More than 1 year,1,mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui,0,4
+146,1,Bluejam,Marketing Manager,11931,NULL,0,NULL,0,9
+147,0,NULL,NULL,NULL,More than 6 months,1,quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi,0,3
+148,1,Topiczoom,Sales Representative,22052,NULL,0,NULL,0,10
+149,1,Yoveo,Software Engineer I,37372,NULL,0,NULL,0,10
+150,0,NULL,NULL,NULL,Less than 6 months,1,a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem,1,6
+151,0,NULL,NULL,NULL,More than 6 months,1,magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus,1,9
+152,1,Avamm,Senior Quality Engineer,91239,NULL,0,NULL,1,9
+153,1,Divape,Registered Nurse,63666,NULL,1,quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus,1,10
+154,1,Zoomzone,Desktop Support Technician,60687,NULL,0,NULL,1,10
+155,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,9
+156,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,2
+157,1,Buzzbean,Office Assistant II,18491,NULL,1,tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci,1,2
+158,1,Realbridge,Tax Accountant,43228,NULL,1,et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit,0,8
+159,1,Fadeo,Nurse Practicioner,68937,NULL,0,NULL,0,10
+160,1,Zoomzone,Dental Hygienist,58852,NULL,0,NULL,1,2
+161,1,Edgeify,Senior Cost Accountant,66316,NULL,0,NULL,0,9
+162,1,Twitterwire,Sales Representative,34579,NULL,1,aliquam convallis nunc proin at turpis a pede posuere nonummy,1,7
+163,1,Gigabox,Analyst Programmer,84993,NULL,0,NULL,1,1
+164,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,10
+165,1,Trilia,Chemical Engineer,51306,NULL,1,eget semper rutrum nulla nunc purus phasellus in felis donec,1,1
+166,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,7
+167,1,Browsedrive,Business Systems Development Analyst,67638,NULL,1,nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio,0,1
+168,1,Vitz,Analyst Programmer,48245,NULL,0,NULL,1,3
+169,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,4
+170,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,1
+171,1,Buzzdog,Assistant Media Planner,85951,NULL,0,NULL,0,1
+172,0,NULL,NULL,NULL,More than 6 months,1,sed accumsan felis ut at dolor quis odio consequat varius integer ac leo,0,9
+173,1,Skynoodle,Mechanical Systems Engineer,13878,NULL,1,luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh,1,1
+174,1,Cogibox,Electrical Engineer,82593,NULL,0,NULL,1,2
+175,1,Trudoo,Staff Accountant IV,90471,NULL,0,NULL,1,7
+176,0,NULL,NULL,NULL,More than 1 year,1,nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet,0,7
+177,1,Ntags,Director of Sales,34480,NULL,0,NULL,1,3
+178,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,4
+179,1,Dablist,Mechanical Systems Engineer,33828,NULL,1,risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit,0,7
+180,1,Kwideo,Software Consultant,45618,NULL,0,NULL,1,2
+181,1,Kanoodle,Paralegal,44306,NULL,1,nisi eu orci mauris lacinia sapien quis libero nullam sit amet,1,1
+182,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,2
+183,0,NULL,NULL,NULL,More than 1 year,1,sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis,1,7
+184,1,Gigaclub,Research Associate,15210,NULL,0,NULL,0,2
+185,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,6
+186,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,10
+187,0,NULL,NULL,NULL,More than 1 year,1,tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl,1,2
+188,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,7
+189,1,Browsedrive,Editor,82951,NULL,1,primis in faucibus orci luctus et ultrices posuere cubilia curae,0,1
+190,1,Photofeed,Electrical Engineer,19488,NULL,0,NULL,0,4
+191,1,Skiba,Accounting Assistant I,09838,NULL,0,NULL,0,8
+192,0,NULL,NULL,NULL,Less than 6 months,1,id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus,1,9
+193,1,Yodo,Media Manager I,80148,NULL,0,NULL,0,7
+194,1,Browsetype,Business Systems Development Analyst,59992,NULL,0,NULL,0,8
+195,0,NULL,NULL,NULL,More than 1 year,1,est phasellus sit amet erat nulla tempus vivamus in felis eu sapien,0,3
+196,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,8
+197,0,NULL,NULL,NULL,Less than 6 months,1,ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur,1,4
+198,1,Tazz,GIS Technical Architect,73738,NULL,0,NULL,0,2
+199,0,NULL,NULL,NULL,More than 6 months,1,cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis,1,7
+200,1,Youfeed,Media Manager III,96522,NULL,1,in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo,1,9
+201,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,2
+202,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,9
+203,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,3
+204,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,3
+205,0,NULL,NULL,NULL,More than 6 months,1,etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id,1,8
+206,0,NULL,NULL,NULL,More than 1 year,1,nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst,0,7
+207,0,NULL,NULL,NULL,More than 1 year,1,metus vitae ipsum aliquam non mauris morbi non lectus aliquam,1,6
+208,1,Roombo,VP Quality Control,98134,NULL,0,NULL,1,9
+209,0,NULL,NULL,NULL,Less than 6 months,1,sed magna at nunc commodo placerat praesent blandit nam nulla,1,2
+210,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,1
+211,1,Browsetype,Design Engineer,41586,NULL,0,NULL,0,1
+212,1,Twitterwire,Research Assistant IV,27578,NULL,1,venenatis turpis enim blandit mi in porttitor pede justo eu massa donec,0,10
+213,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,7
+214,0,NULL,NULL,NULL,More than 6 months,1,parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient,0,1
+215,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,4
+216,1,Edgewire,Sales Representative,80726,NULL,1,turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien,1,10
+217,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,8
+218,1,Kwideo,Graphic Designer,02765,NULL,1,maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede,1,10
+219,1,Gigazoom,Project Manager,03065,NULL,0,NULL,0,3
+220,1,Edgetag,General Manager,59751,NULL,0,NULL,1,6
+221,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,9
+222,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,6
+223,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,5
+224,1,Eimbee,Civil Engineer,03790,NULL,0,NULL,0,9
+225,1,Gabtype,Human Resources Manager,85786,NULL,1,eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam,0,4
+226,1,Feednation,Systems Administrator I,82206,NULL,1,ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at,1,1
+227,1,Viva,Compensation Analyst,58755,NULL,0,NULL,0,4
+228,1,Meeveo,Tax Accountant,28438,NULL,1,nisi volutpat eleifend donec ut dolor morbi vel lectus in,1,1
+229,1,Skajo,Legal Assistant,12883,NULL,0,NULL,0,7
+230,1,Browsezoom,Registered Nurse,41614,NULL,1,augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id,1,7
+231,1,Quaxo,Registered Nurse,90197,NULL,1,pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non,0,2
+232,1,Realbuzz,Project Manager,53355,NULL,1,tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non,0,10
+233,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,8
+234,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,10
+235,1,Wikibox,Pharmacist,49009,NULL,1,elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam,1,1
+236,1,Topicware,Internal Auditor,86611,NULL,1,lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis,1,1
+237,1,Pixoboo,Accounting Assistant IV,70399,NULL,0,NULL,0,7
+238,0,NULL,NULL,NULL,More than 1 year,1,porttitor pede justo eu massa donec dapibus duis at velit,0,8
+239,1,Tagcat,Human Resources Manager,40710,NULL,1,sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus,0,7
+240,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,9
+241,0,NULL,NULL,NULL,More than 1 year,1,et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien,1,4
+242,1,Vitz,Financial Advisor,03727,NULL,0,NULL,1,1
+243,1,Jamia,Administrative Officer,15274,NULL,0,NULL,0,1
+244,1,Shufflebeat,Environmental Tech,07757,NULL,1,dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris,0,3
+245,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,9
+246,1,Cogidoo,VP Marketing,88414,NULL,0,NULL,1,1
+247,1,Gigaclub,Junior Executive,87102,NULL,0,NULL,0,6
+248,1,Browsecat,Project Manager,41164,NULL,0,NULL,0,6
+249,0,NULL,NULL,NULL,More than 1 year,1,nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum,1,2
+250,1,Bubblemix,Help Desk Technician,90025,NULL,0,NULL,0,4
+251,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,5
+252,1,Gabtype,Structural Analysis Engineer,75145,NULL,0,NULL,0,1
+253,1,Thoughtbeat,Senior Sales Associate,20148,NULL,1,cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus,1,1
+254,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,2
+255,1,Voomm,Automation Specialist II,68278,NULL,1,vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient,0,4
+256,1,Fliptune,Environmental Specialist,82344,NULL,0,NULL,0,3
+257,1,Mudo,Associate Professor,84696,NULL,1,massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies,0,10
+258,1,Katz,Paralegal,88180,NULL,1,pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst,0,9
+259,0,NULL,NULL,NULL,More than 6 months,1,enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh,1,2
+260,1,Yotz,Statistician III,37883,NULL,1,odio porttitor id consequat in consequat ut nulla sed accumsan felis,0,9
+261,0,NULL,NULL,NULL,More than 1 year,1,sit amet eleifend pede libero quis orci nullam molestie nibh,0,10
+262,0,NULL,NULL,NULL,More than 1 year,1,turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis,0,2
+263,0,NULL,NULL,NULL,Less than 6 months,1,nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim,0,10
+264,0,NULL,NULL,NULL,Less than 6 months,1,morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc,0,10
+265,1,Photospace,Quality Engineer,54676,NULL,0,NULL,1,1
+266,1,Cogibox,VP Quality Control,34124,NULL,0,NULL,0,3
+267,1,Shuffletag,GIS Technical Architect,11787,NULL,1,nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend,0,7
+268,0,NULL,NULL,NULL,More than 1 year,1,risus auctor sed tristique in tempus sit amet sem fusce consequat,0,5
+269,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,9
+270,1,Oloo,Automation Specialist III,38277,NULL,1,duis bibendum morbi non quam nec dui luctus rutrum nulla tellus,1,10
+271,0,NULL,NULL,NULL,More than 1 year,1,vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer,0,2
+272,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,1
+273,1,Dabvine,Social Worker,39070,NULL,0,NULL,1,1
+274,1,Feednation,Compensation Analyst,41559,NULL,1,nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci,1,9
+275,1,Jabberbean,Mechanical Systems Engineer,79859,NULL,0,NULL,0,1
+276,1,Youbridge,Accountant I,07892,NULL,1,cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus,1,3
+277,1,Flashdog,Business Systems Development Analyst,21028,NULL,1,convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate,0,3
+278,1,Skyvu,Chemical Engineer,21309,NULL,1,viverra diam vitae quam suspendisse potenti nullam porttitor lacus at,1,1
+279,1,Brainbox,Budget/Accounting Analyst III,47001,NULL,0,NULL,1,3
+280,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,7
+281,1,Riffpedia,Associate Professor,19476,NULL,0,NULL,1,3
+282,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,3
+283,1,Oba,Safety Technician II,03555,NULL,1,non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed,1,3
+284,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,7
+285,1,Chatterpoint,Accounting Assistant II,12445,NULL,1,scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean,1,1
+286,1,Photobug,Nurse Practicioner,87670,NULL,1,tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel,1,5
+287,1,Blogspan,Cost Accountant,88399,NULL,0,NULL,0,9
+288,1,Skilith,Account Representative IV,24213,NULL,0,NULL,0,8
+289,1,Ooba,Executive Secretary,11981,NULL,0,NULL,1,6
+290,0,NULL,NULL,NULL,More than 1 year,1,platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat,1,10
+291,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,8
+292,1,InnoZ,Office Assistant I,16076,NULL,0,NULL,1,10
+293,1,Leenti,Research Associate,10512,NULL,1,ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam,0,1
+294,1,Youfeed,Compensation Analyst,37859,NULL,0,NULL,0,6
+295,0,NULL,NULL,NULL,More than 6 months,1,euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at,0,9
+296,0,NULL,NULL,NULL,Less than 6 months,1,in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla,1,10
+297,1,Dynazzy,Marketing Assistant,61985,NULL,0,NULL,1,10
+298,0,NULL,NULL,NULL,More than 1 year,1,bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus,1,9
+299,1,Brainsphere,Data Coordiator,89344,NULL,0,NULL,1,4
+300,0,NULL,NULL,NULL,Less than 6 months,1,vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl,1,9
+301,0,NULL,NULL,NULL,More than 6 months,1,et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet,1,7
+302,1,Topicblab,Help Desk Technician,84096,NULL,0,NULL,0,3
+303,1,Flashpoint,Geological Engineer,98019,NULL,0,NULL,0,8
+304,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,5
+305,1,Npath,General Manager,16690,NULL,0,NULL,1,3
+306,1,Fiveclub,Information Systems Manager,51419,NULL,0,NULL,1,9
+307,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,1
+308,0,NULL,NULL,NULL,Less than 6 months,1,ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit,1,9
+309,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,9
+310,1,Browsedrive,Financial Analyst,41697,NULL,0,NULL,1,10
+311,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,9
+312,0,NULL,NULL,NULL,More than 1 year,1,dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus,0,2
+313,1,Tambee,Assistant Manager,62727,NULL,0,NULL,1,1
+314,1,Voomm,Assistant Professor,16767,NULL,0,NULL,0,7
+315,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,10
+316,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,2
+317,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,8
+318,1,Cogilith,Administrative Assistant IV,29848,NULL,1,quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices,1,5
+319,1,Eazzy,Senior Financial Analyst,27893,NULL,0,NULL,0,4
+320,1,Babbleset,Recruiter,09128,NULL,1,at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede,1,3
+321,1,Zoombeat,Teacher,75667,NULL,1,nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit,0,4
+322,0,NULL,NULL,NULL,Less than 6 months,1,lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum,0,3
+323,0,NULL,NULL,NULL,Less than 6 months,1,suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget,1,8
+324,1,Trudoo,Accounting Assistant II,04156,NULL,1,et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat,1,10
+325,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,1
+326,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,8
+327,0,NULL,NULL,NULL,Less than 6 months,1,augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere,0,5
+328,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,5
+329,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,8
+330,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,3
+331,0,NULL,NULL,NULL,Less than 6 months,1,eu sapien cursus vestibulum proin eu mi nulla ac enim in,0,1
+332,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,4
+333,1,Quinu,Desktop Support Technician,34751,NULL,0,NULL,0,10
+334,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,4
+335,1,Photospace,Technical Writer,96486,NULL,1,mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas,1,9
+336,1,Snaptags,Structural Analysis Engineer,78336,NULL,0,NULL,0,4
+337,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,7
+338,0,NULL,NULL,NULL,More than 1 year,1,ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci,1,2
+339,0,NULL,NULL,NULL,More than 6 months,1,aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus,0,5
+340,0,NULL,NULL,NULL,More than 1 year,1,orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum,1,4
+341,1,Jatri,Account Coordinator,70476,NULL,0,NULL,1,2
+342,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,1
+343,0,NULL,NULL,NULL,More than 1 year,1,hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer,1,6
+344,1,Quinu,Web Designer I,30146,NULL,0,NULL,0,5
+345,0,NULL,NULL,NULL,More than 1 year,1,ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper,1,3
+346,1,Mydeo,Quality Engineer,01252,NULL,1,diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante,0,1
+347,1,Oozz,Web Designer II,67060,NULL,1,erat eros viverra eget congue eget semper rutrum nulla nunc,0,9
+348,1,Rhynyx,Chemical Engineer,31222,NULL,0,NULL,1,10
+349,1,Blogtag,Accounting Assistant I,26960,NULL,1,sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in,1,6
+350,0,NULL,NULL,NULL,More than 1 year,1,lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo,0,3
+351,1,Kwimbee,Staff Scientist,03768,NULL,1,nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque,0,1
+352,1,Tanoodle,Senior Quality Engineer,78474,NULL,1,nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent,0,6
+353,1,Skyble,Assistant Manager,70422,NULL,1,aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam,0,3
+354,1,Realbridge,Account Executive,59487,NULL,0,NULL,0,10
+355,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,4
+356,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,10
+357,1,Feedspan,Nuclear Power Engineer,52379,NULL,0,NULL,1,9
+358,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,9
+359,1,Zoomdog,Assistant Media Planner,83818,NULL,0,NULL,0,1
+360,1,Skiptube,Director of Sales,13646,NULL,1,vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus,0,10
+361,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,4
+362,1,Eazzy,Nurse Practicioner,66694,NULL,0,NULL,1,4
+363,1,JumpXS,Database Administrator III,00386,NULL,1,tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat,0,9
+364,1,Voonte,Actuary,81111,NULL,1,erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus,0,8
+365,1,Zoomlounge,Social Worker,48695,NULL,0,NULL,0,2
+366,0,NULL,NULL,NULL,More than 1 year,1,ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu,0,9
+367,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,10
+368,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,3
+369,0,NULL,NULL,NULL,Less than 6 months,1,blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum,1,10
+370,1,Trunyx,Physical Therapy Assistant,89705,NULL,1,maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis,0,3
+371,1,Meevee,Web Developer I,29807,NULL,0,NULL,0,8
+372,0,NULL,NULL,NULL,Less than 6 months,1,felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis,0,5
+373,0,NULL,NULL,NULL,More than 1 year,1,velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat,0,10
+374,1,Browsebug,Senior Financial Analyst,52740,NULL,0,NULL,0,9
+375,0,NULL,NULL,NULL,More than 1 year,1,non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices,1,5
+376,1,Wikibox,Software Engineer III,39859,NULL,1,habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget,1,8
+377,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,10
+378,0,NULL,NULL,NULL,More than 6 months,1,aliquam convallis nunc proin at turpis a pede posuere nonummy,1,7
+379,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,1
+380,1,Wordpedia,Software Consultant,45866,NULL,1,leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla,0,7
+381,0,NULL,NULL,NULL,More than 1 year,1,in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue,0,8
+382,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,6
+383,1,Demimbu,Developer I,40855,NULL,0,NULL,1,5
+384,1,Jaxnation,Automation Specialist III,17769,NULL,1,venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus,0,7
+385,0,NULL,NULL,NULL,More than 6 months,1,at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit,0,10
+386,1,Wordtune,Civil Engineer,06690,NULL,0,NULL,0,9
+387,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,6
+388,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,9
+389,1,Omba,VP Sales,26523,NULL,1,imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing,1,1
+390,1,Dynava,Tax Accountant,53150,NULL,0,NULL,1,2
+391,0,NULL,NULL,NULL,More than 6 months,1,massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras,0,6
+392,0,NULL,NULL,NULL,More than 1 year,1,nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque,1,7
+393,1,Meevee,VP Accounting,44781,NULL,1,sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet,1,6
+394,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,7
+395,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,1
+396,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,8
+397,0,NULL,NULL,NULL,More than 6 months,1,ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem,0,7
+398,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,1
+399,0,NULL,NULL,NULL,Less than 6 months,1,felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel,1,1
+400,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,9
+401,0,NULL,NULL,NULL,Less than 6 months,1,sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas,1,3
+402,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,6
+403,1,Myworks,Assistant Media Planner,44898,NULL,1,eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus,0,9
+404,1,Jabbersphere,Financial Analyst,20272,NULL,1,convallis nunc proin at turpis a pede posuere nonummy integer non,1,7
+405,1,Skinder,Tax Accountant,81406,NULL,1,at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac,1,2
+406,1,Rhyzio,Research Assistant II,05224,NULL,1,lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien,1,3
+407,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,1
+408,0,NULL,NULL,NULL,Less than 6 months,1,orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi,0,6
+409,0,NULL,NULL,NULL,More than 1 year,1,luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien,0,9
+410,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,2
+411,1,Thoughtbeat,Compensation Analyst,05242,NULL,1,purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus,1,8
+412,0,NULL,NULL,NULL,More than 1 year,1,diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam,0,1
+413,1,Eadel,Compensation Analyst,62179,NULL,1,aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis,1,5
+414,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,1
+415,0,NULL,NULL,NULL,More than 6 months,1,volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in,0,9
+416,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,8
+417,0,NULL,NULL,NULL,More than 6 months,1,nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed,0,4
+418,1,Yodo,Electrical Engineer,96628,NULL,1,erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit,0,5
+419,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,8
+420,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,4
+421,0,NULL,NULL,NULL,Less than 6 months,1,purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor eu,0,1
+422,1,Realpoint,Safety Technician I,40841,NULL,1,eros viverra eget congue eget semper rutrum nulla nunc purus,1,2
+423,1,Thoughtstorm,VP Product Management,65946,NULL,0,NULL,0,5
+424,0,NULL,NULL,NULL,More than 1 year,1,mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur,1,1
+425,0,NULL,NULL,NULL,More than 1 year,1,cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec,1,5
+426,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,7
+427,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,2
+428,1,Thoughtblab,Paralegal,80944,NULL,1,lacinia sapien quis libero nullam sit amet turpis elementum ligula,1,5
+429,1,Fanoodle,Recruiting Manager,01256,NULL,0,NULL,0,1
+430,1,Feednation,Software Consultant,33850,NULL,1,magna ac consequat metus sapien ut nunc vestibulum ante ipsum,1,3
+431,1,Wordify,Staff Scientist,99644,NULL,1,nibh fusce lacus purus aliquet at feugiat non pretium quis,1,5
+432,0,NULL,NULL,NULL,More than 6 months,1,quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet,0,7
+433,0,NULL,NULL,NULL,More than 1 year,1,dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis,0,2
+434,0,NULL,NULL,NULL,More than 1 year,1,purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id,1,4
+435,1,Kare,Statistician II,52557,NULL,1,lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque,1,4
+436,1,Zoomlounge,Director of Sales,89780,NULL,0,NULL,1,2
+437,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,9
+438,0,NULL,NULL,NULL,Less than 6 months,1,posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet,1,9
+439,0,NULL,NULL,NULL,More than 1 year,1,etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus,0,4
+440,1,Devshare,Statistician IV,92182,NULL,1,id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl,0,8
+441,1,Gabspot,Senior Financial Analyst,56205,NULL,1,pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla,1,3
+442,1,Eamia,Clinical Specialist,01484,NULL,1,lectus suspendisse potenti in eleifend quam a odio in hac habitasse,1,5
+443,0,NULL,NULL,NULL,More than 6 months,1,sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede,1,10
+444,1,Bubblemix,Health Coach III,48800,NULL,0,NULL,1,1
+445,0,NULL,NULL,NULL,More than 1 year,1,praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id,1,9
+446,1,Centidel,Project Manager,85731,NULL,0,NULL,1,1
+447,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,9
+448,0,NULL,NULL,NULL,More than 6 months,1,justo eu massa donec dapibus duis at velit eu est congue,1,7
+449,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,9
+450,1,Vidoo,Editor,17777,NULL,1,dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer,1,10
+451,1,Yodoo,Quality Engineer,96201,NULL,0,NULL,0,6
+452,0,NULL,NULL,NULL,More than 1 year,1,fusce consequat nulla nisl nunc nisl duis bibendum felis sed,1,8
+453,1,Blogtags,Technical Writer,75954,NULL,0,NULL,1,5
+454,0,NULL,NULL,NULL,More than 1 year,1,morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis,0,8
+455,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,3
+456,1,DabZ,Biostatistician IV,63284,NULL,0,NULL,0,3
+457,0,NULL,NULL,NULL,Less than 6 months,1,semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci,1,3
+458,1,Voomm,Product Engineer,59008,NULL,1,phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie,0,7
+459,1,Tagchat,Staff Scientist,17729,NULL,1,nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce,1,9
+460,0,NULL,NULL,NULL,More than 1 year,1,vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean,1,9
+461,1,Jabbercube,Staff Scientist,18678,NULL,0,NULL,1,6
+462,1,Jayo,Chemical Engineer,33231,NULL,0,NULL,0,8
+463,1,Lazz,Operator,36834,NULL,1,id consequat in consequat ut nulla sed accumsan felis ut at dolor,1,8
+464,1,Mudo,Administrative Officer,64918,NULL,1,nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio,1,9
+465,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,10
+466,1,Skinte,Web Developer IV,85161,NULL,1,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae,0,3
+467,1,Eabox,General Manager,24331,NULL,0,NULL,0,2
+468,1,Oba,Administrative Assistant III,81131,NULL,0,NULL,1,3
+469,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,1
+470,0,NULL,NULL,NULL,More than 6 months,1,vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa,0,1
+471,1,Yamia,Research Assistant II,38514,NULL,1,sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at,0,1
+472,1,Bluejam,Assistant Manager,99487,NULL,0,NULL,0,4
+473,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,2
+474,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,9
+475,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,2
+476,1,Yodo,Chemical Engineer,75425,NULL,0,NULL,0,7
+477,1,Rhycero,Director of Sales,35241,NULL,0,NULL,1,5
+478,0,NULL,NULL,NULL,More than 6 months,1,ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae,0,7
+479,0,NULL,NULL,NULL,More than 6 months,1,volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper,0,10
+480,0,NULL,NULL,NULL,Less than 6 months,1,lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla,0,3
+481,1,Jabbersphere,Technical Writer,77703,NULL,1,venenatis non sodales sed tincidunt eu felis fusce posuere felis sed,0,5
+482,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,4
+483,0,NULL,NULL,NULL,More than 1 year,1,diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue,0,3
+484,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,7
+485,1,BlogXS,Junior Executive,79247,NULL,1,ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse,0,5
+486,1,Blogspan,Senior Sales Associate,53928,NULL,0,NULL,0,1
+487,1,Cogilith,Dental Hygienist,36689,NULL,1,quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh,1,9
+488,1,Photobean,Systems Administrator III,15356,NULL,1,orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis,1,4
+489,1,Browsetype,Tax Accountant,22961,NULL,0,NULL,1,1
+490,1,Jaxbean,Research Nurse,94359,NULL,1,posuere cubilia curae nulla dapibus dolor vel est donec odio,1,5
+491,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,4
+492,1,Ooba,Accounting Assistant IV,32130,NULL,1,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse,1,3
+493,1,Trilith,Payment Adjustment Coordinator,74368,NULL,1,felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut,1,7
+494,1,Devbug,Pharmacist,03560,NULL,0,NULL,1,9
+495,1,Buzzbean,VP Marketing,65678,NULL,0,NULL,1,2
+496,1,Flashdog,Editor,88140,NULL,1,amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis,1,10
+497,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,5
+498,1,Buzzshare,Librarian,01696,NULL,1,semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus,0,3
+499,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,10
+500,1,Jabbersphere,Design Engineer,37937,NULL,1,iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae,0,3
+501,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,4
+502,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,7
+503,1,Blognation,Engineer II,87162,NULL,0,NULL,1,4
+504,0,NULL,NULL,NULL,More than 1 year,1,praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget,1,7
+505,0,NULL,NULL,NULL,More than 1 year,1,tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique,1,7
+506,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,10
+507,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,5
+508,1,Roodel,Media Manager II,03041,NULL,1,lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus,1,7
+509,1,Babblestorm,Budget/Accounting Analyst IV,94553,NULL,0,NULL,1,5
+510,0,NULL,NULL,NULL,More than 6 months,1,id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac,0,5
+511,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,7
+512,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,5
+513,1,Agimba,Compensation Analyst,35792,NULL,0,NULL,1,3
+514,1,Buzzster,VP Accounting,13067,NULL,0,NULL,1,9
+515,0,NULL,NULL,NULL,Less than 6 months,1,molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci,1,3
+516,1,Zava,Sales Representative,36926,NULL,0,NULL,1,2
+517,1,Voolith,VP Quality Control,28604,NULL,0,NULL,0,4
+518,0,NULL,NULL,NULL,Less than 6 months,1,nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie,0,9
+519,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,2
+520,1,Kwinu,Actuary,17838,NULL,1,potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt,1,7
+521,0,NULL,NULL,NULL,Less than 6 months,1,nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor,1,5
+522,0,NULL,NULL,NULL,Less than 6 months,1,augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea,0,8
+523,1,JumpXS,Recruiter,09814,NULL,0,NULL,1,10
+524,1,Wikivu,Nurse,84675,NULL,0,NULL,0,3
+525,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,9
+526,1,Eazzy,Programmer Analyst IV,01516,NULL,0,NULL,1,9
+527,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,8
+528,1,Yakidoo,Senior Cost Accountant,16892,NULL,0,NULL,0,7
+529,1,Voonder,Graphic Designer,61793,NULL,1,consequat morbi a ipsum integer a nibh in quis justo maecenas,1,7
+530,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,6
+531,1,Twiyo,Internal Auditor,53811,NULL,1,curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus,1,7
+532,1,Tazzy,Recruiter,30126,NULL,1,in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus,0,7
+533,0,NULL,NULL,NULL,Less than 6 months,1,fermentum donec ut mauris eget massa tempor convallis nulla neque libero,0,7
+534,1,Wordtune,Project Manager,49693,NULL,0,NULL,1,7
+535,0,NULL,NULL,NULL,More than 6 months,1,ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate,1,8
+536,1,Zava,Electrical Engineer,84682,NULL,1,vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget,0,8
+537,1,Linkbuzz,Internal Auditor,44705,NULL,0,NULL,1,9
+538,1,Linklinks,Sales Representative,57164,NULL,1,odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum,1,4
+539,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,6
+540,1,Latz,Structural Analysis Engineer,96655,NULL,1,tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam,1,3
+541,1,Rhyloo,Information Systems Manager,01247,NULL,1,dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris,0,7
+542,0,NULL,NULL,NULL,Less than 6 months,1,dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus,1,2
+543,1,Yata,Structural Engineer,33683,NULL,0,NULL,1,6
+544,0,NULL,NULL,NULL,More than 1 year,1,libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in,1,9
+545,1,Youspan,Product Engineer,33228,NULL,1,viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit,0,6
+546,0,NULL,NULL,NULL,More than 6 months,1,maecenas ut massa quis augue luctus tincidunt nulla mollis molestie,0,4
+547,1,Topiclounge,Help Desk Operator,41623,NULL,1,nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu,0,1
+548,0,NULL,NULL,NULL,More than 1 year,1,luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam,0,3
+549,1,Skyvu,Sales Associate,15064,NULL,0,NULL,0,10
+550,1,Jaxbean,Office Assistant III,28778,NULL,1,lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi,0,2
+551,1,Jayo,GIS Technical Architect,14401,NULL,1,sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis,1,1
+552,1,Brainbox,Senior Sales Associate,32354,NULL,0,NULL,0,9
+553,1,Yozio,Sales Associate,94727,NULL,0,NULL,1,6
+554,1,Quatz,Help Desk Technician,91550,NULL,0,NULL,1,7
+555,1,Tagpad,Financial Advisor,43113,NULL,0,NULL,1,3
+556,1,Dablist,Chief Design Engineer,37090,NULL,0,NULL,1,3
+557,0,NULL,NULL,NULL,More than 1 year,1,ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla,1,9
+558,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,9
+559,1,Tazzy,Research Associate,60348,NULL,1,lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare,1,10
+560,0,NULL,NULL,NULL,More than 6 months,1,justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices,0,9
+561,1,Ozu,Registered Nurse,31805,NULL,0,NULL,1,8
+562,1,Brainbox,Environmental Specialist,41947,NULL,1,vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis,0,8
+563,1,Realcube,Business Systems Development Analyst,50461,NULL,0,NULL,1,7
+564,1,Twimm,Paralegal,21956,NULL,0,NULL,0,10
+565,1,Rhybox,Dental Hygienist,93257,NULL,1,habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius,1,5
+566,0,NULL,NULL,NULL,More than 6 months,1,morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed,1,5
+567,1,Gigazoom,Pharmacist,91505,NULL,1,nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim,1,10
+568,1,Dabshots,Paralegal,05396,NULL,1,malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim,1,3
+569,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,9
+570,1,Skaboo,Software Consultant,61821,NULL,1,lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh,0,2
+571,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,10
+572,1,Flashdog,Product Engineer,73433,NULL,0,NULL,0,10
+573,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,7
+574,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,10
+575,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,7
+576,1,Photobean,GIS Technical Architect,24777,NULL,0,NULL,0,2
+577,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,8
+578,1,Zooxo,Geologist II,69982,NULL,1,diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris,0,1
+579,1,Yadel,Staff Scientist,56861,NULL,1,risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie,1,6
+580,1,Dynazzy,VP Sales,01609,NULL,0,NULL,0,2
+581,1,Tavu,Account Executive,72300,NULL,0,NULL,0,5
+582,1,Fivechat,Staff Scientist,23306,NULL,1,elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus,1,4
+583,0,NULL,NULL,NULL,Less than 6 months,1,habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut,0,8
+584,1,Yakitri,Financial Advisor,74959,NULL,0,NULL,0,8
+585,0,NULL,NULL,NULL,Less than 6 months,1,lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis,1,9
+586,0,NULL,NULL,NULL,Less than 6 months,1,justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula,0,9
+587,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,3
+588,0,NULL,NULL,NULL,Less than 6 months,1,maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus,0,9
+589,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,10
+590,1,Wikibox,Account Executive,61022,NULL,0,NULL,0,5
+591,1,Mydeo,Community Outreach Specialist,52923,NULL,0,NULL,1,8
+592,0,NULL,NULL,NULL,More than 6 months,1,diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue,0,8
+593,1,Midel,Speech Pathologist,22126,NULL,1,congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien,1,8
+594,0,NULL,NULL,NULL,Less than 6 months,1,proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue,0,8
+595,1,Oyonder,Media Manager I,50506,NULL,0,NULL,1,8
+596,1,Livefish,Structural Engineer,65886,NULL,1,primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin,1,2
+597,1,Riffwire,Chief Design Engineer,73792,NULL,1,sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id,1,9
+598,1,Skilith,Senior Financial Analyst,03973,NULL,1,cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus,0,9
+599,1,Zoovu,Tax Accountant,80631,NULL,1,fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat,1,2
+600,0,NULL,NULL,NULL,More than 1 year,1,at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu,0,2
+601,0,NULL,NULL,NULL,Less than 6 months,1,urna ut tellus nulla ut erat id mauris vulputate elementum nullam,1,7
+602,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,2
+603,1,Edgeify,Environmental Tech,63697,NULL,0,NULL,1,5
+604,1,Realbuzz,VP Product Management,05542,NULL,1,nulla nunc purus phasellus in felis donec semper sapien a,0,1
+605,1,Livepath,Research Assistant III,31538,NULL,0,NULL,0,6
+606,1,Youfeed,Senior Quality Engineer,41986,NULL,1,lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed,1,3
+607,0,NULL,NULL,NULL,More than 6 months,1,vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum,1,10
+608,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,5
+609,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,7
+610,1,Meevee,Programmer Analyst III,46742,NULL,1,amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac,1,4
+611,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,3
+612,1,Ozu,Physical Therapy Assistant,33054,NULL,0,NULL,0,3
+613,0,NULL,NULL,NULL,More than 6 months,1,eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna,1,2
+614,1,Midel,Engineer IV,14675,NULL,0,NULL,0,5
+615,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,2
+616,1,Aivee,Web Developer IV,98268,NULL,1,et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a,0,10
+617,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,10
+618,1,Thoughtstorm,Senior Financial Analyst,48702,NULL,0,NULL,1,6
+619,0,NULL,NULL,NULL,More than 1 year,1,primis in faucibus orci luctus et ultrices posuere cubilia curae duis,0,1
+620,0,NULL,NULL,NULL,Less than 6 months,1,quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in,1,2
+621,1,Edgetag,Senior Quality Engineer,37630,NULL,0,NULL,1,10
+622,0,NULL,NULL,NULL,More than 6 months,1,cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel,1,10
+623,1,Mydeo,Engineer II,22908,NULL,1,vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis,0,3
+624,0,NULL,NULL,NULL,More than 6 months,1,morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor,1,10
+625,1,Oyope,Human Resources Manager,16213,NULL,0,NULL,0,3
+626,0,NULL,NULL,NULL,Less than 6 months,1,ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit,0,7
+627,1,Jabbertype,Recruiting Manager,31185,NULL,1,non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem,0,2
+628,1,Brainlounge,Legal Assistant,74086,NULL,0,NULL,0,4
+629,0,NULL,NULL,NULL,More than 6 months,1,quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio,1,7
+630,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,2
+631,1,Trupe,Nurse Practicioner,76982,NULL,0,NULL,0,4
+632,1,Talane,Internal Auditor,96907,NULL,1,vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi,1,9
+633,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,1
+634,1,Skinix,VP Quality Control,85647,NULL,1,posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna,1,9
+635,0,NULL,NULL,NULL,More than 1 year,1,sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis,1,6
+636,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,8
+637,0,NULL,NULL,NULL,More than 1 year,1,faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit,1,7
+638,0,NULL,NULL,NULL,Less than 6 months,1,ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis,1,8
+639,0,NULL,NULL,NULL,More than 1 year,1,vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris,0,7
+640,1,Browsedrive,Senior Cost Accountant,38508,NULL,0,NULL,0,10
+641,1,Realcube,Mechanical Systems Engineer,60173,NULL,1,sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere,0,5
+642,1,Blogtags,Research Nurse,50196,NULL,1,dictumst etiam faucibus cursus urna ut tellus nulla ut erat id,0,5
+643,1,Browsezoom,Help Desk Operator,42843,NULL,1,diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam,1,10
+644,1,Skilith,Community Outreach Specialist,18140,NULL,1,purus phasellus in felis donec semper sapien a libero nam dui proin leo odio,0,6
+645,1,Gigazoom,Compensation Analyst,63178,NULL,0,NULL,1,9
+646,0,NULL,NULL,NULL,More than 1 year,1,eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor,1,5
+647,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,3
+648,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,4
+649,0,NULL,NULL,NULL,More than 1 year,1,in faucibus orci luctus et ultrices posuere cubilia curae donec,1,4
+650,1,Vinder,Recruiter,31311,NULL,0,NULL,1,1
+651,1,Youtags,Assistant Media Planner,77355,NULL,0,NULL,1,2
+652,1,Buzzbean,Professor,27770,NULL,0,NULL,0,6
+653,1,Yombu,Health Coach II,86517,NULL,1,amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus,0,6
+654,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,8
+655,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,4
+656,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,6
+657,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,10
+658,1,Thoughtmix,Product Engineer,81240,NULL,1,fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus,1,4
+659,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,10
+660,1,Kare,Assistant Professor,95740,NULL,0,NULL,0,2
+661,1,Brainsphere,Programmer III,96275,NULL,0,NULL,0,2
+662,1,Linktype,Chemical Engineer,58248,NULL,1,imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed,0,7
+663,1,Thoughtstorm,VP Product Management,30711,NULL,0,NULL,1,2
+664,1,Flashset,Office Assistant III,46213,NULL,0,NULL,0,6
+665,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,3
+666,1,Photobean,Software Consultant,77841,NULL,0,NULL,1,7
+667,0,NULL,NULL,NULL,More than 1 year,1,penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis,1,7
+668,0,NULL,NULL,NULL,More than 6 months,1,lacus morbi quis tortor id nulla ultrices aliquet maecenas leo,0,8
+669,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,8
+670,1,Voonyx,Accountant II,55893,NULL,1,semper porta volutpat quam pede lobortis ligula sit amet eleifend pede,0,4
+671,1,Mydo,Administrative Officer,67179,NULL,0,NULL,1,3
+672,1,Zazio,Occupational Therapist,23637,NULL,1,amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus,0,2
+673,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,6
+674,1,Linktype,Dental Hygienist,46005,NULL,1,praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante,0,7
+675,0,NULL,NULL,NULL,Less than 6 months,1,at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea,0,6
+676,0,NULL,NULL,NULL,Less than 6 months,1,bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis,0,4
+677,0,NULL,NULL,NULL,More than 1 year,1,pede justo eu massa donec dapibus duis at velit eu est congue,1,2
+678,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,3
+679,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,3
+680,1,Demizz,Accounting Assistant III,34145,NULL,1,lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu,1,6
+681,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,10
+682,1,Yakijo,Physical Therapy Assistant,49879,NULL,1,duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis,1,4
+683,1,Voomm,Environmental Tech,23475,NULL,1,ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam,1,9
+684,1,Avamm,Tax Accountant,35836,NULL,1,morbi odio odio elementum eu interdum eu tincidunt in leo,0,7
+685,0,NULL,NULL,NULL,More than 6 months,1,in congue etiam justo etiam pretium iaculis justo in hac,0,9
+686,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,4
+687,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,8
+688,0,NULL,NULL,NULL,Less than 6 months,1,leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer,0,7
+689,1,Zoovu,Geological Engineer,52043,NULL,0,NULL,1,3
+690,1,Youspan,Sales Representative,39876,NULL,0,NULL,0,8
+691,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,3
+692,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,2
+693,1,Eamia,Senior Cost Accountant,09671,NULL,0,NULL,0,10
+694,1,Devpulse,Food Chemist,23126,NULL,1,leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio,1,10
+695,1,Jabberstorm,Product Engineer,66469,NULL,0,NULL,0,8
+696,1,Voonder,Librarian,45970,NULL,1,mattis nibh ligula nec sem duis aliquam convallis nunc proin,1,7
+697,1,Devbug,Chief Design Engineer,41780,NULL,0,NULL,1,6
+698,1,Jabbersphere,Technical Writer,73535,NULL,0,NULL,1,10
+699,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,4
+700,1,Topdrive,Human Resources Assistant III,20348,NULL,0,NULL,1,1
+701,1,Rhynyx,Senior Cost Accountant,71542,NULL,1,duis at velit eu est congue elementum in hac habitasse platea dictumst,1,4
+702,0,NULL,NULL,NULL,More than 6 months,1,eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis,0,5
+703,1,Oozz,Senior Editor,64658,NULL,0,NULL,1,1
+704,1,Mynte,Chemical Engineer,76102,NULL,1,a pede posuere nonummy integer non velit donec diam neque vestibulum eget,1,6
+705,1,Mymm,Librarian,65974,NULL,1,nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor eu,0,5
+706,0,NULL,NULL,NULL,More than 1 year,1,elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at,1,5
+707,1,Quinu,Teacher,60754,NULL,0,NULL,0,9
+708,0,NULL,NULL,NULL,More than 1 year,1,non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu,0,6
+709,1,Centidel,Office Assistant IV,87591,NULL,0,NULL,0,4
+710,0,NULL,NULL,NULL,More than 1 year,1,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat,1,10
+711,0,NULL,NULL,NULL,More than 1 year,1,luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum,1,2
+712,1,Skyvu,Administrative Assistant II,60005,NULL,1,sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus,0,1
+713,1,Centidel,Human Resources Assistant IV,53481,NULL,0,NULL,1,6
+714,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,8
+715,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,8
+716,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,7
+717,1,Topicstorm,Human Resources Assistant III,78213,NULL,0,NULL,0,5
+718,1,Devbug,Operator,57863,NULL,0,NULL,1,3
+719,1,Livetube,Help Desk Operator,50358,NULL,1,id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus,1,8
+720,1,Abatz,Marketing Manager,82973,NULL,0,NULL,0,1
+721,1,Quinu,Clinical Specialist,31246,NULL,1,consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius,0,3
+722,1,Skaboo,Executive Secretary,56809,NULL,1,ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci,0,10
+723,1,Eadel,Biostatistician III,59403,NULL,0,NULL,0,6
+724,1,Talane,Community Outreach Specialist,34135,NULL,1,justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer,0,1
+725,1,Buzzster,Associate Professor,06951,NULL,0,NULL,1,2
+726,1,Kwilith,Professor,34386,NULL,1,pede justo eu massa donec dapibus duis at velit eu est congue elementum in,1,10
+727,0,NULL,NULL,NULL,Less than 6 months,1,sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras,0,5
+728,0,NULL,NULL,NULL,Less than 6 months,1,libero nam dui proin leo odio porttitor id consequat in consequat ut,1,10
+729,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,4
+730,1,Thoughtbeat,Administrative Assistant III,21042,NULL,0,NULL,0,3
+731,0,NULL,NULL,NULL,More than 1 year,1,blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices,1,7
+732,1,Brainbox,Physical Therapy Assistant,41762,NULL,1,rutrum nulla tellus in sagittis dui vel nisl duis ac,1,3
+733,1,Fanoodle,Developer III,02465,NULL,1,non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla,0,6
+734,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,5
+735,0,NULL,NULL,NULL,More than 6 months,1,vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus,0,2
+736,1,Zooveo,GIS Technical Architect,69317,NULL,0,NULL,0,5
+737,1,Meedoo,Internal Auditor,16145,NULL,0,NULL,1,10
+738,1,Babbleopia,Recruiter,02118,NULL,1,lacus purus aliquet at feugiat non pretium quis lectus suspendisse,0,5
+739,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,6
+740,0,NULL,NULL,NULL,More than 1 year,1,sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar,1,8
+741,1,Rooxo,Human Resources Assistant I,74404,NULL,1,morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed,0,10
+742,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,2
+743,1,Layo,Assistant Media Planner,01895,NULL,0,NULL,1,1
+744,1,Zoomzone,Assistant Professor,14309,NULL,1,a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in,1,8
+745,0,NULL,NULL,NULL,Less than 6 months,1,orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor,0,6
+746,0,NULL,NULL,NULL,More than 1 year,1,quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa,1,7
+747,1,Mydeo,Nuclear Power Engineer,48621,NULL,0,NULL,1,8
+748,1,Twitterbeat,Senior Developer,43557,NULL,1,eleifend quam a odio in hac habitasse platea dictumst maecenas ut,1,6
+749,0,NULL,NULL,NULL,More than 1 year,1,at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum,1,3
+750,1,Wordtune,Environmental Tech,67459,NULL,1,dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo,0,3
+751,1,Avamba,Senior Sales Associate,98551,NULL,0,NULL,1,4
+752,0,NULL,NULL,NULL,More than 6 months,1,tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis,1,10
+753,1,Wordware,Quality Engineer,27417,NULL,1,et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus,1,9
+754,0,NULL,NULL,NULL,More than 1 year,1,curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi,1,6
+755,1,Kaymbo,Associate Professor,91087,NULL,1,neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet,1,9
+756,1,Shufflester,Nuclear Power Engineer,77679,NULL,1,lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien,0,3
+757,0,NULL,NULL,NULL,Less than 6 months,1,sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget,1,5
+758,1,Wordtune,Systems Administrator IV,29374,NULL,1,quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae,1,2
+759,0,NULL,NULL,NULL,More than 1 year,1,dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien,0,6
+760,0,NULL,NULL,NULL,More than 1 year,1,enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus,0,6
+761,0,NULL,NULL,NULL,Less than 6 months,1,lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer,0,3
+762,1,Brainlounge,Assistant Manager,96008,NULL,0,NULL,0,9
+763,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,8
+764,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,2
+765,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,1
+766,1,Zoomcast,Director of Sales,55275,NULL,0,NULL,0,6
+767,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,2
+768,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,6
+769,1,Cogilith,Marketing Manager,93009,NULL,1,sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis,0,4
+770,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,1
+771,1,Trupe,Software Consultant,91797,NULL,1,est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat,0,2
+772,1,Twitterwire,Structural Engineer,11742,NULL,0,NULL,1,6
+773,1,Mynte,Recruiter,35811,NULL,1,luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus,0,6
+774,1,Quatz,Electrical Engineer,14922,NULL,1,praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus,0,8
+775,1,Devcast,Legal Assistant,28654,NULL,0,NULL,1,4
+776,0,NULL,NULL,NULL,More than 1 year,1,nisi venenatis tristique fusce congue diam id ornare imperdiet sapien,1,3
+777,1,Vitz,Automation Specialist III,43574,NULL,0,NULL,0,9
+778,1,Vimbo,Biostatistician I,98124,NULL,1,eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla,1,10
+779,0,NULL,NULL,NULL,More than 6 months,1,nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer,0,9
+780,0,NULL,NULL,NULL,Less than 6 months,1,dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet,0,5
+781,1,Quaxo,Recruiting Manager,64588,NULL,0,NULL,0,10
+782,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,1
+783,1,Roodel,Marketing Manager,12388,NULL,1,justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan,1,4
+784,1,Aimbu,Human Resources Assistant I,69013,NULL,0,NULL,0,3
+785,1,Gigaclub,Legal Assistant,83923,NULL,1,posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor,1,3
+786,0,NULL,NULL,NULL,Less than 6 months,1,neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl,1,10
+787,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,4
+788,1,Twimm,Sales Representative,27963,NULL,0,NULL,0,9
+789,1,Jabbersphere,Senior Sales Associate,21154,NULL,0,NULL,0,2
+790,0,NULL,NULL,NULL,Less than 6 months,1,vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci,0,2
+791,1,Roodel,Quality Control Specialist,16500,NULL,1,at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis,1,5
+792,0,NULL,NULL,NULL,More than 6 months,1,suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla,1,9
+793,0,NULL,NULL,NULL,More than 1 year,1,sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc,1,7
+794,1,Thoughtmix,Staff Accountant IV,00962,NULL,1,a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel,0,2
+795,0,NULL,NULL,NULL,Less than 6 months,1,turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in,0,7
+796,0,NULL,NULL,NULL,More than 6 months,1,pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor,0,7
+797,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,1
+798,1,Vipe,Recruiter,20683,NULL,0,NULL,0,1
+799,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,1
+800,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,5
+801,0,NULL,NULL,NULL,More than 6 months,1,et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien,0,3
+802,1,Edgeify,Biostatistician III,65305,NULL,0,NULL,0,2
+803,1,Quatz,Assistant Media Planner,56401,NULL,0,NULL,1,7
+804,1,Rhyloo,Assistant Professor,57410,NULL,1,tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in,0,5
+805,1,Oyondu,Civil Engineer,59493,NULL,0,NULL,1,2
+806,1,Realblab,Marketing Manager,57404,NULL,0,NULL,1,8
+807,0,NULL,NULL,NULL,Less than 6 months,1,at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros,0,1
+808,1,Tagopia,Help Desk Technician,37028,NULL,1,semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in,1,4
+809,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,3
+810,1,Mydeo,Human Resources Manager,69778,NULL,0,NULL,0,2
+811,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,3
+812,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,1
+813,1,Mynte,Senior Financial Analyst,11642,NULL,0,NULL,1,4
+814,0,NULL,NULL,NULL,More than 1 year,1,platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante,1,3
+815,1,Vipe,Librarian,31066,NULL,0,NULL,1,1
+816,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,7
+817,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,6
+818,1,Aimbu,Quality Control Specialist,65099,NULL,1,dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet,1,2
+819,0,NULL,NULL,NULL,More than 1 year,1,lorem ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent,1,6
+820,1,Devshare,Research Associate,59788,NULL,1,mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel,0,1
+821,0,NULL,NULL,NULL,More than 6 months,1,in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate,1,7
+822,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,5
+823,1,Quimba,Environmental Specialist,28518,NULL,0,NULL,1,3
+824,0,NULL,NULL,NULL,Less than 6 months,1,nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti,0,6
+825,1,Photobean,Assistant Professor,75967,NULL,0,NULL,0,9
+826,1,Cogilith,Professor,10633,NULL,1,vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis,0,9
+827,1,Trilith,Clinical Specialist,22222,NULL,1,nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis,0,2
+828,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,8
+829,0,NULL,NULL,NULL,Less than 6 months,1,semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero,1,3
+830,1,Feedfire,Speech Pathologist,78809,NULL,1,a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie,0,5
+831,1,Dabshots,Accountant I,96028,NULL,0,NULL,0,2
+832,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,1
+833,0,NULL,NULL,NULL,More than 6 months,1,phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate,0,7
+834,1,Kayveo,Computer Systems Analyst II,99532,NULL,1,erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam,1,5
+835,1,Twitterwire,Research Assistant I,45938,NULL,0,NULL,0,2
+836,1,Yombu,Financial Advisor,52911,NULL,0,NULL,0,8
+837,1,Skyndu,Office Assistant IV,33533,NULL,1,ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris,1,7
+838,1,Lazz,Paralegal,13157,NULL,1,justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros,0,5
+839,1,Zooxo,Help Desk Technician,53227,NULL,0,NULL,1,4
+840,0,NULL,NULL,NULL,Less than 6 months,1,non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac,0,9
+841,1,Myworks,Marketing Assistant,07422,NULL,0,NULL,1,6
+842,0,NULL,NULL,NULL,More than 6 months,1,luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur,0,10
+843,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,1
+844,0,NULL,NULL,NULL,More than 1 year,1,ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis,0,7
+845,1,Livetube,Registered Nurse,87802,NULL,0,NULL,0,3
+846,0,NULL,NULL,NULL,More than 1 year,1,nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti,0,9
+847,1,Ntags,Help Desk Operator,60777,NULL,0,NULL,0,10
+848,1,Twitterbeat,Desktop Support Technician,63958,NULL,0,NULL,1,4
+849,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,10
+850,1,Tekfly,Payment Adjustment Coordinator,56086,NULL,1,praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum,1,4
+851,0,NULL,NULL,NULL,Less than 6 months,1,ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at,0,4
+852,0,NULL,NULL,NULL,More than 1 year,1,mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin,1,10
+853,0,NULL,NULL,NULL,More than 6 months,1,montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean,1,1
+854,0,NULL,NULL,NULL,More than 1 year,1,velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante,1,8
+855,1,Feednation,Account Executive,47465,NULL,0,NULL,0,3
+856,1,Flashdog,Health Coach II,85555,NULL,1,quam nec dui luctus rutrum nulla tellus in sagittis dui vel,0,5
+857,1,Meevee,Legal Assistant,19416,NULL,1,ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse,0,3
+858,0,NULL,NULL,NULL,More than 6 months,1,dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit,0,5
+859,1,Edgeblab,Paralegal,12737,NULL,1,etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut,1,7
+860,0,NULL,NULL,NULL,More than 1 year,1,rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat,0,7
+861,1,Skyble,Teacher,37152,NULL,0,NULL,1,3
+862,1,Riffwire,Biostatistician II,61774,NULL,1,molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas,0,9
+863,1,Topicstorm,Help Desk Operator,28161,NULL,0,NULL,1,7
+864,0,NULL,NULL,NULL,More than 6 months,1,eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in,0,5
+865,1,Skajo,Librarian,94817,NULL,0,NULL,0,9
+866,1,Babbleset,General Manager,16101,NULL,1,imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum,1,3
+867,1,Tagcat,Budget/Accounting Analyst IV,14517,NULL,1,massa id lobortis convallis tortor risus dapibus augue vel accumsan,1,3
+868,1,Janyx,Actuary,11652,NULL,1,mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl,1,5
+869,1,Jabberbean,Information Systems Manager,15871,NULL,1,at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis,1,4
+870,0,NULL,NULL,NULL,Less than 6 months,1,donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla,0,1
+871,1,Devcast,Cost Accountant,94449,NULL,1,vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem,1,2
+872,1,Skilith,Human Resources Assistant IV,02817,NULL,0,NULL,0,3
+873,1,Jaxbean,Electrical Engineer,68783,NULL,1,non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis,0,5
+874,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,6
+875,0,NULL,NULL,NULL,More than 6 months,1,etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida,0,9
+876,0,NULL,NULL,NULL,More than 6 months,1,libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at,1,6
+877,0,NULL,NULL,NULL,Less than 6 months,1,accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec,1,6
+878,1,Dablist,Senior Editor,47296,NULL,0,NULL,0,8
+879,0,NULL,NULL,NULL,Less than 6 months,1,tristique est et tempus semper est quam pharetra magna ac consequat metus,1,6
+880,1,Skivee,Marketing Assistant,86155,NULL,0,NULL,1,6
+881,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,5
+882,1,Meedoo,Community Outreach Specialist,21593,NULL,1,posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec,0,1
+883,1,Rhycero,Systems Administrator IV,64718,NULL,1,montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl,0,10
+884,0,NULL,NULL,NULL,Less than 6 months,1,mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit,1,5
+885,0,NULL,NULL,NULL,Less than 6 months,1,amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut,1,10
+886,1,Edgeblab,Payment Adjustment Coordinator,38328,NULL,1,risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis,0,6
+887,1,Kwinu,Environmental Specialist,38467,NULL,0,NULL,0,3
+888,1,Dynabox,Account Executive,60917,NULL,0,NULL,1,7
+889,1,Youspan,Cost Accountant,82043,NULL,1,penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis,0,1
+890,1,Shufflebeat,Physical Therapy Assistant,61209,NULL,0,NULL,0,6
+891,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,2
+892,1,Eayo,Teacher,29002,NULL,0,NULL,0,3
+893,1,Centizu,Chemical Engineer,03077,NULL,0,NULL,1,10
+894,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,5
+895,1,Eadel,Actuary,74761,NULL,0,NULL,0,2
+896,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,10
+897,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,5
+898,1,Blogspan,Software Engineer III,45362,NULL,1,commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit,0,10
+899,1,Omba,Quality Engineer,30325,NULL,0,NULL,1,1
+900,0,NULL,NULL,NULL,Less than 6 months,1,orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu,1,7
+901,0,NULL,NULL,NULL,More than 1 year,1,duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi,0,7
+902,1,Oozz,Electrical Engineer,15827,NULL,0,NULL,0,3
+903,0,NULL,NULL,NULL,More than 1 year,1,volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum,1,8
+904,1,Flipopia,Programmer Analyst II,34092,NULL,1,augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet,0,7
+905,1,Rhynoodle,Software Consultant,23250,NULL,0,NULL,1,5
+906,1,Roodel,Help Desk Technician,13826,NULL,0,NULL,1,2
+907,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,8
+908,1,Tagopia,Executive Secretary,31930,NULL,0,NULL,1,6
+909,1,Rhynyx,Human Resources Manager,48051,NULL,0,NULL,0,2
+910,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,8
+911,1,Innojam,Director of Sales,23515,NULL,0,NULL,1,3
+912,1,Skimia,VP Marketing,61378,NULL,1,congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl,0,8
+913,0,NULL,NULL,NULL,More than 1 year,1,eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec,1,4
+914,0,NULL,NULL,NULL,More than 1 year,1,nulla nisl nunc nisl duis bibendum felis sed interdum venenatis,1,6
+915,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,3
+916,0,NULL,NULL,NULL,Less than 6 months,1,pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc,0,7
+917,1,Zoombox,Media Manager III,02330,NULL,0,NULL,0,2
+918,1,Jaxnation,Food Chemist,73949,NULL,1,at nulla suspendisse potenti cras in purus eu magna vulputate luctus,1,9
+919,1,Quire,Graphic Designer,19445,NULL,0,NULL,1,2
+920,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,7
+921,1,Reallinks,Health Coach IV,47655,NULL,0,NULL,1,10
+922,1,Gabtype,Help Desk Technician,30929,NULL,0,NULL,0,7
+923,0,NULL,NULL,NULL,Less than 6 months,1,congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat,0,9
+924,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,5
+925,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,2
+926,1,Demimbu,Senior Quality Engineer,60954,NULL,1,lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla,0,10
+927,1,Quinu,Senior Cost Accountant,28244,NULL,1,amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices,1,3
+928,1,Quimba,Software Engineer II,03739,NULL,1,vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat,0,7
+929,0,NULL,NULL,NULL,Less than 6 months,1,sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in,1,9
+930,0,NULL,NULL,NULL,More than 1 year,0,NULL,1,5
+931,1,Mudo,Systems Administrator IV,87991,NULL,1,odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices,0,6
+932,1,Livetube,Human Resources Assistant I,33839,NULL,0,NULL,0,6
+933,0,NULL,NULL,NULL,Less than 6 months,1,rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo,0,10
+934,1,Jaxspan,Systems Administrator I,49140,NULL,0,NULL,0,5
+935,1,Fatz,Librarian,90423,NULL,1,bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu,1,9
+936,1,Zoomlounge,Electrical Engineer,70653,NULL,1,donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut,1,7
+937,1,Tagchat,Software Engineer III,75002,NULL,1,platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque,1,10
+938,1,Tavu,Developer I,46690,NULL,0,NULL,0,4
+939,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,4
+940,1,Browsetype,Software Consultant,18120,NULL,1,morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus,1,9
+941,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,3
+942,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,5
+943,1,Vimbo,VP Marketing,06852,NULL,0,NULL,1,1
+944,1,Edgewire,Product Engineer,82406,NULL,0,NULL,1,5
+945,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,2
+946,1,Dynava,Occupational Therapist,63423,NULL,1,luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh,0,5
+947,1,Devbug,Computer Systems Analyst II,42452,NULL,0,NULL,1,1
+948,0,NULL,NULL,NULL,Less than 6 months,1,rutrum nulla nunc purus phasellus in felis donec semper sapien,1,10
+949,0,NULL,NULL,NULL,More than 6 months,1,pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien,1,5
+950,1,Myworks,Actuary,26150,NULL,1,potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut,1,2
+951,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,9
+952,1,Jabberbean,Technical Writer,71584,NULL,0,NULL,1,5
+953,1,Linkbuzz,Software Consultant,49005,NULL,0,NULL,1,4
+954,1,Roombo,Nurse Practicioner,65136,NULL,0,NULL,1,8
+955,1,Dabvine,Environmental Tech,94270,NULL,0,NULL,0,10
+956,1,Wikido,Compensation Analyst,16916,NULL,1,dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor,0,9
+957,0,NULL,NULL,NULL,More than 1 year,1,eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus,0,7
+958,0,NULL,NULL,NULL,More than 1 year,1,dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut,0,7
+959,1,Omba,Structural Analysis Engineer,20597,NULL,1,interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa,1,9
+960,1,Ooba,Software Consultant,27273,NULL,0,NULL,0,5
+961,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,4
+962,1,Devify,Environmental Tech,21753,NULL,1,nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin,1,5
+963,1,Quamba,Developer II,48415,NULL,1,morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales,0,9
+964,1,Mynte,Assistant Manager,90938,NULL,0,NULL,0,7
+965,1,Chatterbridge,Tax Accountant,26578,NULL,0,NULL,0,6
+966,1,Topicstorm,Junior Executive,18607,NULL,1,venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien,0,5
+967,0,NULL,NULL,NULL,More than 1 year,1,aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere,0,2
+968,0,NULL,NULL,NULL,More than 6 months,1,massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at,0,1
+969,0,NULL,NULL,NULL,Less than 6 months,1,erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec,0,4
+970,0,NULL,NULL,NULL,More than 6 months,0,NULL,1,7
+971,0,NULL,NULL,NULL,Less than 6 months,0,NULL,1,4
+972,0,NULL,NULL,NULL,More than 1 year,1,cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis,1,3
+973,1,Youtags,Account Representative III,15019,NULL,0,NULL,1,9
+974,1,Blogpad,Nurse Practicioner,78930,NULL,1,cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi,1,2
+975,1,Twinder,Analog Circuit Design manager,57880,NULL,1,hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien,0,7
+976,0,NULL,NULL,NULL,More than 1 year,1,vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa,0,7
+977,1,Vinte,Software Engineer II,58039,NULL,0,NULL,0,8
+978,1,Rhyzio,Information Systems Manager,06079,NULL,0,NULL,0,8
+979,0,NULL,NULL,NULL,Less than 6 months,1,nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim,1,1
+980,0,NULL,NULL,NULL,Less than 6 months,1,amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris,0,4
+981,1,Abata,Computer Systems Analyst II,04549,NULL,1,sed vestibulum sit amet cursus id turpis integer aliquet massa,1,1
+982,1,Meevee,Desktop Support Technician,70288,NULL,1,ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac,0,9
+983,1,Gabtune,GIS Technical Architect,00452,NULL,1,interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia,0,7
+984,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,7
+985,1,Riffwire,Media Manager IV,83478,NULL,0,NULL,0,10
+986,1,Fanoodle,Senior Financial Analyst,90051,NULL,0,NULL,1,10
+987,0,NULL,NULL,NULL,More than 6 months,1,lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh,0,4
+988,1,Demizz,Project Manager,17297,NULL,0,NULL,0,3
+989,1,Innojam,Help Desk Operator,62508,NULL,0,NULL,0,4
+990,1,Livepath,Software Engineer II,11847,NULL,1,elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed,1,4
+991,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,9
+992,1,Oloo,Director of Sales,11406,NULL,1,nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed,0,8
+993,1,Twitterbridge,Mechanical Systems Engineer,67532,NULL,1,tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae,1,6
+994,1,Flipstorm,Payment Adjustment Coordinator,58011,NULL,0,NULL,1,5
+995,1,Livefish,Design Engineer,36159,NULL,1,ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl,0,10
+996,0,NULL,NULL,NULL,More than 6 months,0,NULL,0,2
+997,0,NULL,NULL,NULL,More than 1 year,0,NULL,0,9
+998,0,NULL,NULL,NULL,Less than 6 months,0,NULL,0,5
+999,0,NULL,NULL,NULL,More than 6 months,1,est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum,1,5
+1000,1,Plajo,Community Outreach Specialist,62628,NULL,0,NULL,1,1

@@ -1,0 +1,1001 @@
+id,biologicalSex,ethnicity
+1,Female,American Indian or Alaska Native
+2,Male,Caucasian
+3,Male,Asian
+4,Female,Asian
+5,Female,American Indian or Alaska Native
+6,Male,Asian
+7,Male,Hispanic or Latino
+8,Male,American Indian or Alaska Native
+9,Male,Asian
+10,Male,Hispanic or Latino
+11,Female,Caucasian
+12,Male,Hispanic or Latino
+13,Female,Asian
+14,Male,Hispanic or Latino
+15,Female,Black or African American
+16,Female,American Indian or Alaska Native
+17,Male,American Indian or Alaska Native
+18,Male,Hispanic or Latino
+19,Male,American Indian or Alaska Native
+20,Female,American Indian or Alaska Native
+21,Female,Asian
+22,Female,Hispanic or Latino
+23,Female,Caucasian
+24,Male,Asian
+25,Female,Hispanic or Latino
+26,Male,Asian
+27,Male,Hispanic or Latino
+28,Male,Hispanic or Latino
+29,Female,American Indian or Alaska Native
+30,Male,Black or African American
+31,Male,Black or African American
+32,Male,American Indian or Alaska Native
+33,Female,Caucasian
+34,Female,Caucasian
+35,Male,Caucasian
+36,Male,Caucasian
+37,Male,Asian
+38,Female,Asian
+39,Male,Asian
+40,Male,Caucasian
+41,Male,Black or African American
+42,Female,American Indian or Alaska Native
+43,Female,American Indian or Alaska Native
+44,Male,Black or African American
+45,Male,Asian
+46,Female,Black or African American
+47,Male,Hispanic or Latino
+48,Female,Caucasian
+49,Male,Caucasian
+50,Male,American Indian or Alaska Native
+51,Male,Black or African American
+52,Male,American Indian or Alaska Native
+53,Female,American Indian or Alaska Native
+54,Male,Asian
+55,Female,Asian
+56,Female,Hispanic or Latino
+57,Male,Asian
+58,Male,Black or African American
+59,Male,Hispanic or Latino
+60,Female,Hispanic or Latino
+61,Female,Hispanic or Latino
+62,Female,American Indian or Alaska Native
+63,Male,Black or African American
+64,Female,American Indian or Alaska Native
+65,Male,Black or African American
+66,Male,Hispanic or Latino
+67,Female,Hispanic or Latino
+68,Male,Caucasian
+69,Male,Asian
+70,Female,Hispanic or Latino
+71,Female,Hispanic or Latino
+72,Female,American Indian or Alaska Native
+73,Female,Black or African American
+74,Male,Hispanic or Latino
+75,Female,Asian
+76,Female,Hispanic or Latino
+77,Male,Hispanic or Latino
+78,Male,Asian
+79,Male,Black or African American
+80,Male,Caucasian
+81,Male,American Indian or Alaska Native
+82,Male,Black or African American
+83,Male,Hispanic or Latino
+84,Female,Asian
+85,Female,Black or African American
+86,Male,American Indian or Alaska Native
+87,Female,Hispanic or Latino
+88,Male,Caucasian
+89,Female,Black or African American
+90,Male,Black or African American
+91,Female,Black or African American
+92,Male,Caucasian
+93,Female,American Indian or Alaska Native
+94,Female,Asian
+95,Male,Asian
+96,Female,Hispanic or Latino
+97,Male,Caucasian
+98,Male,Asian
+99,Male,American Indian or Alaska Native
+100,Female,Caucasian
+101,Female,Caucasian
+102,Female,American Indian or Alaska Native
+103,Female,Black or African American
+104,Male,Asian
+105,Female,Asian
+106,Male,Hispanic or Latino
+107,Female,Black or African American
+108,Male,Hispanic or Latino
+109,Female,Asian
+110,Female,American Indian or Alaska Native
+111,Female,Caucasian
+112,Female,Caucasian
+113,Male,Black or African American
+114,Female,Asian
+115,Male,American Indian or Alaska Native
+116,Male,Asian
+117,Male,Caucasian
+118,Female,American Indian or Alaska Native
+119,Male,Hispanic or Latino
+120,Male,Hispanic or Latino
+121,Female,American Indian or Alaska Native
+122,Female,American Indian or Alaska Native
+123,Female,Caucasian
+124,Female,Black or African American
+125,Female,Caucasian
+126,Female,Asian
+127,Female,Black or African American
+128,Female,American Indian or Alaska Native
+129,Female,Caucasian
+130,Male,Caucasian
+131,Male,Asian
+132,Male,American Indian or Alaska Native
+133,Male,Hispanic or Latino
+134,Female,Asian
+135,Female,Hispanic or Latino
+136,Female,Hispanic or Latino
+137,Female,Asian
+138,Female,Caucasian
+139,Female,Asian
+140,Female,Asian
+141,Female,Caucasian
+142,Male,Caucasian
+143,Female,Hispanic or Latino
+144,Male,Asian
+145,Female,Asian
+146,Female,Caucasian
+147,Female,Asian
+148,Male,Black or African American
+149,Male,Hispanic or Latino
+150,Male,American Indian or Alaska Native
+151,Male,Black or African American
+152,Male,Black or African American
+153,Female,Black or African American
+154,Male,Black or African American
+155,Female,Caucasian
+156,Female,Caucasian
+157,Male,American Indian or Alaska Native
+158,Male,American Indian or Alaska Native
+159,Male,American Indian or Alaska Native
+160,Male,Asian
+161,Female,Caucasian
+162,Male,American Indian or Alaska Native
+163,Female,Black or African American
+164,Male,Caucasian
+165,Female,Black or African American
+166,Female,Black or African American
+167,Female,Black or African American
+168,Male,Hispanic or Latino
+169,Male,American Indian or Alaska Native
+170,Female,Hispanic or Latino
+171,Female,American Indian or Alaska Native
+172,Male,Caucasian
+173,Female,Black or African American
+174,Female,Hispanic or Latino
+175,Female,Hispanic or Latino
+176,Male,Caucasian
+177,Female,American Indian or Alaska Native
+178,Male,American Indian or Alaska Native
+179,Female,Black or African American
+180,Male,Black or African American
+181,Female,Caucasian
+182,Female,Black or African American
+183,Male,Black or African American
+184,Male,Caucasian
+185,Male,Caucasian
+186,Female,Caucasian
+187,Female,Black or African American
+188,Male,Caucasian
+189,Female,Hispanic or Latino
+190,Female,Black or African American
+191,Female,Black or African American
+192,Male,American Indian or Alaska Native
+193,Male,Black or African American
+194,Female,Caucasian
+195,Male,Asian
+196,Male,American Indian or Alaska Native
+197,Male,Asian
+198,Female,American Indian or Alaska Native
+199,Male,Hispanic or Latino
+200,Male,Hispanic or Latino
+201,Female,Black or African American
+202,Male,Hispanic or Latino
+203,Female,American Indian or Alaska Native
+204,Female,American Indian or Alaska Native
+205,Female,Hispanic or Latino
+206,Male,Asian
+207,Male,Caucasian
+208,Female,Hispanic or Latino
+209,Female,Hispanic or Latino
+210,Male,Caucasian
+211,Male,Black or African American
+212,Female,Caucasian
+213,Female,Caucasian
+214,Female,Hispanic or Latino
+215,Female,Hispanic or Latino
+216,Female,Caucasian
+217,Female,Hispanic or Latino
+218,Female,Black or African American
+219,Male,Black or African American
+220,Female,Asian
+221,Female,American Indian or Alaska Native
+222,Female,Black or African American
+223,Male,Black or African American
+224,Female,Black or African American
+225,Male,Caucasian
+226,Female,Asian
+227,Female,Black or African American
+228,Female,Caucasian
+229,Female,Asian
+230,Female,American Indian or Alaska Native
+231,Female,Caucasian
+232,Female,American Indian or Alaska Native
+233,Male,Hispanic or Latino
+234,Male,Caucasian
+235,Female,American Indian or Alaska Native
+236,Male,American Indian or Alaska Native
+237,Male,Hispanic or Latino
+238,Male,Caucasian
+239,Female,Caucasian
+240,Male,American Indian or Alaska Native
+241,Female,Asian
+242,Male,American Indian or Alaska Native
+243,Male,Caucasian
+244,Female,Asian
+245,Female,Asian
+246,Male,Asian
+247,Female,American Indian or Alaska Native
+248,Female,American Indian or Alaska Native
+249,Male,Caucasian
+250,Female,American Indian or Alaska Native
+251,Male,Black or African American
+252,Female,Hispanic or Latino
+253,Male,Hispanic or Latino
+254,Male,Black or African American
+255,Female,American Indian or Alaska Native
+256,Male,Black or African American
+257,Female,Caucasian
+258,Female,Black or African American
+259,Female,Black or African American
+260,Male,Asian
+261,Male,American Indian or Alaska Native
+262,Male,Asian
+263,Male,Hispanic or Latino
+264,Female,Asian
+265,Male,American Indian or Alaska Native
+266,Male,Asian
+267,Male,Asian
+268,Male,Caucasian
+269,Male,Black or African American
+270,Male,American Indian or Alaska Native
+271,Male,Hispanic or Latino
+272,Male,Asian
+273,Male,Hispanic or Latino
+274,Female,Hispanic or Latino
+275,Male,Asian
+276,Male,Asian
+277,Male,Hispanic or Latino
+278,Female,Asian
+279,Female,Black or African American
+280,Male,Asian
+281,Male,Caucasian
+282,Female,American Indian or Alaska Native
+283,Female,Hispanic or Latino
+284,Male,Hispanic or Latino
+285,Female,American Indian or Alaska Native
+286,Female,Asian
+287,Male,Caucasian
+288,Female,Asian
+289,Male,American Indian or Alaska Native
+290,Male,American Indian or Alaska Native
+291,Male,American Indian or Alaska Native
+292,Male,American Indian or Alaska Native
+293,Female,Caucasian
+294,Male,Caucasian
+295,Female,American Indian or Alaska Native
+296,Male,American Indian or Alaska Native
+297,Male,Hispanic or Latino
+298,Male,Caucasian
+299,Female,Black or African American
+300,Male,Asian
+301,Male,Hispanic or Latino
+302,Female,American Indian or Alaska Native
+303,Female,Black or African American
+304,Male,Hispanic or Latino
+305,Male,Caucasian
+306,Male,Caucasian
+307,Female,Hispanic or Latino
+308,Female,Hispanic or Latino
+309,Male,Black or African American
+310,Male,Black or African American
+311,Female,Caucasian
+312,Male,Caucasian
+313,Female,Black or African American
+314,Male,Black or African American
+315,Male,Asian
+316,Female,Hispanic or Latino
+317,Male,Hispanic or Latino
+318,Female,Caucasian
+319,Female,American Indian or Alaska Native
+320,Male,Black or African American
+321,Male,Caucasian
+322,Female,Black or African American
+323,Male,American Indian or Alaska Native
+324,Male,Black or African American
+325,Female,Hispanic or Latino
+326,Female,Black or African American
+327,Female,Black or African American
+328,Male,American Indian or Alaska Native
+329,Male,Black or African American
+330,Female,Caucasian
+331,Male,Caucasian
+332,Female,Asian
+333,Male,Hispanic or Latino
+334,Male,Black or African American
+335,Female,Hispanic or Latino
+336,Male,Asian
+337,Female,American Indian or Alaska Native
+338,Male,Black or African American
+339,Male,Black or African American
+340,Female,Caucasian
+341,Male,American Indian or Alaska Native
+342,Male,Caucasian
+343,Male,Caucasian
+344,Male,Black or African American
+345,Male,Caucasian
+346,Female,American Indian or Alaska Native
+347,Male,Asian
+348,Male,Black or African American
+349,Female,Black or African American
+350,Female,Caucasian
+351,Female,Asian
+352,Female,Black or African American
+353,Female,Black or African American
+354,Male,Caucasian
+355,Female,Hispanic or Latino
+356,Male,Asian
+357,Male,Hispanic or Latino
+358,Female,American Indian or Alaska Native
+359,Female,Asian
+360,Male,Black or African American
+361,Male,Asian
+362,Female,Black or African American
+363,Female,Black or African American
+364,Male,American Indian or Alaska Native
+365,Female,Caucasian
+366,Female,Hispanic or Latino
+367,Male,American Indian or Alaska Native
+368,Male,Asian
+369,Male,American Indian or Alaska Native
+370,Female,Caucasian
+371,Male,Asian
+372,Female,Black or African American
+373,Male,Caucasian
+374,Male,Caucasian
+375,Female,Hispanic or Latino
+376,Male,Hispanic or Latino
+377,Female,Black or African American
+378,Male,Black or African American
+379,Female,Black or African American
+380,Male,Hispanic or Latino
+381,Female,Caucasian
+382,Male,Caucasian
+383,Female,Black or African American
+384,Female,Caucasian
+385,Male,American Indian or Alaska Native
+386,Female,Black or African American
+387,Male,Hispanic or Latino
+388,Female,Asian
+389,Male,Caucasian
+390,Female,American Indian or Alaska Native
+391,Female,American Indian or Alaska Native
+392,Male,Hispanic or Latino
+393,Male,Asian
+394,Male,Caucasian
+395,Male,Hispanic or Latino
+396,Male,Asian
+397,Female,Hispanic or Latino
+398,Male,Black or African American
+399,Male,American Indian or Alaska Native
+400,Female,Hispanic or Latino
+401,Male,Hispanic or Latino
+402,Male,Asian
+403,Male,Black or African American
+404,Male,Hispanic or Latino
+405,Male,American Indian or Alaska Native
+406,Female,Hispanic or Latino
+407,Female,Caucasian
+408,Male,Asian
+409,Female,Hispanic or Latino
+410,Female,Asian
+411,Male,Hispanic or Latino
+412,Male,Asian
+413,Male,Asian
+414,Female,American Indian or Alaska Native
+415,Female,American Indian or Alaska Native
+416,Male,Hispanic or Latino
+417,Female,American Indian or Alaska Native
+418,Male,Caucasian
+419,Female,American Indian or Alaska Native
+420,Male,Black or African American
+421,Female,Caucasian
+422,Male,Hispanic or Latino
+423,Male,Caucasian
+424,Male,Black or African American
+425,Male,Asian
+426,Female,Black or African American
+427,Male,Asian
+428,Female,Black or African American
+429,Female,Caucasian
+430,Male,Hispanic or Latino
+431,Male,Black or African American
+432,Female,Hispanic or Latino
+433,Female,Hispanic or Latino
+434,Female,Hispanic or Latino
+435,Female,Caucasian
+436,Male,Hispanic or Latino
+437,Female,Asian
+438,Female,Caucasian
+439,Male,Asian
+440,Male,American Indian or Alaska Native
+441,Female,American Indian or Alaska Native
+442,Female,Caucasian
+443,Male,Caucasian
+444,Male,Caucasian
+445,Male,American Indian or Alaska Native
+446,Female,Hispanic or Latino
+447,Male,Hispanic or Latino
+448,Male,Asian
+449,Female,Hispanic or Latino
+450,Female,American Indian or Alaska Native
+451,Male,American Indian or Alaska Native
+452,Male,Asian
+453,Female,American Indian or Alaska Native
+454,Male,American Indian or Alaska Native
+455,Male,Caucasian
+456,Male,Caucasian
+457,Female,Hispanic or Latino
+458,Male,Asian
+459,Female,American Indian or Alaska Native
+460,Male,Hispanic or Latino
+461,Female,Black or African American
+462,Female,Hispanic or Latino
+463,Male,Asian
+464,Male,American Indian or Alaska Native
+465,Female,Caucasian
+466,Male,Asian
+467,Female,American Indian or Alaska Native
+468,Female,Caucasian
+469,Female,Black or African American
+470,Female,Black or African American
+471,Female,Caucasian
+472,Female,Black or African American
+473,Female,Black or African American
+474,Female,American Indian or Alaska Native
+475,Male,Black or African American
+476,Male,Hispanic or Latino
+477,Male,American Indian or Alaska Native
+478,Female,American Indian or Alaska Native
+479,Male,Asian
+480,Female,Asian
+481,Male,Caucasian
+482,Male,Hispanic or Latino
+483,Male,Hispanic or Latino
+484,Female,American Indian or Alaska Native
+485,Female,American Indian or Alaska Native
+486,Male,Black or African American
+487,Male,Black or African American
+488,Male,American Indian or Alaska Native
+489,Female,Caucasian
+490,Female,Asian
+491,Female,American Indian or Alaska Native
+492,Male,Hispanic or Latino
+493,Male,American Indian or Alaska Native
+494,Female,Hispanic or Latino
+495,Male,American Indian or Alaska Native
+496,Female,Caucasian
+497,Female,Hispanic or Latino
+498,Female,Asian
+499,Male,American Indian or Alaska Native
+500,Male,Asian
+501,Female,Hispanic or Latino
+502,Male,Asian
+503,Female,Black or African American
+504,Male,American Indian or Alaska Native
+505,Female,Asian
+506,Female,American Indian or Alaska Native
+507,Male,Asian
+508,Female,American Indian or Alaska Native
+509,Male,Caucasian
+510,Female,Hispanic or Latino
+511,Male,Hispanic or Latino
+512,Male,Black or African American
+513,Male,Caucasian
+514,Female,American Indian or Alaska Native
+515,Female,Caucasian
+516,Female,Asian
+517,Female,American Indian or Alaska Native
+518,Female,Caucasian
+519,Male,Hispanic or Latino
+520,Female,Asian
+521,Male,Asian
+522,Female,Black or African American
+523,Female,American Indian or Alaska Native
+524,Female,American Indian or Alaska Native
+525,Male,Black or African American
+526,Male,American Indian or Alaska Native
+527,Male,American Indian or Alaska Native
+528,Male,Asian
+529,Female,Hispanic or Latino
+530,Female,American Indian or Alaska Native
+531,Female,Hispanic or Latino
+532,Female,Caucasian
+533,Female,Black or African American
+534,Male,Asian
+535,Male,American Indian or Alaska Native
+536,Female,Black or African American
+537,Male,Asian
+538,Male,Asian
+539,Male,Black or African American
+540,Male,American Indian or Alaska Native
+541,Female,Black or African American
+542,Female,Caucasian
+543,Female,Asian
+544,Male,Asian
+545,Male,Hispanic or Latino
+546,Female,Asian
+547,Female,American Indian or Alaska Native
+548,Male,Caucasian
+549,Male,Asian
+550,Male,Black or African American
+551,Female,Caucasian
+552,Male,American Indian or Alaska Native
+553,Female,Asian
+554,Female,Caucasian
+555,Female,Black or African American
+556,Female,Caucasian
+557,Female,Hispanic or Latino
+558,Female,Hispanic or Latino
+559,Female,Black or African American
+560,Female,American Indian or Alaska Native
+561,Female,Asian
+562,Female,American Indian or Alaska Native
+563,Male,Caucasian
+564,Female,American Indian or Alaska Native
+565,Male,American Indian or Alaska Native
+566,Female,Black or African American
+567,Male,Asian
+568,Female,Asian
+569,Female,Asian
+570,Male,American Indian or Alaska Native
+571,Female,Hispanic or Latino
+572,Male,Caucasian
+573,Male,Asian
+574,Male,Black or African American
+575,Male,Asian
+576,Male,Black or African American
+577,Male,Black or African American
+578,Female,American Indian or Alaska Native
+579,Male,Asian
+580,Male,Caucasian
+581,Male,Black or African American
+582,Female,Black or African American
+583,Female,Hispanic or Latino
+584,Male,American Indian or Alaska Native
+585,Male,American Indian or Alaska Native
+586,Female,Hispanic or Latino
+587,Female,American Indian or Alaska Native
+588,Male,Black or African American
+589,Male,Black or African American
+590,Female,Hispanic or Latino
+591,Female,Caucasian
+592,Female,Caucasian
+593,Female,Black or African American
+594,Female,Asian
+595,Female,Black or African American
+596,Male,American Indian or Alaska Native
+597,Female,Hispanic or Latino
+598,Male,Caucasian
+599,Female,Black or African American
+600,Male,Black or African American
+601,Male,Asian
+602,Female,Hispanic or Latino
+603,Male,Caucasian
+604,Female,Asian
+605,Male,Asian
+606,Female,American Indian or Alaska Native
+607,Female,Hispanic or Latino
+608,Female,Hispanic or Latino
+609,Male,Hispanic or Latino
+610,Female,Caucasian
+611,Female,Asian
+612,Female,Caucasian
+613,Female,Asian
+614,Male,Caucasian
+615,Female,Hispanic or Latino
+616,Female,American Indian or Alaska Native
+617,Male,Black or African American
+618,Female,Asian
+619,Female,Asian
+620,Female,Caucasian
+621,Male,American Indian or Alaska Native
+622,Male,Asian
+623,Male,Black or African American
+624,Male,Caucasian
+625,Female,American Indian or Alaska Native
+626,Female,Asian
+627,Male,American Indian or Alaska Native
+628,Male,American Indian or Alaska Native
+629,Female,American Indian or Alaska Native
+630,Female,American Indian or Alaska Native
+631,Male,American Indian or Alaska Native
+632,Female,Black or African American
+633,Male,Hispanic or Latino
+634,Male,Caucasian
+635,Female,Black or African American
+636,Male,Black or African American
+637,Female,Asian
+638,Male,Caucasian
+639,Male,Black or African American
+640,Male,Caucasian
+641,Female,Asian
+642,Female,Hispanic or Latino
+643,Male,Asian
+644,Female,American Indian or Alaska Native
+645,Male,American Indian or Alaska Native
+646,Male,Black or African American
+647,Male,Asian
+648,Female,Caucasian
+649,Male,Asian
+650,Female,Hispanic or Latino
+651,Female,Caucasian
+652,Male,Asian
+653,Female,Asian
+654,Male,American Indian or Alaska Native
+655,Female,Black or African American
+656,Male,Black or African American
+657,Male,Caucasian
+658,Male,Hispanic or Latino
+659,Male,Caucasian
+660,Female,Hispanic or Latino
+661,Male,Caucasian
+662,Male,Hispanic or Latino
+663,Male,American Indian or Alaska Native
+664,Male,American Indian or Alaska Native
+665,Male,Caucasian
+666,Male,Asian
+667,Female,Black or African American
+668,Female,Asian
+669,Male,Asian
+670,Male,Caucasian
+671,Female,American Indian or Alaska Native
+672,Female,Black or African American
+673,Female,Caucasian
+674,Female,American Indian or Alaska Native
+675,Male,Black or African American
+676,Male,American Indian or Alaska Native
+677,Male,Caucasian
+678,Male,Caucasian
+679,Male,Black or African American
+680,Male,Caucasian
+681,Male,Caucasian
+682,Female,American Indian or Alaska Native
+683,Female,American Indian or Alaska Native
+684,Male,Asian
+685,Male,Black or African American
+686,Male,Asian
+687,Female,Hispanic or Latino
+688,Male,Hispanic or Latino
+689,Male,Caucasian
+690,Female,Caucasian
+691,Male,Caucasian
+692,Male,Black or African American
+693,Male,Asian
+694,Male,American Indian or Alaska Native
+695,Male,Asian
+696,Female,Caucasian
+697,Male,American Indian or Alaska Native
+698,Male,American Indian or Alaska Native
+699,Male,Black or African American
+700,Male,Black or African American
+701,Female,Black or African American
+702,Male,Caucasian
+703,Female,Black or African American
+704,Male,Asian
+705,Female,Hispanic or Latino
+706,Female,Black or African American
+707,Female,Asian
+708,Female,American Indian or Alaska Native
+709,Female,Black or African American
+710,Male,Caucasian
+711,Male,Black or African American
+712,Male,Asian
+713,Female,American Indian or Alaska Native
+714,Male,Black or African American
+715,Male,Asian
+716,Female,Asian
+717,Male,Hispanic or Latino
+718,Male,Caucasian
+719,Female,Hispanic or Latino
+720,Female,Asian
+721,Male,Hispanic or Latino
+722,Male,Black or African American
+723,Male,Asian
+724,Male,Asian
+725,Female,Black or African American
+726,Male,American Indian or Alaska Native
+727,Male,Caucasian
+728,Female,Caucasian
+729,Female,Caucasian
+730,Female,Black or African American
+731,Female,Asian
+732,Female,Hispanic or Latino
+733,Female,Asian
+734,Male,American Indian or Alaska Native
+735,Male,Asian
+736,Female,Caucasian
+737,Female,Asian
+738,Female,Hispanic or Latino
+739,Female,Caucasian
+740,Male,Caucasian
+741,Male,American Indian or Alaska Native
+742,Male,American Indian or Alaska Native
+743,Male,Hispanic or Latino
+744,Male,Black or African American
+745,Female,Black or African American
+746,Male,Hispanic or Latino
+747,Female,Hispanic or Latino
+748,Male,Hispanic or Latino
+749,Female,Hispanic or Latino
+750,Male,American Indian or Alaska Native
+751,Female,Asian
+752,Male,Asian
+753,Male,Black or African American
+754,Female,Caucasian
+755,Female,Caucasian
+756,Female,American Indian or Alaska Native
+757,Female,Hispanic or Latino
+758,Female,Asian
+759,Male,Asian
+760,Female,Caucasian
+761,Male,American Indian or Alaska Native
+762,Male,Hispanic or Latino
+763,Female,Black or African American
+764,Female,Caucasian
+765,Male,Hispanic or Latino
+766,Female,Black or African American
+767,Male,American Indian or Alaska Native
+768,Female,Hispanic or Latino
+769,Female,Asian
+770,Male,American Indian or Alaska Native
+771,Female,Hispanic or Latino
+772,Female,Caucasian
+773,Female,Black or African American
+774,Female,American Indian or Alaska Native
+775,Male,Hispanic or Latino
+776,Male,Asian
+777,Female,Caucasian
+778,Male,Asian
+779,Female,American Indian or Alaska Native
+780,Male,Asian
+781,Male,American Indian or Alaska Native
+782,Female,Caucasian
+783,Male,Hispanic or Latino
+784,Female,Caucasian
+785,Female,Asian
+786,Female,Black or African American
+787,Female,Caucasian
+788,Male,Black or African American
+789,Male,Asian
+790,Male,Asian
+791,Male,Caucasian
+792,Male,Asian
+793,Female,American Indian or Alaska Native
+794,Male,Asian
+795,Female,Caucasian
+796,Female,American Indian or Alaska Native
+797,Female,Hispanic or Latino
+798,Male,Hispanic or Latino
+799,Male,American Indian or Alaska Native
+800,Male,Asian
+801,Female,Caucasian
+802,Female,American Indian or Alaska Native
+803,Male,Caucasian
+804,Male,Caucasian
+805,Male,Caucasian
+806,Female,Hispanic or Latino
+807,Female,Caucasian
+808,Female,American Indian or Alaska Native
+809,Female,Caucasian
+810,Male,Asian
+811,Female,Asian
+812,Female,Asian
+813,Female,American Indian or Alaska Native
+814,Male,Hispanic or Latino
+815,Female,American Indian or Alaska Native
+816,Female,Asian
+817,Female,Asian
+818,Male,Hispanic or Latino
+819,Male,Hispanic or Latino
+820,Male,Black or African American
+821,Female,Black or African American
+822,Female,Black or African American
+823,Female,Asian
+824,Male,American Indian or Alaska Native
+825,Male,Caucasian
+826,Male,Caucasian
+827,Female,Black or African American
+828,Female,Caucasian
+829,Female,American Indian or Alaska Native
+830,Female,Black or African American
+831,Female,Caucasian
+832,Female,Hispanic or Latino
+833,Male,Asian
+834,Female,Caucasian
+835,Male,American Indian or Alaska Native
+836,Male,Hispanic or Latino
+837,Male,Hispanic or Latino
+838,Female,Hispanic or Latino
+839,Female,American Indian or Alaska Native
+840,Female,Black or African American
+841,Male,American Indian or Alaska Native
+842,Female,American Indian or Alaska Native
+843,Female,Black or African American
+844,Male,American Indian or Alaska Native
+845,Male,Caucasian
+846,Male,Hispanic or Latino
+847,Male,Black or African American
+848,Female,Asian
+849,Male,Hispanic or Latino
+850,Male,Asian
+851,Male,Asian
+852,Female,American Indian or Alaska Native
+853,Male,American Indian or Alaska Native
+854,Male,Hispanic or Latino
+855,Male,Black or African American
+856,Female,Black or African American
+857,Male,Asian
+858,Female,Hispanic or Latino
+859,Female,Caucasian
+860,Female,American Indian or Alaska Native
+861,Female,Black or African American
+862,Male,American Indian or Alaska Native
+863,Male,Hispanic or Latino
+864,Female,Caucasian
+865,Male,Asian
+866,Female,Caucasian
+867,Female,Caucasian
+868,Female,Caucasian
+869,Male,Hispanic or Latino
+870,Female,Black or African American
+871,Female,Asian
+872,Male,Black or African American
+873,Male,Black or African American
+874,Female,Asian
+875,Female,Caucasian
+876,Female,American Indian or Alaska Native
+877,Male,Asian
+878,Male,Asian
+879,Female,Hispanic or Latino
+880,Female,Black or African American
+881,Female,Hispanic or Latino
+882,Female,Caucasian
+883,Female,Hispanic or Latino
+884,Male,Hispanic or Latino
+885,Female,Asian
+886,Female,Asian
+887,Female,American Indian or Alaska Native
+888,Male,Caucasian
+889,Female,Asian
+890,Male,Black or African American
+891,Male,Asian
+892,Female,American Indian or Alaska Native
+893,Female,Asian
+894,Male,Caucasian
+895,Male,Black or African American
+896,Male,Caucasian
+897,Female,Hispanic or Latino
+898,Male,American Indian or Alaska Native
+899,Female,Caucasian
+900,Female,American Indian or Alaska Native
+901,Female,American Indian or Alaska Native
+902,Male,Hispanic or Latino
+903,Female,American Indian or Alaska Native
+904,Female,Caucasian
+905,Female,Hispanic or Latino
+906,Female,Hispanic or Latino
+907,Male,Black or African American
+908,Female,Asian
+909,Female,Asian
+910,Male,Hispanic or Latino
+911,Female,Asian
+912,Female,American Indian or Alaska Native
+913,Male,Asian
+914,Female,Caucasian
+915,Male,Caucasian
+916,Male,Black or African American
+917,Female,American Indian or Alaska Native
+918,Male,Black or African American
+919,Female,Caucasian
+920,Female,Asian
+921,Female,Caucasian
+922,Male,Caucasian
+923,Female,American Indian or Alaska Native
+924,Female,American Indian or Alaska Native
+925,Male,Hispanic or Latino
+926,Male,American Indian or Alaska Native
+927,Male,Black or African American
+928,Female,American Indian or Alaska Native
+929,Male,American Indian or Alaska Native
+930,Male,American Indian or Alaska Native
+931,Male,Asian
+932,Female,Asian
+933,Male,Asian
+934,Male,Hispanic or Latino
+935,Female,Asian
+936,Male,Black or African American
+937,Male,Asian
+938,Male,Asian
+939,Male,Hispanic or Latino
+940,Male,Black or African American
+941,Female,American Indian or Alaska Native
+942,Male,Black or African American
+943,Male,Hispanic or Latino
+944,Female,Black or African American
+945,Female,Hispanic or Latino
+946,Female,Black or African American
+947,Male,Hispanic or Latino
+948,Female,Black or African American
+949,Male,Hispanic or Latino
+950,Female,American Indian or Alaska Native
+951,Male,Black or African American
+952,Female,American Indian or Alaska Native
+953,Female,Asian
+954,Male,Hispanic or Latino
+955,Male,Caucasian
+956,Male,American Indian or Alaska Native
+957,Male,Hispanic or Latino
+958,Female,Caucasian
+959,Female,Hispanic or Latino
+960,Female,Caucasian
+961,Male,American Indian or Alaska Native
+962,Female,Black or African American
+963,Female,Hispanic or Latino
+964,Male,American Indian or Alaska Native
+965,Male,Hispanic or Latino
+966,Female,Hispanic or Latino
+967,Female,Black or African American
+968,Female,American Indian or Alaska Native
+969,Female,American Indian or Alaska Native
+970,Female,Caucasian
+971,Male,Asian
+972,Male,Caucasian
+973,Female,Hispanic or Latino
+974,Female,Caucasian
+975,Male,Black or African American
+976,Female,Caucasian
+977,Male,American Indian or Alaska Native
+978,Female,Hispanic or Latino
+979,Female,Black or African American
+980,Female,Hispanic or Latino
+981,Male,Asian
+982,Female,Asian
+983,Male,Caucasian
+984,Male,Caucasian
+985,Female,American Indian or Alaska Native
+986,Male,Hispanic or Latino
+987,Female,Caucasian
+988,Female,Hispanic or Latino
+989,Female,Hispanic or Latino
+990,Male,Asian
+991,Female,Hispanic or Latino
+992,Female,Asian
+993,Male,American Indian or Alaska Native
+994,Male,Hispanic or Latino
+995,Male,American Indian or Alaska Native
+996,Female,Black or African American
+997,Male,Hispanic or Latino
+998,Male,American Indian or Alaska Native
+999,Female,Asian
+1000,Male,Black or African American

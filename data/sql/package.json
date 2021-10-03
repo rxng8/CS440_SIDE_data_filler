@@ -1,0 +1,7 @@
+{
+ "scripts": {
+  "init-db": "mysql --user=root --password=password < ./CreateDatabase.sql",
+  "init-db-docker": "mysql --user=root --password=password --host=mysql < ./CreateDatabase.sql",
+  "mock": "mysql --user=root --local-infile --password=1234 < ./AddMockData.sql"
+ }
+}

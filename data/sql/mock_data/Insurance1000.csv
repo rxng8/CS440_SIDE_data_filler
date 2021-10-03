@@ -1,0 +1,1001 @@
+id,hasInsurance,primaryInsurance,planType,policyID,policyHolder,insuranceFromEmployer,companyName,groupNumberPlanCode,hasDetuctiblesOrCoPayments,detuctibleAmount,copayment
+1,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),4799765820,The Patient (You),1,Mybuzz,8159265626,1,7891,80-20
+2,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+3,1,Unitedhealth Group,Exclusive Provider Network (EPN),9950447007,Helene Kleinmann,1,Blogtag,3244371893,0,NULL,NULL
+4,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),4995660274,The Patient (You),0,NULL,NULL,0,3028,50-50
+5,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+6,1,Aetna Group,Preferred Provider Organization (PPO),4540182327,The Patient (You),1,Fanoodle,3284259960,1,1457,70-30
+7,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+8,1,Unitedhealth Group,Point of Service (POS),6289855929,Itch MacCoughan,1,Mita,3570202739,1,778,60-40
+9,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),2811157567,Prisca MacMickan,0,NULL,NULL,0,2492,80-20
+10,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),1104385687,Hank Callcott,0,NULL,NULL,0,9975,60-40
+11,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+12,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),2023583627,Christi Pinkett,0,NULL,NULL,0,2800,50-50
+13,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+14,1,Unitedhealth Group,Health Maintenance Organization (HMO),3018463568,The Patient (You),0,NULL,NULL,0,6814,60-40
+15,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),1458957536,The Patient (You),0,NULL,NULL,0,1024,90-10
+16,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),3241689915,The Patient (You),1,Wikivu,1839446371,1,5397,90-10
+17,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),2004035764,Elyssa Sally,1,Katz,7963674978,0,NULL,NULL
+18,1,Unitedhealth Group,Point of Service (POS),7110085368,The Patient (You),0,NULL,NULL,0,2742,50-50
+19,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+20,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),6181717642,The Patient (You),0,NULL,NULL,0,6083,80-20
+21,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+22,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+23,1,Aetna Group,Health Maintenance Organization (HMO),6101605634,Amberly Strong,1,Quinu,1626241196,1,3068,60-40
+24,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+25,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+26,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),984926486,Edik Hanniger,0,NULL,NULL,0,40,60-40
+27,1,Aetna Group,Health Maintenance Organization (HMO),730641338,Olympia Carslake,0,NULL,NULL,0,5755,90-10
+28,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),3425675654,Alfonse Sandercock,1,Fivespan,3864471660,0,NULL,NULL
+29,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),1701763649,The Patient (You),0,NULL,NULL,0,8268,80-20
+30,1,Aetna Group,Point of Service (POS),3008092684,The Patient (You),0,NULL,NULL,0,1160,80-20
+31,1,Unitedhealth Group,Preferred Provider Organization (PPO),4187581304,The Patient (You),0,NULL,NULL,0,5068,60-40
+32,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),3666299084,Hollyanne Tiuit,0,NULL,NULL,0,7118,50-50
+33,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+34,1,Unitedhealth Group,Point of Service (POS),227284290,The Patient (You),0,NULL,NULL,0,516,70-30
+35,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+36,1,Aetna Group,Point of Service (POS),8152831317,The Patient (You),1,Thoughtmix,2061520394,1,7771,50-50
+37,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),409359916,The Patient (You),0,NULL,NULL,0,1502,90-10
+38,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+39,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+40,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),6594032315,Nikki Blower,1,Zoonder,6964952475,1,7363,60-40
+41,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),9184268550,Flossy Wannes,0,NULL,NULL,0,1968,70-30
+42,1,Aetna Group,Point of Service (POS),1482731096,The Patient (You),1,Oba,8102508211,1,3887,70-30
+43,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),2763841723,Dew Kubec,1,Twitterbeat,3483081345,1,4936,90-10
+44,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),3897112812,The Patient (You),0,NULL,NULL,0,454,60-40
+45,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+46,1,Aetna Group,Health Maintenance Organization (HMO),787852320,The Patient (You),1,Skippad,4370905748,1,7809,50-50
+47,1,Wellpoint Inc. Group,Point of Service (POS),6282400271,The Patient (You),1,Meemm,4603076468,0,NULL,NULL
+48,1,Aetna Group,Exclusive Provider Network (EPN),9839189791,Sophi MacFaul,0,NULL,NULL,0,5035,60-40
+49,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),2067432787,Alessandro Faber,0,NULL,NULL,0,4272,50-50
+50,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),5684991093,Khalil Leppo,0,NULL,NULL,0,9614,60-40
+51,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),4862529734,The Patient (You),0,NULL,NULL,0,7284,70-30
+52,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+53,1,Unitedhealth Group,Preferred Provider Organization (PPO),3410575097,Bradley Deble,0,NULL,NULL,0,140,70-30
+54,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+55,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),7518676421,The Patient (You),1,Voomm,7028420663,1,9094,50-50
+56,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+57,1,Unitedhealth Group,Point of Service (POS),6515629718,Vonni Gonnely,0,NULL,NULL,0,8408,70-30
+58,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),1195256650,Gherardo Dutt,1,Browsecat,7500415236,1,1076,70-30
+59,1,Aetna Group,Preferred Provider Organization (PPO),5611533976,The Patient (You),1,Zoonoodle,5905596944,0,NULL,NULL
+60,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),3993238642,Colene Puffett,0,NULL,NULL,0,8978,80-20
+61,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),9381118973,Lane Giacomi,1,Ooba,1607125032,1,4178,60-40
+62,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),664879987,Dewey Ramelet,1,Gabtype,7772378600,0,NULL,NULL
+63,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),9340064047,The Patient (You),1,Abatz,8612824631,1,8706,80-20
+64,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),5923132873,Vidovic Scyone,0,NULL,NULL,0,6394,90-10
+65,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+66,1,Unitedhealth Group,Preferred Provider Organization (PPO),7709015794,The Patient (You),0,NULL,NULL,0,1800,50-50
+67,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),5052072714,Urban Strangeway,0,NULL,NULL,0,3836,70-30
+68,1,Aetna Group,Health Maintenance Organization (HMO),4160950386,The Patient (You),0,NULL,NULL,0,9698,80-20
+69,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+70,1,Kaiser Foundation Group,Point of Service (POS),729036641,The Patient (You),1,Gevee,6643144117,1,3606,50-50
+71,1,Unitedhealth Group,Exclusive Provider Network (EPN),796931380,The Patient (You),0,NULL,NULL,0,5932,50-50
+72,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),5855570233,Daryle Macguire,1,Tavu,4904583192,1,5422,80-20
+73,1,Aetna Group,Point of Service (POS),7702631652,Kellby Alstead,0,NULL,NULL,0,7089,80-20
+74,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),7573722914,The Patient (You),0,NULL,NULL,0,4542,70-30
+75,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+76,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+77,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),1521092853,The Patient (You),0,NULL,NULL,0,4395,80-20
+78,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+79,1,Kaiser Foundation Group,Point of Service (POS),9530651200,The Patient (You),0,NULL,NULL,0,9496,80-20
+80,1,Aetna Group,Health Maintenance Organization (HMO),5627013934,The Patient (You),1,Twimbo,2905146064,0,NULL,NULL
+81,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+82,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),6877567709,The Patient (You),0,NULL,NULL,0,4907,70-30
+83,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),6153844503,The Patient (You),0,NULL,NULL,0,6511,60-40
+84,1,Aetna Group,Point of Service (POS),7911997466,The Patient (You),0,NULL,NULL,0,9830,70-30
+85,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+86,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+87,1,Aetna Group,Point of Service (POS),9396087844,Lorita Maffioni,0,NULL,NULL,0,2655,50-50
+88,1,Unitedhealth Group,Preferred Provider Organization (PPO),4908618268,Adella de la Valette Parisot,0,NULL,NULL,0,634,90-10
+89,1,Kaiser Foundation Group,Point of Service (POS),9359908714,The Patient (You),1,Realblab,3100488725,1,7333,90-10
+90,1,Unitedhealth Group,Health Maintenance Organization (HMO),4808392381,The Patient (You),1,Buzzshare,931288710,0,NULL,NULL
+91,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),2742484288,Pincus Linn,0,NULL,NULL,0,4231,60-40
+92,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),6431938816,The Patient (You),1,Dabtype,7689632208,1,6034,50-50
+93,1,Aetna Group,Exclusive Provider Network (EPN),3090955457,Teriann Legonidec,0,NULL,NULL,0,8704,70-30
+94,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),5271425309,The Patient (You),1,Aimbu,3398771527,0,NULL,NULL
+95,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+96,1,Wellpoint Inc. Group,Point of Service (POS),2792070463,Sergio Dannel,1,Jaloo,4669356601,1,447,90-10
+97,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+98,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),7399168200,Lorri Trunks,0,NULL,NULL,0,7526,70-30
+99,1,Aetna Group,Health Maintenance Organization (HMO),5807969888,Neely Twitty,1,Jatri,5397693814,1,3931,70-30
+100,1,Wellpoint Inc. Group,Point of Service (POS),7699498003,The Patient (You),0,NULL,NULL,0,6273,90-10
+101,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),3064710744,Carlyn Greenrde,1,JumpXS,2769114036,1,2042,70-30
+102,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),2854897097,The Patient (You),0,NULL,NULL,0,1639,90-10
+103,1,Unitedhealth Group,Exclusive Provider Network (EPN),1409170763,The Patient (You),1,Realmix,6440030842,0,NULL,NULL
+104,1,Aetna Group,Preferred Provider Organization (PPO),905900194,Joyce Hayford,0,NULL,NULL,0,3026,70-30
+105,1,Wellpoint Inc. Group,Point of Service (POS),2061268232,Vida Thomas,0,NULL,NULL,0,1845,60-40
+106,1,Unitedhealth Group,Health Maintenance Organization (HMO),7388989760,The Patient (You),1,Oyope,7364530403,0,NULL,NULL
+107,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+108,1,Wellpoint Inc. Group,Point of Service (POS),6647265984,Gussie Cowans,0,NULL,NULL,0,185,90-10
+109,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+110,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+111,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),5349682642,Jeffry Grisbrook,1,Browsedrive,3879784022,1,1275,70-30
+112,1,Unitedhealth Group,Health Maintenance Organization (HMO),4916451558,Aubry Kluger,1,Skivee,4450676784,0,NULL,NULL
+113,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),5187659640,Umberto Golborn,0,NULL,NULL,0,7923,70-30
+114,1,Aetna Group,Health Maintenance Organization (HMO),8709339082,Marco Eschelle,1,Dabfeed,6043178689,0,NULL,NULL
+115,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),9107522356,The Patient (You),0,NULL,NULL,0,7522,50-50
+116,1,Unitedhealth Group,Preferred Provider Organization (PPO),4045520761,Morganica Reyna,1,Jaloo,1626269743,0,NULL,NULL
+117,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+118,1,Wellpoint Inc. Group,Point of Service (POS),6613033283,The Patient (You),1,Feedbug,2482777918,1,9311,90-10
+119,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+120,1,Aetna Group,Preferred Provider Organization (PPO),7310668361,The Patient (You),1,Lazz,2985515933,0,NULL,NULL
+121,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),6795032399,The Patient (You),1,Livefish,2209463803,1,5800,90-10
+122,1,Aetna Group,Health Maintenance Organization (HMO),8335081456,Conway Gross,1,Zazio,309118040,0,NULL,NULL
+123,1,Aetna Group,Point of Service (POS),8009057615,Kim Cornbell,1,Brainlounge,9110812909,0,NULL,NULL
+124,1,Unitedhealth Group,Point of Service (POS),4100892452,Walther Anthoine,0,NULL,NULL,0,653,80-20
+125,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),5387034778,The Patient (You),1,Wordify,2814790736,0,NULL,NULL
+126,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),9460916517,The Patient (You),0,NULL,NULL,0,3792,70-30
+127,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),6452564846,The Patient (You),1,Gigaclub,5796002240,0,NULL,NULL
+128,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),293110331,The Patient (You),0,NULL,NULL,0,9927,70-30
+129,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),1251084763,The Patient (You),1,Dabvine,9660646604,1,6474,80-20
+130,1,Wellpoint Inc. Group,Point of Service (POS),2619913740,Conrado Stratford,0,NULL,NULL,0,5456,70-30
+131,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),4360238621,Jehu Handrahan,1,Skalith,885568565,0,NULL,NULL
+132,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),913935106,Belvia Swaton,1,Gigashots,2322218877,0,NULL,NULL
+133,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),5124527619,Iolanthe Hayball,0,NULL,NULL,0,3166,70-30
+134,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),487399815,The Patient (You),0,NULL,NULL,0,664,70-30
+135,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),9948457786,Wallache Dillon,1,Flashspan,8541583141,0,NULL,NULL
+136,1,Kaiser Foundation Group,Point of Service (POS),6884447016,Carney Vawton,0,NULL,NULL,0,4951,50-50
+137,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),8517066900,Amalea Sheerman,1,Realcube,1088827344,1,506,70-30
+138,1,Unitedhealth Group,Preferred Provider Organization (PPO),2680639433,The Patient (You),1,Brainlounge,9478396540,0,NULL,NULL
+139,1,Aetna Group,Point of Service (POS),5289249098,Gipsy Hartnell,1,Fivespan,4369762193,0,NULL,NULL
+140,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+141,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+142,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),8151232732,Gillan Tonry,0,NULL,NULL,0,8474,70-30
+143,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+144,1,Aetna Group,Preferred Provider Organization (PPO),3935780366,The Patient (You),0,NULL,NULL,0,3396,60-40
+145,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),4239725905,The Patient (You),0,NULL,NULL,0,3686,50-50
+146,1,Unitedhealth Group,Health Maintenance Organization (HMO),1123853345,The Patient (You),1,Vimbo,4552713457,0,NULL,NULL
+147,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),2190455527,The Patient (You),0,NULL,NULL,0,1214,60-40
+148,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+149,1,Aetna Group,Point of Service (POS),8681383502,The Patient (You),0,NULL,NULL,0,3365,70-30
+150,1,Aetna Group,Health Maintenance Organization (HMO),4995526434,The Patient (You),0,NULL,NULL,0,316,90-10
+151,1,Unitedhealth Group,Exclusive Provider Network (EPN),8121086628,Margi Davydenko,1,Babblestorm,5066803603,1,7379,70-30
+152,1,Wellpoint Inc. Group,Point of Service (POS),8998655464,The Patient (You),1,Thoughtbeat,5898316106,0,NULL,NULL
+153,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),828251951,The Patient (You),1,Gigabox,2330529348,1,7840,90-10
+154,1,Unitedhealth Group,Point of Service (POS),2621544361,The Patient (You),0,NULL,NULL,0,2705,50-50
+155,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+156,1,Aetna Group,Exclusive Provider Network (EPN),4417866364,The Patient (You),1,Chatterpoint,2390726214,0,NULL,NULL
+157,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),3102201600,Estevan Mc Andrew,0,NULL,NULL,0,3659,90-10
+158,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),3114374362,Patrice Kellett,0,NULL,NULL,0,4251,60-40
+159,1,Unitedhealth Group,Point of Service (POS),2780956591,The Patient (You),1,Ainyx,2625233331,1,4598,90-10
+160,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+161,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),1528689104,The Patient (You),0,NULL,NULL,0,2237,70-30
+162,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+163,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+164,1,Unitedhealth Group,Preferred Provider Organization (PPO),8601623163,The Patient (You),0,NULL,NULL,0,4266,80-20
+165,1,Aetna Group,Point of Service (POS),6951297899,Astrid Ondrak,0,NULL,NULL,0,5293,50-50
+166,1,Aetna Group,Exclusive Provider Network (EPN),738270658,Carolynn Wemm,0,NULL,NULL,0,9615,90-10
+167,1,Unitedhealth Group,Exclusive Provider Network (EPN),5995132679,Maddalena Cogle,1,Edgetag,2925966103,1,8686,80-20
+168,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),9094707678,The Patient (You),1,Zoombox,5704313690,0,NULL,NULL
+169,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),4919511229,Michel De Cruce,1,Npath,5360045756,1,2866,70-30
+170,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+171,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),9950055512,Gregorius Brackenbury,0,NULL,NULL,0,3967,70-30
+172,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),9439171542,Dru Salterne,1,Meetz,4648507096,1,6705,80-20
+173,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),2647719692,Stanislaw Cleary,1,Tagchat,874649520,1,4555,80-20
+174,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+175,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),6713960590,The Patient (You),0,NULL,NULL,0,3827,90-10
+176,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),8952378134,Frannie Christophers,0,NULL,NULL,0,2667,70-30
+177,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+178,1,Unitedhealth Group,Point of Service (POS),2021329883,Tobe Abbyss,1,Agimba,3708453607,1,7959,90-10
+179,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),5623250065,Maggee Atwill,0,NULL,NULL,0,4892,60-40
+180,1,Wellpoint Inc. Group,Point of Service (POS),5514971539,The Patient (You),0,NULL,NULL,0,9745,80-20
+181,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+182,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),7753825730,Gabby Baptista,1,Eamia,9434785574,1,4436,50-50
+183,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+184,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+185,1,Unitedhealth Group,Exclusive Provider Network (EPN),9070169270,The Patient (You),1,Bubbletube,5575020915,1,7208,50-50
+186,1,Unitedhealth Group,Health Maintenance Organization (HMO),9389518292,Kelsy Chieze,1,Dynazzy,9156661979,1,5406,80-20
+187,1,Kaiser Foundation Group,Point of Service (POS),1577412323,Pyotr Fumagallo,1,Twitterwire,5414780929,1,3467,80-20
+188,1,Kaiser Foundation Group,Point of Service (POS),6165694964,Felicity Scullard,0,NULL,NULL,0,5548,60-40
+189,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+190,1,Aetna Group,Preferred Provider Organization (PPO),3335920205,The Patient (You),1,Rooxo,2491116502,0,NULL,NULL
+191,1,Aetna Group,Exclusive Provider Network (EPN),7252151206,Ash Gudgeon,0,NULL,NULL,0,8158,80-20
+192,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),5428600839,Cherise Gibard,0,NULL,NULL,0,2504,80-20
+193,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),2287291079,The Patient (You),1,Fiveclub,5709322619,1,6055,70-30
+194,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+195,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+196,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),3837040845,The Patient (You),1,Jamia,5191077445,0,NULL,NULL
+197,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+198,1,Aetna Group,Exclusive Provider Network (EPN),4854057868,The Patient (You),1,Oyondu,3766925449,1,87,60-40
+199,1,Unitedhealth Group,Preferred Provider Organization (PPO),3934789968,Maude Cordey,1,Feedspan,9748598007,1,6130,80-20
+200,1,Unitedhealth Group,Point of Service (POS),8919046293,The Patient (You),1,Kanoodle,7311026876,1,6744,80-20
+201,1,Wellpoint Inc. Group,Point of Service (POS),4288721977,The Patient (You),0,NULL,NULL,0,6715,90-10
+202,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),9562777310,Bentley Mullender,0,NULL,NULL,0,6227,90-10
+203,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),1191869819,Britt Cord,1,Blogpad,7106285140,0,NULL,NULL
+204,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+205,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),7496849158,Dwain Gladding,1,Zoomlounge,6223443797,0,NULL,NULL
+206,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),2889301830,The Patient (You),0,NULL,NULL,0,3216,90-10
+207,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),907835478,The Patient (You),1,Thoughtworks,6440948147,1,7823,60-40
+208,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),278529052,The Patient (You),1,Viva,9870777300,0,NULL,NULL
+209,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),902051153,The Patient (You),0,NULL,NULL,0,2951,80-20
+210,1,Unitedhealth Group,Preferred Provider Organization (PPO),6617276669,Matthaeus Hosby,1,Devbug,6168238858,0,NULL,NULL
+211,1,Unitedhealth Group,Preferred Provider Organization (PPO),6635896620,Jeni Caustick,0,NULL,NULL,0,2826,70-30
+212,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+213,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),2007547243,The Patient (You),1,Zoonder,1865975412,0,NULL,NULL
+214,1,Kaiser Foundation Group,Point of Service (POS),3771087708,Anetta O'Corhane,1,Edgewire,6486243625,0,NULL,NULL
+215,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),828091927,The Patient (You),0,NULL,NULL,0,6112,50-50
+216,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),866624119,The Patient (You),1,Trilia,6834913439,0,NULL,NULL
+217,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+218,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),841430539,Gavin Dawson,1,Quatz,2853536931,1,4231,90-10
+219,1,Unitedhealth Group,Health Maintenance Organization (HMO),33642389,Ernest Rubbert,1,Myworks,1377788927,1,9639,90-10
+220,1,Aetna Group,Point of Service (POS),9093537393,Chelsea Docherty,1,Edgetag,8763568549,0,NULL,NULL
+221,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+222,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),6839454928,Roberto Goulder,1,Janyx,6706091125,0,NULL,NULL
+223,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+224,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+225,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+226,1,Unitedhealth Group,Exclusive Provider Network (EPN),7163000760,The Patient (You),1,Zava,4939586425,1,8303,70-30
+227,1,Aetna Group,Exclusive Provider Network (EPN),8195188139,The Patient (You),0,NULL,NULL,0,6911,70-30
+228,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+229,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+230,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),4065197233,Morena Bill,1,Trunyx,8147800545,1,6072,50-50
+231,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),5369010051,The Patient (You),0,NULL,NULL,0,1655,60-40
+232,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),3971171110,Tommie Longhurst,1,Chatterbridge,4260898730,1,8794,90-10
+233,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),5842835765,The Patient (You),1,Quaxo,3603330727,1,6824,70-30
+234,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+235,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),1382138226,Napoleon Suggate,1,Thoughtstorm,2685521783,1,222,90-10
+236,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),7476996992,The Patient (You),1,Gabtune,1262555554,1,1613,60-40
+237,1,Aetna Group,Point of Service (POS),9810580292,Ynes Bothe,0,NULL,NULL,0,9189,50-50
+238,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+239,1,Unitedhealth Group,Health Maintenance Organization (HMO),7118244984,Loraine Myatt,1,Jaxbean,5649870031,0,NULL,NULL
+240,1,Aetna Group,Point of Service (POS),5120138873,Kain Olin,0,NULL,NULL,0,1131,90-10
+241,1,Kaiser Foundation Group,Point of Service (POS),2952346301,Danie McClelland,1,Youspan,1261323624,0,NULL,NULL
+242,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),5419062705,Saundra Fevers,0,NULL,NULL,0,6216,90-10
+243,1,Unitedhealth Group,Exclusive Provider Network (EPN),7520484282,Pattie Barnaby,1,Twitterlist,6503479163,1,4932,90-10
+244,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),4422595314,The Patient (You),0,NULL,NULL,0,8017,70-30
+245,1,Kaiser Foundation Group,Point of Service (POS),7678130484,Bent Thorald,0,NULL,NULL,0,3523,70-30
+246,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+247,1,Kaiser Foundation Group,Point of Service (POS),2937222739,The Patient (You),0,NULL,NULL,0,1982,80-20
+248,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),7019531183,Doreen Milburn,0,NULL,NULL,0,7515,90-10
+249,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),6909558803,The Patient (You),0,NULL,NULL,0,5851,60-40
+250,1,Unitedhealth Group,Point of Service (POS),7351795092,The Patient (You),1,Voolith,8711417053,0,NULL,NULL
+251,1,Unitedhealth Group,Health Maintenance Organization (HMO),7946170503,Tory Ertelt,0,NULL,NULL,0,5570,90-10
+252,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+253,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),7191399220,Francisco Blackbrough,1,Dynazzy,1032581650,0,NULL,NULL
+254,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),7016381441,The Patient (You),1,Eadel,2472307944,0,NULL,NULL
+255,1,Unitedhealth Group,Point of Service (POS),5836589606,The Patient (You),0,NULL,NULL,0,673,90-10
+256,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),2499525882,The Patient (You),0,NULL,NULL,0,9797,90-10
+257,1,Aetna Group,Point of Service (POS),5065415141,Jonathon Braiden,0,NULL,NULL,0,597,90-10
+258,1,Aetna Group,Point of Service (POS),5372990345,The Patient (You),0,NULL,NULL,0,2919,50-50
+259,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+260,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),7329685373,The Patient (You),0,NULL,NULL,0,8410,80-20
+261,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+262,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),3461912112,The Patient (You),1,Demivee,5422646885,0,NULL,NULL
+263,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+264,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),9100288112,Herold Popple,1,Buzzshare,3212238219,0,NULL,NULL
+265,1,Unitedhealth Group,Preferred Provider Organization (PPO),9706266177,Robyn Harradine,1,Quinu,166520596,0,NULL,NULL
+266,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),8409482290,The Patient (You),1,Twimbo,131393177,0,NULL,NULL
+267,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),6833465597,The Patient (You),0,NULL,NULL,0,7918,60-40
+268,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+269,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+270,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+271,1,Aetna Group,Health Maintenance Organization (HMO),3608562578,The Patient (You),1,Rhyloo,6686411320,0,NULL,NULL
+272,1,Unitedhealth Group,Point of Service (POS),5864118950,The Patient (You),1,Oyonder,4947604388,1,645,80-20
+273,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+274,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),312945103,Deanna Pobjay,1,Twitterwire,1546254425,1,3659,80-20
+275,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),1253381766,Kata MacCathay,1,Leenti,7448275925,1,850,80-20
+276,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),987649007,The Patient (You),0,NULL,NULL,0,6528,80-20
+277,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),6583179538,Analiese Joao,1,Zooxo,7512320180,0,NULL,NULL
+278,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),1565664106,Aimee Foulds,1,Mybuzz,678889610,0,NULL,NULL
+279,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),3601022223,The Patient (You),0,NULL,NULL,0,4276,80-20
+280,1,Unitedhealth Group,Health Maintenance Organization (HMO),5362240237,Pepita Goneau,0,NULL,NULL,0,9320,70-30
+281,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),3594999408,The Patient (You),0,NULL,NULL,0,9279,80-20
+282,1,Kaiser Foundation Group,Point of Service (POS),8128598232,Charmian Jessep,0,NULL,NULL,0,1891,80-20
+283,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),211780245,The Patient (You),0,NULL,NULL,0,7708,70-30
+284,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),1639016024,The Patient (You),1,Quatz,7316332048,0,NULL,NULL
+285,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),1425798488,The Patient (You),1,Fanoodle,1689363497,0,NULL,NULL
+286,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+287,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),4676645620,The Patient (You),1,Pixonyx,165037791,0,NULL,NULL
+288,1,Unitedhealth Group,Exclusive Provider Network (EPN),7547565643,Christean Headrick,0,NULL,NULL,0,4114,50-50
+289,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),6406931802,Grazia McKirton,0,NULL,NULL,0,2217,80-20
+290,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),7154047503,The Patient (You),1,Jayo,5162955344,0,NULL,NULL
+291,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),4232171117,The Patient (You),1,Cogidoo,8045408546,0,NULL,NULL
+292,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+293,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+294,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+295,1,Aetna Group,Exclusive Provider Network (EPN),8361515184,The Patient (You),1,Eazzy,7587877431,0,NULL,NULL
+296,1,Aetna Group,Exclusive Provider Network (EPN),6631010630,Idelle Leahy,1,Tagchat,6797067700,1,1315,50-50
+297,1,Aetna Group,Preferred Provider Organization (PPO),8671843525,The Patient (You),1,Skyble,1037587300,1,9177,80-20
+298,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+299,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),6268897756,The Patient (You),0,NULL,NULL,0,3024,50-50
+300,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+301,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+302,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),1781056257,The Patient (You),0,NULL,NULL,0,7579,70-30
+303,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+304,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+305,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),4531370432,The Patient (You),1,Jaxnation,5081425139,0,NULL,NULL
+306,1,Wellpoint Inc. Group,Point of Service (POS),1564304447,The Patient (You),1,Voonyx,2611004791,0,NULL,NULL
+307,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),5930208790,Cindra Earney,0,NULL,NULL,0,7122,70-30
+308,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),4465255070,The Patient (You),0,NULL,NULL,0,4179,80-20
+309,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+310,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+311,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+312,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),1012021431,Jess Bloggett,1,Vidoo,2937963542,0,NULL,NULL
+313,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),8824894578,Ami Lothlorien,1,Wordpedia,6507507773,0,NULL,NULL
+314,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+315,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+316,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),790700083,Roosevelt Arnao,0,NULL,NULL,0,9135,90-10
+317,1,Aetna Group,Health Maintenance Organization (HMO),6435856996,Bert Cattow,0,NULL,NULL,0,5854,60-40
+318,1,Unitedhealth Group,Health Maintenance Organization (HMO),6921359433,The Patient (You),1,Youbridge,5688487500,1,9802,50-50
+319,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+320,1,Unitedhealth Group,Point of Service (POS),622137115,The Patient (You),0,NULL,NULL,0,1985,70-30
+321,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),8962153923,The Patient (You),0,NULL,NULL,0,8074,80-20
+322,1,Kaiser Foundation Group,Point of Service (POS),3541226532,The Patient (You),1,Jazzy,3655736216,0,NULL,NULL
+323,1,Aetna Group,Point of Service (POS),2336859781,Nicolina Pudney,0,NULL,NULL,0,6174,50-50
+324,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),8189217739,The Patient (You),0,NULL,NULL,0,9914,80-20
+325,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),4983047734,The Patient (You),1,Riffwire,1976157102,1,874,50-50
+326,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+327,1,Unitedhealth Group,Exclusive Provider Network (EPN),6846059053,Raeann Pawelski,0,NULL,NULL,0,1995,50-50
+328,1,Kaiser Foundation Group,Point of Service (POS),5793012778,Kissie O' Hogan,1,Realblab,2106829810,1,6124,70-30
+329,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),3293713793,Burr O'Duane,0,NULL,NULL,0,2731,90-10
+330,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+331,1,Unitedhealth Group,Health Maintenance Organization (HMO),1861264871,Mohandis Cartwight,1,Feedfish,5628307171,0,NULL,NULL
+332,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+333,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+334,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+335,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+336,1,Kaiser Foundation Group,Point of Service (POS),872490270,Elizabet Cahalin,1,Yakitri,8956104181,0,NULL,NULL
+337,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),1278062630,Piotr Boddie,1,Demimbu,1410264818,0,NULL,NULL
+338,1,Kaiser Foundation Group,Point of Service (POS),8884726312,Edan Avery,1,Feednation,8824954544,1,456,60-40
+339,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),594972990,Idette Giblett,0,NULL,NULL,0,7869,50-50
+340,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+341,1,Unitedhealth Group,Preferred Provider Organization (PPO),1048576614,Jermaine Dewhirst,0,NULL,NULL,0,3488,70-30
+342,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),5897978069,The Patient (You),0,NULL,NULL,0,5729,50-50
+343,1,Aetna Group,Preferred Provider Organization (PPO),6734648779,The Patient (You),1,Vidoo,7679638050,0,NULL,NULL
+344,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),4164737278,The Patient (You),1,Vimbo,6860542887,1,4543,60-40
+345,1,Aetna Group,Point of Service (POS),177608094,Merlina Calterone,0,NULL,NULL,0,4370,60-40
+346,1,Wellpoint Inc. Group,Point of Service (POS),6123799995,Marjy Asee,1,Skimia,5649555681,0,NULL,NULL
+347,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),8525228289,Vivyanne Foden,0,NULL,NULL,0,6010,70-30
+348,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+349,1,Unitedhealth Group,Preferred Provider Organization (PPO),940532328,Margalit Ellison,1,Youfeed,1813776861,1,6812,50-50
+350,1,Unitedhealth Group,Preferred Provider Organization (PPO),5941226615,Deeyn Playford,0,NULL,NULL,0,7416,90-10
+351,1,Aetna Group,Exclusive Provider Network (EPN),4878331092,Elnar Fuzzard,0,NULL,NULL,0,635,80-20
+352,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),7775630009,Trever Seage,0,NULL,NULL,0,3538,90-10
+353,1,Wellpoint Inc. Group,Point of Service (POS),9302472929,The Patient (You),1,LiveZ,1578605419,1,7195,80-20
+354,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+355,1,Kaiser Foundation Group,Point of Service (POS),8313451808,Minnaminnie Ricardot,1,Meezzy,439085235,0,NULL,NULL
+356,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+357,1,Aetna Group,Exclusive Provider Network (EPN),3462595389,The Patient (You),0,NULL,NULL,0,3979,80-20
+358,1,Unitedhealth Group,Point of Service (POS),5787555308,Cleopatra Hartright,0,NULL,NULL,0,4515,50-50
+359,1,Aetna Group,Health Maintenance Organization (HMO),4150230012,Susan Hehnke,0,NULL,NULL,0,8985,90-10
+360,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),2107517352,The Patient (You),0,NULL,NULL,0,2866,50-50
+361,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+362,1,Unitedhealth Group,Exclusive Provider Network (EPN),7324255128,The Patient (You),1,Brightbean,6026096962,1,2306,80-20
+363,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),1493738286,The Patient (You),0,NULL,NULL,0,1929,60-40
+364,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+365,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),1591463410,The Patient (You),0,NULL,NULL,0,4205,70-30
+366,1,Unitedhealth Group,Health Maintenance Organization (HMO),8445971475,Edyth Carrigan,1,Vinder,9922710088,1,5194,90-10
+367,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),8649746770,Hoyt Gianetti,1,Divape,8612442271,1,4928,50-50
+368,1,Unitedhealth Group,Point of Service (POS),7474735461,Benoit De Vaux,1,Skidoo,301816955,0,NULL,NULL
+369,1,Kaiser Foundation Group,Point of Service (POS),6653688636,Selie Jachimczak,1,Roomm,5017115344,1,8480,60-40
+370,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),9036183429,Rania Folliss,0,NULL,NULL,0,6464,70-30
+371,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+372,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+373,1,Aetna Group,Preferred Provider Organization (PPO),976676371,Barbara-anne Letixier,1,Kazio,6974405288,0,NULL,NULL
+374,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),2123974206,Rab O'Donnell,0,NULL,NULL,0,2295,50-50
+375,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+376,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+377,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+378,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+379,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+380,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+381,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+382,1,Unitedhealth Group,Health Maintenance Organization (HMO),393660711,The Patient (You),1,Skinte,3950709411,0,NULL,NULL
+383,1,Aetna Group,Health Maintenance Organization (HMO),5163931552,The Patient (You),0,NULL,NULL,0,9286,60-40
+384,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+385,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+386,1,Aetna Group,Health Maintenance Organization (HMO),2492367404,The Patient (You),0,NULL,NULL,0,7589,80-20
+387,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),5615179435,Arabele Bradfield,1,Pixope,3732329975,0,NULL,NULL
+388,1,Unitedhealth Group,Preferred Provider Organization (PPO),179469594,Tully Cromblehome,0,NULL,NULL,0,2740,80-20
+389,1,Aetna Group,Preferred Provider Organization (PPO),9488656772,Marcelia Levinge,1,Zoombeat,813560840,0,NULL,NULL
+390,1,Aetna Group,Exclusive Provider Network (EPN),4747041277,The Patient (You),1,Flipstorm,2724429563,0,NULL,NULL
+391,1,Unitedhealth Group,Health Maintenance Organization (HMO),4979208062,The Patient (You),1,Brainsphere,615901796,1,685,50-50
+392,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+393,1,Unitedhealth Group,Point of Service (POS),263059542,Verene Croad,0,NULL,NULL,0,5741,80-20
+394,1,Aetna Group,Point of Service (POS),6115617107,Elinore Virgoe,0,NULL,NULL,0,4522,80-20
+395,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),9423613259,The Patient (You),1,Demizz,2076409877,1,9275,70-30
+396,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),8685707547,Geneva Pretti,0,NULL,NULL,0,6854,70-30
+397,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),6636519444,The Patient (You),1,Youbridge,8035003155,1,7833,80-20
+398,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),7308171602,The Patient (You),1,Babbleopia,1449807011,0,NULL,NULL
+399,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+400,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),2419825348,Tilda Sainthill,1,Realblab,7496778548,1,4522,70-30
+401,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+402,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),2581800467,Kenna Huffer,0,NULL,NULL,0,576,70-30
+403,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+404,1,Unitedhealth Group,Exclusive Provider Network (EPN),9190563664,Nancee Bourdel,0,NULL,NULL,0,4043,70-30
+405,1,Kaiser Foundation Group,Point of Service (POS),8859058867,Roarke Scollard,1,Divape,5741609089,0,NULL,NULL
+406,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+407,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),2560144612,Kathlin Mitrikhin,1,Skibox,8229649986,0,NULL,NULL
+408,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+409,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),8478692812,The Patient (You),1,Tazz,8277505616,1,9997,80-20
+410,1,Unitedhealth Group,Point of Service (POS),545613830,Emmaline Burehill,0,NULL,NULL,0,1317,60-40
+411,1,Unitedhealth Group,Point of Service (POS),3733922654,Leanna Wootton,1,Mynte,5378448524,1,8533,80-20
+412,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+413,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),810707625,Ardith Philcock,0,NULL,NULL,0,6204,70-30
+414,1,Kaiser Foundation Group,Point of Service (POS),9484736859,The Patient (You),0,NULL,NULL,0,2012,90-10
+415,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),2470961440,Ines Craisford,1,Brainverse,8033645792,1,3636,80-20
+416,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),1528252514,Derek Ellif,0,NULL,NULL,0,6918,50-50
+417,1,Aetna Group,Health Maintenance Organization (HMO),5006495032,The Patient (You),0,NULL,NULL,0,4494,70-30
+418,1,Unitedhealth Group,Health Maintenance Organization (HMO),9940528,The Patient (You),1,Oyoba,1060564523,1,9610,50-50
+419,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+420,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),6589679402,The Patient (You),0,NULL,NULL,0,6092,70-30
+421,1,Unitedhealth Group,Exclusive Provider Network (EPN),5353505514,The Patient (You),1,Omba,5987405636,1,2584,90-10
+422,1,Aetna Group,Health Maintenance Organization (HMO),1728038143,Ermentrude Jewsbury,1,Skyvu,4784384701,0,NULL,NULL
+423,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),1851750120,Wallas Ghione,1,Mynte,4042128930,0,NULL,NULL
+424,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+425,1,Kaiser Foundation Group,Point of Service (POS),962904147,The Patient (You),0,NULL,NULL,0,3053,90-10
+426,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),7559599316,Richard Vitall,0,NULL,NULL,0,3959,90-10
+427,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),9560756772,Lucy Josowitz,1,Snaptags,7508605696,1,7642,90-10
+428,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),8637912928,The Patient (You),0,NULL,NULL,0,6867,50-50
+429,1,Unitedhealth Group,Preferred Provider Organization (PPO),8129039827,The Patient (You),1,Feedfish,7776821135,1,9913,50-50
+430,1,Unitedhealth Group,Point of Service (POS),2182694188,The Patient (You),1,Wordify,7783496858,1,6250,70-30
+431,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),6043022231,Rogers Muslim,1,Gabspot,1136948639,0,NULL,NULL
+432,1,Aetna Group,Exclusive Provider Network (EPN),9273096428,The Patient (You),0,NULL,NULL,0,1469,70-30
+433,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+434,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),4627094684,The Patient (You),0,NULL,NULL,0,6014,50-50
+435,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),2342125133,Noby McCurtin,0,NULL,NULL,0,8531,60-40
+436,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),4648383194,The Patient (You),1,Kwideo,7763436161,0,NULL,NULL
+437,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+438,1,Aetna Group,Point of Service (POS),7281655643,The Patient (You),1,Mita,440834245,0,NULL,NULL
+439,1,Aetna Group,Point of Service (POS),3033910602,The Patient (You),0,NULL,NULL,0,3774,60-40
+440,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),3750905267,Alphonse Patesel,1,Aimbo,8092066523,0,NULL,NULL
+441,1,Unitedhealth Group,Preferred Provider Organization (PPO),1967411934,The Patient (You),1,Fivespan,6610204468,1,2976,70-30
+442,1,Wellpoint Inc. Group,Point of Service (POS),1030652114,The Patient (You),0,NULL,NULL,0,7601,70-30
+443,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),662651844,Fritz Weagener,1,Topicblab,539242376,0,NULL,NULL
+444,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+445,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+446,1,Aetna Group,Health Maintenance Organization (HMO),1194075832,The Patient (You),1,Kaymbo,2742692541,0,NULL,NULL
+447,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),8174169709,Domenico Springett,1,Skimia,947968089,1,4678,50-50
+448,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),3635993437,The Patient (You),1,Bubblebox,983557149,1,5831,80-20
+449,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),3584467697,Melamie Foystone,1,Zoovu,7271525778,0,NULL,NULL
+450,1,Wellpoint Inc. Group,Point of Service (POS),1590143773,The Patient (You),0,NULL,NULL,0,7312,90-10
+451,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),5410987740,Myrilla Marrable,1,Ailane,6132618504,0,NULL,NULL
+452,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),4336973015,Loren Standish,1,Wikizz,2113119368,0,NULL,NULL
+453,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),8242214297,The Patient (You),1,Yambee,244840189,1,7357,60-40
+454,1,Unitedhealth Group,Exclusive Provider Network (EPN),184907009,The Patient (You),1,Thoughtbeat,7483180302,0,NULL,NULL
+455,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),5149251494,The Patient (You),1,Blogspan,7746916744,1,4103,50-50
+456,1,Aetna Group,Preferred Provider Organization (PPO),6669199665,The Patient (You),1,Blogtags,3212486493,1,7729,70-30
+457,1,Aetna Group,Point of Service (POS),6111716235,Bastien Ipsley,1,Twinte,5853546608,1,3976,80-20
+458,1,Unitedhealth Group,Preferred Provider Organization (PPO),2758741298,Mahmoud Mealiffe,1,Leenti,1318810044,0,NULL,NULL
+459,1,Aetna Group,Point of Service (POS),7847022892,The Patient (You),0,NULL,NULL,0,1948,60-40
+460,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+461,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),5565296175,Page Storcke,1,Eimbee,102672078,0,NULL,NULL
+462,1,Unitedhealth Group,Exclusive Provider Network (EPN),1676888672,Ariadne Vandrill,1,Kazio,2234699500,0,NULL,NULL
+463,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),5238106333,Giorgi Posten,0,NULL,NULL,0,2292,90-10
+464,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+465,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+466,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+467,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),6618495683,Estrellita Alfuso,1,Feednation,6874804692,0,NULL,NULL
+468,1,Aetna Group,Health Maintenance Organization (HMO),957496803,Milli Barrowcliff,0,NULL,NULL,0,8879,50-50
+469,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),9712229900,The Patient (You),0,NULL,NULL,0,8532,80-20
+470,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),7287900938,The Patient (You),1,Rhyzio,7460950282,0,NULL,NULL
+471,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+472,1,Wellpoint Inc. Group,Point of Service (POS),2339003218,Ambur Bubbings,0,NULL,NULL,0,7670,80-20
+473,1,Wellpoint Inc. Group,Point of Service (POS),4412451576,The Patient (You),0,NULL,NULL,0,323,50-50
+474,1,Unitedhealth Group,Exclusive Provider Network (EPN),3407985493,The Patient (You),1,Feedfire,4356669603,1,3557,60-40
+475,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),21622997,Dagmar Sandels,0,NULL,NULL,0,7897,60-40
+476,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),7784406304,Mervin Eddie,1,Devpulse,5769043980,0,NULL,NULL
+477,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+478,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),8471622020,The Patient (You),1,Zoonoodle,9012572087,0,NULL,NULL
+479,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+480,1,Unitedhealth Group,Exclusive Provider Network (EPN),8141485671,Tan Malpas,0,NULL,NULL,0,3920,60-40
+481,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+482,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+483,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+484,1,Unitedhealth Group,Health Maintenance Organization (HMO),1868644552,Winnifred Reckhouse,1,Yodoo,8517457224,0,NULL,NULL
+485,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+486,1,Unitedhealth Group,Exclusive Provider Network (EPN),3890204847,The Patient (You),0,NULL,NULL,0,947,60-40
+487,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+488,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+489,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),5435190246,Otha Zouch,0,NULL,NULL,0,1148,50-50
+490,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+491,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),1707237234,The Patient (You),0,NULL,NULL,0,5876,60-40
+492,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),3382787085,The Patient (You),0,NULL,NULL,0,2052,90-10
+493,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),6330798583,The Patient (You),1,Photobug,540684472,0,NULL,NULL
+494,1,Aetna Group,Preferred Provider Organization (PPO),9236795288,The Patient (You),1,Centidel,4585310533,0,NULL,NULL
+495,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),204947823,Hanny Mothersole,1,Skinix,3111999641,1,3703,60-40
+496,1,Unitedhealth Group,Preferred Provider Organization (PPO),4750149300,Tanitansy Monaghan,0,NULL,NULL,0,8186,80-20
+497,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+498,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+499,1,Aetna Group,Exclusive Provider Network (EPN),1448560906,The Patient (You),0,NULL,NULL,0,1577,60-40
+500,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+501,1,Aetna Group,Point of Service (POS),3467484708,The Patient (You),1,Dabvine,6417323912,0,NULL,NULL
+502,1,Aetna Group,Health Maintenance Organization (HMO),6517384206,Jolyn Christopherson,0,NULL,NULL,0,4933,70-30
+503,1,Aetna Group,Health Maintenance Organization (HMO),8771793381,Domeniga Blazewski,0,NULL,NULL,0,526,80-20
+504,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),1847259844,Gustie Ewan,1,Lajo,2696835422,1,5726,90-10
+505,1,Wellpoint Inc. Group,Point of Service (POS),1529437702,The Patient (You),0,NULL,NULL,0,655,80-20
+506,1,Unitedhealth Group,Preferred Provider Organization (PPO),3732098041,Emmi Pavis,0,NULL,NULL,0,2395,50-50
+507,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),1081045677,The Patient (You),1,Oodoo,2138445215,0,NULL,NULL
+508,1,Aetna Group,Exclusive Provider Network (EPN),751540559,Sara-ann McKelvie,1,Dynava,7736569446,1,4862,50-50
+509,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+510,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),3926754283,Jamey Reames,0,NULL,NULL,0,9980,50-50
+511,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),2774937370,The Patient (You),0,NULL,NULL,0,1234,60-40
+512,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),9677839790,The Patient (You),0,NULL,NULL,0,5867,90-10
+513,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),9868737832,The Patient (You),0,NULL,NULL,0,5212,50-50
+514,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),1613464317,The Patient (You),0,NULL,NULL,0,3613,90-10
+515,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),7597251184,Gates Rouge,1,Mudo,4410179063,1,2263,70-30
+516,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+517,1,Kaiser Foundation Group,Point of Service (POS),1819537764,The Patient (You),0,NULL,NULL,0,6995,60-40
+518,1,Unitedhealth Group,Exclusive Provider Network (EPN),8170274486,The Patient (You),0,NULL,NULL,0,7107,90-10
+519,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),977306202,The Patient (You),1,Wordpedia,5699430917,1,6140,90-10
+520,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),2784526016,Bartholomew Eppson,0,NULL,NULL,0,4977,80-20
+521,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+522,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+523,1,Kaiser Foundation Group,Point of Service (POS),8600291705,Ariel Fairlem,1,Blognation,2535400599,0,NULL,NULL
+524,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),8500734920,The Patient (You),1,Dablist,1846222341,1,6733,90-10
+525,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),6532760096,The Patient (You),1,Kanoodle,1303578946,1,7355,90-10
+526,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),8795805487,Liza Rennles,1,Jatri,3659614759,0,NULL,NULL
+527,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),8830505291,The Patient (You),1,Mydo,615274582,1,1389,50-50
+528,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),31994500,The Patient (You),1,Edgepulse,1558731750,0,NULL,NULL
+529,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+530,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),4614876443,The Patient (You),1,Feedbug,2158506662,1,6521,70-30
+531,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),6978783917,Tommy Backler,1,Izio,4101394023,1,2299,80-20
+532,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),6088909011,The Patient (You),0,NULL,NULL,0,4845,70-30
+533,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+534,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+535,1,Aetna Group,Preferred Provider Organization (PPO),7985990681,Hastings Rabl,0,NULL,NULL,0,8741,80-20
+536,1,Unitedhealth Group,Preferred Provider Organization (PPO),3256232958,Martica Dunlea,0,NULL,NULL,0,4080,70-30
+537,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+538,1,Unitedhealth Group,Preferred Provider Organization (PPO),2105413734,The Patient (You),1,Katz,123749884,0,NULL,NULL
+539,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+540,1,Aetna Group,Preferred Provider Organization (PPO),4787277245,The Patient (You),1,Zava,6997711261,0,NULL,NULL
+541,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),4900524196,The Patient (You),1,Mynte,1437544046,0,NULL,NULL
+542,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+543,1,Unitedhealth Group,Exclusive Provider Network (EPN),7189412522,The Patient (You),0,NULL,NULL,0,7087,50-50
+544,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+545,1,Unitedhealth Group,Health Maintenance Organization (HMO),6217359866,Herman Muddiman,1,Fivebridge,4136457137,0,NULL,NULL
+546,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),7358054079,The Patient (You),1,Buzzshare,492598865,0,NULL,NULL
+547,1,Kaiser Foundation Group,Point of Service (POS),4416804843,Robbi Price,0,NULL,NULL,0,4635,70-30
+548,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),6320187316,The Patient (You),1,Wikizz,6414523490,0,NULL,NULL
+549,1,Aetna Group,Preferred Provider Organization (PPO),9650306735,The Patient (You),1,Rhycero,2442347415,1,8822,60-40
+550,1,Unitedhealth Group,Exclusive Provider Network (EPN),9006371200,The Patient (You),1,Yozio,1581009788,1,695,50-50
+551,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),2961680371,The Patient (You),0,NULL,NULL,0,9161,50-50
+552,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),7965584439,Rock McElree,0,NULL,NULL,0,3488,60-40
+553,1,Aetna Group,Preferred Provider Organization (PPO),8002107405,Raquel Edgeon,0,NULL,NULL,0,5020,50-50
+554,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+555,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),6788691362,The Patient (You),0,NULL,NULL,0,5397,50-50
+556,1,Aetna Group,Exclusive Provider Network (EPN),5583587484,The Patient (You),1,Demizz,6206329814,1,1621,70-30
+557,1,Aetna Group,Preferred Provider Organization (PPO),7429567302,The Patient (You),1,Dabshots,801754063,0,NULL,NULL
+558,1,Aetna Group,Point of Service (POS),1449160918,The Patient (You),0,NULL,NULL,0,6585,50-50
+559,1,Aetna Group,Preferred Provider Organization (PPO),1502346921,Keenan Andreev,1,Camimbo,6745055957,1,6821,90-10
+560,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),4675148748,Elvira Glaister,0,NULL,NULL,0,2114,70-30
+561,1,Unitedhealth Group,Health Maintenance Organization (HMO),4144877606,The Patient (You),1,Topiclounge,2224410068,0,NULL,NULL
+562,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+563,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),9514728231,The Patient (You),0,NULL,NULL,0,7872,60-40
+564,1,Kaiser Foundation Group,Point of Service (POS),3939537453,Ethelda Shetliff,0,NULL,NULL,0,5944,90-10
+565,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),2163597127,Val Prantoni,0,NULL,NULL,0,4901,70-30
+566,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),2852573254,Vernice Schimann,0,NULL,NULL,0,5367,50-50
+567,1,Unitedhealth Group,Preferred Provider Organization (PPO),6520919003,The Patient (You),0,NULL,NULL,0,5976,80-20
+568,1,Aetna Group,Exclusive Provider Network (EPN),1852407584,Susanna Rodgerson,0,NULL,NULL,0,9238,60-40
+569,1,Unitedhealth Group,Exclusive Provider Network (EPN),4427480377,Jammal Brusby,0,NULL,NULL,0,6690,70-30
+570,1,Unitedhealth Group,Point of Service (POS),2528184202,Derry Idill,0,NULL,NULL,0,9135,60-40
+571,1,Aetna Group,Health Maintenance Organization (HMO),6306676746,Chancey Dewitt,0,NULL,NULL,0,3861,90-10
+572,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+573,1,Aetna Group,Point of Service (POS),8201413377,Joice Moger,0,NULL,NULL,0,3166,60-40
+574,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),661459143,Alfy Swatridge,0,NULL,NULL,0,9890,90-10
+575,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),2955913209,The Patient (You),1,Mita,105801157,1,3268,60-40
+576,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+577,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),5405317673,The Patient (You),0,NULL,NULL,0,1607,90-10
+578,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+579,1,Unitedhealth Group,Health Maintenance Organization (HMO),7419482944,The Patient (You),0,NULL,NULL,0,9393,90-10
+580,1,Aetna Group,Preferred Provider Organization (PPO),8527032191,Illa De Witt,1,Voonix,5225760592,0,NULL,NULL
+581,1,Unitedhealth Group,Point of Service (POS),413267453,The Patient (You),1,Pixonyx,9193308764,1,5871,50-50
+582,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),7140950694,The Patient (You),0,NULL,NULL,0,2140,70-30
+583,1,Unitedhealth Group,Health Maintenance Organization (HMO),4489966091,The Patient (You),1,Rhyzio,9600598406,0,NULL,NULL
+584,1,Aetna Group,Point of Service (POS),3912142265,The Patient (You),1,Flashset,2868051123,0,NULL,NULL
+585,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),1762295131,Franzen Catherall,0,NULL,NULL,0,9532,70-30
+586,1,Unitedhealth Group,Preferred Provider Organization (PPO),2523960096,Bruno Dincey,1,Lajo,2952710544,0,NULL,NULL
+587,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+588,1,Unitedhealth Group,Preferred Provider Organization (PPO),3973221148,The Patient (You),0,NULL,NULL,0,760,70-30
+589,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),7654044001,Emory Paver,1,Tekfly,4592567025,0,NULL,NULL
+590,1,Aetna Group,Health Maintenance Organization (HMO),1749102489,Sherman Keable,0,NULL,NULL,0,6764,50-50
+591,1,Unitedhealth Group,Preferred Provider Organization (PPO),3607675132,Shandra Tipens,0,NULL,NULL,0,383,80-20
+592,1,Unitedhealth Group,Exclusive Provider Network (EPN),1698471514,The Patient (You),0,NULL,NULL,0,3421,90-10
+593,1,Wellpoint Inc. Group,Point of Service (POS),4050899840,The Patient (You),1,Trilith,7410156654,0,NULL,NULL
+594,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),4866730704,The Patient (You),1,Thoughtstorm,9603648897,0,NULL,NULL
+595,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+596,1,Unitedhealth Group,Point of Service (POS),6706522410,Hammad Mephan,1,Realfire,1582760114,0,NULL,NULL
+597,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),4571585007,The Patient (You),1,Zooxo,2756434949,0,NULL,NULL
+598,1,Aetna Group,Point of Service (POS),6870669908,The Patient (You),1,Camido,8085370681,1,8339,60-40
+599,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+600,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),1809929383,Chery Fillon,0,NULL,NULL,0,9478,70-30
+601,1,Unitedhealth Group,Exclusive Provider Network (EPN),660672928,The Patient (You),0,NULL,NULL,0,6108,50-50
+602,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+603,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+604,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),1718211824,The Patient (You),0,NULL,NULL,0,1410,90-10
+605,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),7234017955,Tabbie Danelet,1,Realbridge,4371610353,0,NULL,NULL
+606,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+607,1,Kaiser Foundation Group,Point of Service (POS),684274601,Ole Betke,1,Thoughtsphere,2352735776,1,6219,70-30
+608,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+609,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+610,1,Aetna Group,Preferred Provider Organization (PPO),701807484,The Patient (You),0,NULL,NULL,0,476,70-30
+611,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+612,1,Aetna Group,Exclusive Provider Network (EPN),8959823511,Gilles Tows,0,NULL,NULL,0,869,60-40
+613,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),5342302852,Carver Daldan,1,Dabshots,7175894376,1,1220,50-50
+614,1,Unitedhealth Group,Preferred Provider Organization (PPO),5284956437,The Patient (You),0,NULL,NULL,0,1072,70-30
+615,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+616,1,Unitedhealth Group,Health Maintenance Organization (HMO),7997841200,Bertie Camis,1,Skimia,190071787,0,NULL,NULL
+617,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),8083284861,Angelico Mallindine,0,NULL,NULL,0,5203,80-20
+618,1,Unitedhealth Group,Health Maintenance Organization (HMO),4985067255,Aurelie Grimsdale,1,Yodoo,8372595741,1,5517,60-40
+619,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),6563176502,The Patient (You),1,Kaymbo,3592622745,0,NULL,NULL
+620,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),4445383557,The Patient (You),1,Jabbersphere,5316971591,1,7973,50-50
+621,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),2837797016,The Patient (You),1,Oozz,221754261,0,NULL,NULL
+622,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),2884847003,Paige Sherburn,1,Skidoo,4794492380,1,2158,60-40
+623,1,Unitedhealth Group,Health Maintenance Organization (HMO),2404081275,Haily Josephs,1,Ooba,9161020726,1,4194,80-20
+624,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),5993064218,The Patient (You),1,Dynabox,5058784439,0,NULL,NULL
+625,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),6163031536,The Patient (You),0,NULL,NULL,0,7229,50-50
+626,1,Aetna Group,Health Maintenance Organization (HMO),2605028350,The Patient (You),1,Rhyzio,3343505778,1,4891,80-20
+627,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),7261908301,The Patient (You),1,Oyoba,7085843248,0,NULL,NULL
+628,1,Unitedhealth Group,Health Maintenance Organization (HMO),9291987768,Fred Lidster,0,NULL,NULL,0,3296,50-50
+629,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+630,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+631,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+632,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+633,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),7551576501,Jannel Wheelwright,1,Thoughtstorm,1871396765,1,1203,60-40
+634,1,Aetna Group,Point of Service (POS),409316830,The Patient (You),0,NULL,NULL,0,4178,60-40
+635,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+636,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+637,1,Unitedhealth Group,Point of Service (POS),4202449166,Griswold Hehl,1,Quimm,7257859866,0,NULL,NULL
+638,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),7785306543,The Patient (You),1,Tazz,2986027826,1,5007,60-40
+639,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),1345059181,The Patient (You),1,Eare,3154168484,1,4119,60-40
+640,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+641,1,Aetna Group,Point of Service (POS),3859447665,The Patient (You),1,Eabox,2634790130,1,3328,60-40
+642,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+643,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),5654398029,The Patient (You),1,Zoomcast,26108201,1,3964,70-30
+644,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+645,1,Unitedhealth Group,Preferred Provider Organization (PPO),8075117862,The Patient (You),0,NULL,NULL,0,5091,80-20
+646,1,Aetna Group,Preferred Provider Organization (PPO),4854334821,The Patient (You),1,Quire,9403891775,0,NULL,NULL
+647,1,Unitedhealth Group,Exclusive Provider Network (EPN),6530231780,The Patient (You),1,Fivechat,1347940959,1,8010,90-10
+648,1,Wellpoint Inc. Group,Point of Service (POS),4427066487,Huntington Leades,0,NULL,NULL,0,7715,80-20
+649,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),9928806731,The Patient (You),0,NULL,NULL,0,8148,70-30
+650,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+651,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+652,1,Unitedhealth Group,Point of Service (POS),5304880705,Eamon Mauchline,1,Topicblab,6746942387,1,2184,90-10
+653,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+654,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+655,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),7748749949,The Patient (You),0,NULL,NULL,0,5126,80-20
+656,1,Kaiser Foundation Group,Point of Service (POS),4803795752,Tallou Bastin,0,NULL,NULL,0,5757,90-10
+657,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),865835217,Ynez Eykel,0,NULL,NULL,0,9884,60-40
+658,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+659,1,Wellpoint Inc. Group,Point of Service (POS),2588458252,Nonah Ethelstone,0,NULL,NULL,0,4481,50-50
+660,1,Aetna Group,Health Maintenance Organization (HMO),3592627255,Elfreda Mobius,0,NULL,NULL,0,809,70-30
+661,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+662,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),736215087,Marlin Fynn,1,Edgeify,2314473932,0,NULL,NULL
+663,1,Kaiser Foundation Group,Point of Service (POS),6719940980,The Patient (You),1,Ntags,2382023686,1,6035,60-40
+664,1,Aetna Group,Exclusive Provider Network (EPN),1226975255,Myrta Harold,1,Dabvine,9572907377,1,2296,50-50
+665,1,Wellpoint Inc. Group,Point of Service (POS),929236336,Wynny Boulden,1,Abata,5544225599,0,NULL,NULL
+666,1,Unitedhealth Group,Preferred Provider Organization (PPO),8882645748,Lolita Volleth,1,Trunyx,7298698606,1,8519,80-20
+667,1,Aetna Group,Health Maintenance Organization (HMO),7896388913,Simonette di Rocca,1,Skidoo,4690231371,1,5282,60-40
+668,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),3711237822,The Patient (You),1,Realcube,4215136180,1,6296,90-10
+669,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+670,1,Aetna Group,Health Maintenance Organization (HMO),1461176927,The Patient (You),0,NULL,NULL,0,6073,80-20
+671,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),7452578756,The Patient (You),0,NULL,NULL,0,8367,60-40
+672,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+673,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),4751458962,Mignon Skelton,0,NULL,NULL,0,8896,50-50
+674,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+675,1,Aetna Group,Health Maintenance Organization (HMO),7379394031,Gaspar Levecque,1,Mynte,2725019651,0,NULL,NULL
+676,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),9241908481,Alessandra Georgeon,1,Quaxo,8413476469,1,3756,60-40
+677,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),6353799643,Salli Harroll,1,Realcube,1419758482,1,8970,70-30
+678,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),6790889773,The Patient (You),0,NULL,NULL,0,7947,90-10
+679,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+680,1,Aetna Group,Preferred Provider Organization (PPO),7243973382,Nani Huzzey,1,Brightdog,9291044205,1,6761,70-30
+681,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+682,1,Aetna Group,Point of Service (POS),8304053378,The Patient (You),1,Avamba,2541134192,1,3661,90-10
+683,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+684,1,Unitedhealth Group,Preferred Provider Organization (PPO),6782040613,Nalani Engledow,1,Gigashots,7892347253,1,9594,90-10
+685,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),6190142284,The Patient (You),1,Yabox,2086475001,1,2579,90-10
+686,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),4079288743,The Patient (You),0,NULL,NULL,0,5089,90-10
+687,1,Unitedhealth Group,Exclusive Provider Network (EPN),2366835796,The Patient (You),0,NULL,NULL,0,951,60-40
+688,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),7431011726,The Patient (You),1,Realmix,3198695701,1,4152,50-50
+689,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),5842962190,The Patient (You),0,NULL,NULL,0,1155,50-50
+690,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+691,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),7420855334,The Patient (You),0,NULL,NULL,0,7430,70-30
+692,1,Aetna Group,Point of Service (POS),2580078723,Richart Mancell,1,Devshare,8312174656,1,1567,80-20
+693,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),515810954,The Patient (You),1,Yamia,1977096427,1,5857,70-30
+694,1,Wellpoint Inc. Group,Point of Service (POS),9422256284,Betsy Walewski,1,Cogidoo,8484048128,0,NULL,NULL
+695,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+696,1,Aetna Group,Preferred Provider Organization (PPO),7788567810,The Patient (You),1,Twiyo,1126210398,1,3555,70-30
+697,1,Unitedhealth Group,Preferred Provider Organization (PPO),1441340552,Bertha Dicey,0,NULL,NULL,0,4773,90-10
+698,1,Unitedhealth Group,Point of Service (POS),7535925918,The Patient (You),1,Feedspan,3893896888,1,6104,60-40
+699,1,Aetna Group,Point of Service (POS),8745454676,The Patient (You),0,NULL,NULL,0,8362,70-30
+700,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+701,1,Aetna Group,Preferred Provider Organization (PPO),9382644351,The Patient (You),0,NULL,NULL,0,5699,80-20
+702,1,Unitedhealth Group,Preferred Provider Organization (PPO),9506806647,Elyse Bruford,1,Realblab,8892949890,0,NULL,NULL
+703,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+704,1,Unitedhealth Group,Point of Service (POS),2646068232,The Patient (You),1,Eidel,5183422254,0,NULL,NULL
+705,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),9055217308,Bernarr Southers,0,NULL,NULL,0,8109,60-40
+706,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+707,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),6525528981,Fiann Lints,0,NULL,NULL,0,6499,50-50
+708,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+709,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+710,1,Aetna Group,Health Maintenance Organization (HMO),2902168805,Lola Bromilow,0,NULL,NULL,0,8217,90-10
+711,1,Aetna Group,Exclusive Provider Network (EPN),4166462579,The Patient (You),1,Abata,4346971376,0,NULL,NULL
+712,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+713,1,Unitedhealth Group,Point of Service (POS),5797910751,Jewel Astlet,1,Janyx,171426295,0,NULL,NULL
+714,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+715,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),5902447940,The Patient (You),0,NULL,NULL,0,8638,90-10
+716,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),3108412053,The Patient (You),0,NULL,NULL,0,682,50-50
+717,1,Aetna Group,Preferred Provider Organization (PPO),4673066959,Ralina Yeld,0,NULL,NULL,0,9463,60-40
+718,1,Unitedhealth Group,Preferred Provider Organization (PPO),3185511406,Shelden Revie,1,Skyba,9295342422,0,NULL,NULL
+719,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+720,1,Unitedhealth Group,Preferred Provider Organization (PPO),3796937422,The Patient (You),1,Thoughtmix,5174977144,0,NULL,NULL
+721,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),8623794528,The Patient (You),1,Zooveo,1138346233,1,6687,70-30
+722,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),8985033492,Humphrey McCullagh,0,NULL,NULL,0,5669,70-30
+723,1,Aetna Group,Health Maintenance Organization (HMO),5249259667,The Patient (You),1,Youtags,6220958378,0,NULL,NULL
+724,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),2159511905,The Patient (You),1,Skivee,6877822532,0,NULL,NULL
+725,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),6934041425,Nert Hiland,1,Realmix,4262687283,0,NULL,NULL
+726,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+727,1,Aetna Group,Exclusive Provider Network (EPN),4242859713,Iosep Terrington,0,NULL,NULL,0,5958,80-20
+728,1,Unitedhealth Group,Point of Service (POS),7426719335,The Patient (You),1,Realcube,1020370223,1,1083,80-20
+729,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+730,1,Kaiser Foundation Group,Point of Service (POS),4854972841,The Patient (You),1,Gabtype,6164223562,0,NULL,NULL
+731,1,Unitedhealth Group,Health Maintenance Organization (HMO),8741236948,Farrand Olsen,1,Gigazoom,9558222614,1,5009,50-50
+732,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+733,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+734,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+735,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+736,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+737,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+738,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),5071748050,The Patient (You),1,Photolist,2359085743,1,3365,80-20
+739,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),3347515784,Aaren Bendell,0,NULL,NULL,0,3835,70-30
+740,1,Aetna Group,Exclusive Provider Network (EPN),6235691915,Panchito Buxsy,0,NULL,NULL,0,9893,70-30
+741,1,Unitedhealth Group,Exclusive Provider Network (EPN),4928049492,Leeann Slot,1,Jayo,9962554641,0,NULL,NULL
+742,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+743,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),8016337054,The Patient (You),0,NULL,NULL,0,6073,50-50
+744,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+745,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),8705563671,The Patient (You),0,NULL,NULL,0,4497,60-40
+746,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),5419998671,The Patient (You),0,NULL,NULL,0,1649,70-30
+747,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),3460896210,The Patient (You),0,NULL,NULL,0,9049,50-50
+748,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),8899513821,The Patient (You),0,NULL,NULL,0,588,60-40
+749,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+750,1,Aetna Group,Exclusive Provider Network (EPN),249015902,The Patient (You),0,NULL,NULL,0,4639,60-40
+751,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),9245873120,Oriana Sketchley,1,Jayo,4914594004,1,1956,70-30
+752,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),7846199655,The Patient (You),0,NULL,NULL,0,3711,70-30
+753,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),5046882178,The Patient (You),1,Gigazoom,9748326645,1,9786,60-40
+754,1,Aetna Group,Preferred Provider Organization (PPO),2359753015,Felisha Carlaw,1,Skynoodle,6979184476,0,NULL,NULL
+755,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+756,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+757,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+758,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),9493153642,The Patient (You),1,Thoughtbeat,4953283489,0,NULL,NULL
+759,1,Aetna Group,Exclusive Provider Network (EPN),4642598666,Flossy Carruthers,0,NULL,NULL,0,1119,70-30
+760,1,Unitedhealth Group,Exclusive Provider Network (EPN),9137621939,The Patient (You),0,NULL,NULL,0,8952,50-50
+761,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+762,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+763,1,Aetna Group,Point of Service (POS),3287866619,The Patient (You),1,Skynoodle,4301828786,1,3943,70-30
+764,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+765,1,Aetna Group,Point of Service (POS),9475061344,Gilly Woolley,0,NULL,NULL,0,7464,60-40
+766,1,Unitedhealth Group,Point of Service (POS),7889890119,The Patient (You),0,NULL,NULL,0,8719,50-50
+767,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+768,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+769,1,Unitedhealth Group,Health Maintenance Organization (HMO),1913330050,The Patient (You),0,NULL,NULL,0,1590,80-20
+770,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),3572120806,Ulrika Polk,1,Buzzdog,8886019474,0,NULL,NULL
+771,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),2408046529,Adrian Tellesson,1,Oba,9481408534,1,4985,70-30
+772,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),9283981644,The Patient (You),0,NULL,NULL,0,7857,70-30
+773,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),8456362610,Maisey Moryson,1,Skimia,667573256,0,NULL,NULL
+774,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+775,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),3727043068,The Patient (You),1,Oyoba,346003716,0,NULL,NULL
+776,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),5823428858,The Patient (You),0,NULL,NULL,0,6611,70-30
+777,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),946648784,Loretta Moultrie,0,NULL,NULL,0,9070,80-20
+778,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+779,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),8043644936,The Patient (You),0,NULL,NULL,0,3038,60-40
+780,1,Unitedhealth Group,Exclusive Provider Network (EPN),3558035710,The Patient (You),1,Trunyx,5994409549,1,9122,50-50
+781,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),3660661365,The Patient (You),0,NULL,NULL,0,8202,70-30
+782,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),6763730650,The Patient (You),0,NULL,NULL,0,4410,80-20
+783,1,Kaiser Foundation Group,Point of Service (POS),3279336345,Prue Van Driel,0,NULL,NULL,0,1109,50-50
+784,1,Aetna Group,Preferred Provider Organization (PPO),2441148022,The Patient (You),0,NULL,NULL,0,7782,60-40
+785,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),9910044128,The Patient (You),0,NULL,NULL,0,4777,90-10
+786,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+787,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+788,1,Unitedhealth Group,Health Maintenance Organization (HMO),988770149,Kerrie Ticehurst,1,Yabox,3149812668,0,NULL,NULL
+789,1,Unitedhealth Group,Preferred Provider Organization (PPO),6596642986,Yuri Billo,0,NULL,NULL,0,1704,60-40
+790,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),577911228,The Patient (You),0,NULL,NULL,0,5400,50-50
+791,1,Wellpoint Inc. Group,Point of Service (POS),804423954,Wain Tutsell,1,Meemm,6635720829,0,NULL,NULL
+792,1,Aetna Group,Point of Service (POS),9209961216,Justine Maybery,1,Yombu,4485667102,0,NULL,NULL
+793,1,Aetna Group,Exclusive Provider Network (EPN),617961510,Layla Hassard,0,NULL,NULL,0,320,50-50
+794,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+795,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+796,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),2964024388,The Patient (You),0,NULL,NULL,0,3905,80-20
+797,1,Unitedhealth Group,Point of Service (POS),6264886112,The Patient (You),1,Realbridge,9253600832,0,NULL,NULL
+798,1,Unitedhealth Group,Health Maintenance Organization (HMO),3064807432,The Patient (You),1,Buzzdog,4953348649,0,NULL,NULL
+799,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+800,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),1633693180,Valene Brahm,0,NULL,NULL,0,5058,50-50
+801,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),3548462668,The Patient (You),0,NULL,NULL,0,1394,60-40
+802,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),9774571099,The Patient (You),0,NULL,NULL,0,1027,70-30
+803,1,Unitedhealth Group,Point of Service (POS),9668314062,Paco Duggon,0,NULL,NULL,0,6471,90-10
+804,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+805,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),4830409433,The Patient (You),0,NULL,NULL,0,3419,80-20
+806,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),7599200259,Nari Dorracott,1,Gigabox,2772634507,1,1780,90-10
+807,1,Unitedhealth Group,Health Maintenance Organization (HMO),7388986285,The Patient (You),0,NULL,NULL,0,7561,60-40
+808,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),7443360340,Julio Kilgour,0,NULL,NULL,0,965,80-20
+809,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+810,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),9669447846,Alvina Dowdall,1,Jabbersphere,5054940423,1,8271,70-30
+811,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+812,1,Unitedhealth Group,Preferred Provider Organization (PPO),2421396646,The Patient (You),1,Zazio,9788531400,1,2482,70-30
+813,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),84021319,The Patient (You),0,NULL,NULL,0,7497,90-10
+814,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),2200187688,The Patient (You),0,NULL,NULL,0,6805,80-20
+815,1,Unitedhealth Group,Exclusive Provider Network (EPN),2529742585,Jocelyne Wharfe,0,NULL,NULL,0,7321,50-50
+816,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),5697170753,The Patient (You),1,Teklist,3546351670,1,575,80-20
+817,1,Kaiser Foundation Group,Point of Service (POS),7240049727,The Patient (You),1,Oyoloo,6811137043,0,NULL,NULL
+818,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),5680458200,The Patient (You),0,NULL,NULL,0,3641,70-30
+819,1,Unitedhealth Group,Point of Service (POS),776704530,Kingston Bakeup,0,NULL,NULL,0,8598,70-30
+820,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+821,1,Unitedhealth Group,Point of Service (POS),6237106198,Sutherlan Kuzemka,0,NULL,NULL,0,2150,90-10
+822,1,Unitedhealth Group,Preferred Provider Organization (PPO),9370271489,Augie Eccleshall,1,Kaymbo,6714292713,1,6064,50-50
+823,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),6524552372,The Patient (You),0,NULL,NULL,0,2488,70-30
+824,1,Unitedhealth Group,Preferred Provider Organization (PPO),5236747356,Farrand Dorow,0,NULL,NULL,0,3875,90-10
+825,1,Unitedhealth Group,Health Maintenance Organization (HMO),4723067029,The Patient (You),1,Jayo,9836887999,1,6567,70-30
+826,1,Wellpoint Inc. Group,Point of Service (POS),1981847253,Farly Drury,1,Vinte,6756337,0,NULL,NULL
+827,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),3727514518,The Patient (You),0,NULL,NULL,0,6624,50-50
+828,1,Aetna Group,Preferred Provider Organization (PPO),9783058723,The Patient (You),0,NULL,NULL,0,2005,80-20
+829,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),8232064215,Reg Katz,1,Meevee,2037350360,0,NULL,NULL
+830,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+831,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+832,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),7436170424,Abram Coggeshall,0,NULL,NULL,0,1631,50-50
+833,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+834,1,Wellpoint Inc. Group,Point of Service (POS),945440757,The Patient (You),0,NULL,NULL,0,3821,90-10
+835,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),1789923536,Anita Baack,1,Gabtype,7772161049,1,7546,60-40
+836,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+837,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+838,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+839,1,Unitedhealth Group,Health Maintenance Organization (HMO),2503238510,The Patient (You),1,Thoughtbridge,7893104134,0,NULL,NULL
+840,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),7072375499,The Patient (You),1,Innojam,2589925469,1,1607,70-30
+841,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),9620564305,Katinka Pimlott,1,Quinu,7717550426,1,1071,60-40
+842,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+843,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+844,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+845,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),7726601868,Harp Balcon,1,Thoughtblab,1401842239,0,NULL,NULL
+846,1,Unitedhealth Group,Preferred Provider Organization (PPO),9878475952,The Patient (You),0,NULL,NULL,0,7188,90-10
+847,1,Aetna Group,Preferred Provider Organization (PPO),2430793698,The Patient (You),0,NULL,NULL,0,9322,50-50
+848,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),9890233712,Nataline Hanne,1,Pixonyx,9111272354,0,NULL,NULL
+849,1,Wellpoint Inc. Group,Point of Service (POS),733299409,Amil Gutowska,1,Ozu,1510674844,0,NULL,NULL
+850,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+851,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),7546546374,The Patient (You),1,Eare,1006287438,0,NULL,NULL
+852,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),2146171965,Thaxter Handrahan,0,NULL,NULL,0,4618,70-30
+853,1,Aetna Group,Preferred Provider Organization (PPO),671699249,Baxter Bazeley,0,NULL,NULL,0,7544,80-20
+854,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),5166005515,The Patient (You),1,Skippad,1865050182,0,NULL,NULL
+855,1,Aetna Group,Point of Service (POS),7072203992,Cherice Duce,0,NULL,NULL,0,4577,90-10
+856,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),8607029564,The Patient (You),0,NULL,NULL,0,9225,50-50
+857,1,Aetna Group,Exclusive Provider Network (EPN),9185553401,The Patient (You),1,Meevee,1914681702,1,44,70-30
+858,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),2552564276,The Patient (You),1,Youopia,3102780518,0,NULL,NULL
+859,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),5471214681,Moira Chisman,0,NULL,NULL,0,5592,50-50
+860,1,Aetna Group,Preferred Provider Organization (PPO),6373873736,Corena Ishaki,0,NULL,NULL,0,3641,70-30
+861,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),9509991674,Sarene Slatford,1,Buzzbean,9511786495,0,NULL,NULL
+862,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+863,1,Unitedhealth Group,Preferred Provider Organization (PPO),394101681,The Patient (You),1,Voonyx,7418854944,0,NULL,NULL
+864,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+865,1,Unitedhealth Group,Preferred Provider Organization (PPO),1665058468,The Patient (You),1,Feedfish,2054820960,1,3149,50-50
+866,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),669839506,The Patient (You),0,NULL,NULL,0,3487,60-40
+867,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),3965047275,Hillary Berk,0,NULL,NULL,0,853,70-30
+868,1,Unitedhealth Group,Preferred Provider Organization (PPO),9488775591,Kathie Shadwick,0,NULL,NULL,0,9151,50-50
+869,1,Aetna Group,Exclusive Provider Network (EPN),5518889551,Dominique Morphey,0,NULL,NULL,0,4596,90-10
+870,1,Aetna Group,Health Maintenance Organization (HMO),4178394089,The Patient (You),1,Innojam,8558918844,0,NULL,NULL
+871,1,Unitedhealth Group,Point of Service (POS),8783950948,Had Jeafferson,0,NULL,NULL,0,8369,70-30
+872,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+873,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+874,1,Unitedhealth Group,Preferred Provider Organization (PPO),9046153321,The Patient (You),0,NULL,NULL,0,4141,50-50
+875,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+876,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),3413163069,Moira Laxston,1,Vitz,3338472657,0,NULL,NULL
+877,1,Aetna Group,Point of Service (POS),7285163189,The Patient (You),0,NULL,NULL,0,772,80-20
+878,1,Unitedhealth Group,Preferred Provider Organization (PPO),1886018148,Merilyn Madrell,1,Devify,6355283907,1,6166,70-30
+879,1,Kaiser Foundation Group,Point of Service (POS),5625894238,The Patient (You),0,NULL,NULL,0,905,50-50
+880,1,Unitedhealth Group,Health Maintenance Organization (HMO),2287450864,The Patient (You),1,Skidoo,4043785572,0,NULL,NULL
+881,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+882,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+883,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+884,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+885,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+886,1,Aetna Group,Health Maintenance Organization (HMO),6304486735,The Patient (You),0,NULL,NULL,0,5271,90-10
+887,1,Kaiser Foundation Group,Point of Service (POS),3284093105,Lorrie Colquete,0,NULL,NULL,0,9982,90-10
+888,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+889,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),2563231790,Nicky Nehls,0,NULL,NULL,0,7191,60-40
+890,1,Aetna Group,Health Maintenance Organization (HMO),3355487413,Eloisa Hitschke,1,Shuffletag,9639732524,1,2596,60-40
+891,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),6509840728,The Patient (You),0,NULL,NULL,0,8141,60-40
+892,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),740220952,Armstrong Nucciotti,1,Quimba,1011525024,1,4640,60-40
+893,1,Unitedhealth Group,Health Maintenance Organization (HMO),4228736588,Salli Legerton,0,NULL,NULL,0,6287,60-40
+894,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+895,1,Unitedhealth Group,Preferred Provider Organization (PPO),1700336970,The Patient (You),0,NULL,NULL,0,5133,80-20
+896,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+897,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+898,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+899,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+900,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),7900526430,Dorian Winterflood,1,Cogilith,7936959126,0,NULL,NULL
+901,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+902,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),9926176199,The Patient (You),1,Voomm,6928152538,1,6057,70-30
+903,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+904,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+905,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+906,1,Unitedhealth Group,Preferred Provider Organization (PPO),2965173343,Barney Vaadeland,1,Topicshots,4381597601,1,4096,80-20
+907,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+908,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+909,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+910,1,Aetna Group,Health Maintenance Organization (HMO),8915670506,Townie McCrow,1,Ntags,9340805927,1,4188,50-50
+911,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),6744333518,Ardyce Carek,1,Trupe,4528492107,1,8118,50-50
+912,1,Wellpoint Inc. Group,Point of Service (POS),9457670369,The Patient (You),0,NULL,NULL,0,2435,70-30
+913,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+914,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+915,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),3595978444,Obed Karlsson,1,Mymm,8981525367,1,989,70-30
+916,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),9693219464,The Patient (You),0,NULL,NULL,0,7638,50-50
+917,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),5895581578,Zaria Dimnage,1,Babbleset,7052158750,1,5608,60-40
+918,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+919,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+920,1,Aetna Group,Exclusive Provider Network (EPN),565918714,The Patient (You),0,NULL,NULL,0,5253,70-30
+921,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+922,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+923,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+924,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),4934369002,The Patient (You),1,Jayo,7760955954,0,NULL,NULL
+925,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+926,1,Aetna Group,Health Maintenance Organization (HMO),3657012092,The Patient (You),0,NULL,NULL,0,8029,80-20
+927,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+928,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),3853549146,The Patient (You),0,NULL,NULL,0,795,60-40
+929,1,Unitedhealth Group,Point of Service (POS),3641037219,The Patient (You),0,NULL,NULL,0,6592,80-20
+930,1,Wellpoint Inc. Group,Point of Service (POS),8547845134,The Patient (You),0,NULL,NULL,0,5071,60-40
+931,1,Kaiser Foundation Group,Exclusive Provider Network (EPN),4242593631,Anna Tubridy,0,NULL,NULL,0,5626,80-20
+932,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),6058353767,The Patient (You),0,NULL,NULL,0,486,90-10
+933,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),2440974441,The Patient (You),1,Centizu,2420059932,1,1982,50-50
+934,1,Kaiser Foundation Group,Point of Service (POS),9523503325,The Patient (You),1,Jayo,8242224062,1,2426,80-20
+935,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+936,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),3720687826,The Patient (You),0,NULL,NULL,0,3453,90-10
+937,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+938,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),3727321577,The Patient (You),0,NULL,NULL,0,1941,50-50
+939,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+940,1,Unitedhealth Group,Health Maintenance Organization (HMO),8209866988,The Patient (You),1,Bluezoom,5940325262,0,NULL,NULL
+941,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+942,1,Aetna Group,Preferred Provider Organization (PPO),4224193243,The Patient (You),0,NULL,NULL,0,3980,90-10
+943,1,Unitedhealth Group,Health Maintenance Organization (HMO),1778514199,Talyah Beacom,1,Centimia,9886323830,1,8995,90-10
+944,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+945,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+946,1,Aetna Group,Preferred Provider Organization (PPO),9047072490,Gerty Marrion,1,Livepath,5751009988,0,NULL,NULL
+947,1,Aetna Group,Point of Service (POS),6842944561,The Patient (You),1,Quamba,8314700907,1,7459,50-50
+948,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),7067067685,The Patient (You),0,NULL,NULL,0,2470,70-30
+949,1,Unitedhealth Group,Point of Service (POS),8432394366,The Patient (You),1,Fiveclub,1596583860,0,NULL,NULL
+950,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),5476247427,Ray Furlong,0,NULL,NULL,0,1569,60-40
+951,1,Unitedhealth Group,Point of Service (POS),3813095607,Correna Donaway,1,Feedmix,1225962105,1,7555,50-50
+952,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),2198206119,Cleveland Cordeix,1,Jamia,4592807039,0,NULL,NULL
+953,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),5355536044,Riane Farnin,1,Trilia,863059717,0,NULL,NULL
+954,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+955,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),3083236429,Elvina Drury,0,NULL,NULL,0,3881,50-50
+956,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),9295170312,Kiley Hungerford,1,Feedmix,4928562385,1,3768,80-20
+957,1,Unitedhealth Group,Point of Service (POS),8809067952,Kally Beckett,0,NULL,NULL,0,7618,50-50
+958,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+959,1,Aetna Group,Preferred Provider Organization (PPO),4444801778,The Patient (You),1,Kimia,5017292581,0,NULL,NULL
+960,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+961,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+962,1,Aetna Group,Exclusive Provider Network (EPN),8924341772,The Patient (You),1,Ozu,6105651285,0,NULL,NULL
+963,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+964,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+965,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),1895846501,The Patient (You),1,Browseblab,7359436320,1,2687,70-30
+966,1,Kaiser Foundation Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),5012764179,The Patient (You),0,NULL,NULL,0,7271,60-40
+967,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+968,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+969,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+970,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),2017712631,Willette Teresia,0,NULL,NULL,0,274,80-20
+971,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+972,1,Wellpoint Inc. Group,Preferred Provider Organization (PPO),2810198926,Marijn Lucia,0,NULL,NULL,0,5529,70-30
+973,1,Unitedhealth Group,Preferred Provider Organization (PPO),2475548883,The Patient (You),0,NULL,NULL,0,1842,60-40
+974,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),1360334454,The Patient (You),1,Oba,7319468263,1,5609,90-10
+975,1,Aetna Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),7731654581,Arch Bowart,1,Omba,5524602955,0,NULL,NULL
+976,1,Kaiser Foundation Group,Point of Service (POS),3812257180,The Patient (You),1,Bubblebox,6330833487,0,NULL,NULL
+977,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+978,1,Unitedhealth Group,Exclusive Provider Network (EPN),4772772516,Marguerite Jerams,0,NULL,NULL,0,5176,80-20
+979,1,Wellpoint Inc. Group,Point of Service (POS),1563827374,Pammi Rzehor,1,Myworks,2740688610,0,NULL,NULL
+980,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),7247867150,Garrot Closs,1,Katz,6984015079,1,8197,50-50
+981,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+982,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+983,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+984,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+985,1,Wellpoint Inc. Group,Health Maintenance Organization (HMO),4402946962,The Patient (You),0,NULL,NULL,0,4975,80-20
+986,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),5448582914,The Patient (You),0,NULL,NULL,0,6521,70-30
+987,1,Unitedhealth Group,Exclusive Provider Network (EPN),6914060132,The Patient (You),0,NULL,NULL,0,6252,60-40
+988,1,Unitedhealth Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),645626429,Shoshana Reinbech,1,Thoughtmix,9166621141,1,5939,80-20
+989,1,Wellpoint Inc. Group,Point of Service (POS),668292177,The Patient (You),1,Yabox,8253016766,1,9226,80-20
+990,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),4915615414,The Patient (You),0,NULL,NULL,0,6343,50-50
+991,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),3099264162,Joann Ferrier,1,Browsezoom,2857600233,0,NULL,NULL
+992,1,Wellpoint Inc. Group,High-Deductible Health Plan (HDHP) or Health Savings Account (HSA),9408182086,The Patient (You),0,NULL,NULL,0,6461,80-20
+993,1,Wellpoint Inc. Group,Exclusive Provider Network (EPN),9589848622,The Patient (You),0,NULL,NULL,0,5494,70-30
+994,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+995,1,Unitedhealth Group,Preferred Provider Organization (PPO),8320466479,The Patient (You),1,Divape,5087845208,1,8641,90-10
+996,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+997,0,NULL,NULL,NULL,NULL,0,NULL,NULL,0,NULL,NULL
+998,1,Kaiser Foundation Group,Preferred Provider Organization (PPO),1593666193,The Patient (You),0,NULL,NULL,0,5123,80-20
+999,1,Aetna Group,Preferred Provider Organization (PPO),4350781057,The Patient (You),0,NULL,NULL,0,1415,90-10
+1000,1,Kaiser Foundation Group,Health Maintenance Organization (HMO),6232322590,Neils Halbard,0,NULL,NULL,0,7087,80-20
