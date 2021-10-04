@@ -1,0 +1,143 @@
+{
+  "id": "5b4c5a5e-5577-4d06-957e-4ac8a871c2e9",
+  "version": "2.0",
+  "name": "a",
+  "url": "https://hopeful-bartik-dccd71.netlify.app",
+  "tests": [
+    {
+      "id": "b0cd4a7f-8f37-42e2-9f3f-5a9f05e7f434",
+      "name": "a",
+      "commands": [
+        {
+          "id": "7acdf564-2b60-420a-be40-32d94142b41d",
+          "comment": "",
+          "command": "open",
+          "target": "/index1.html",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "d3875f49-bcb7-447f-add5-302d71499944",
+          "comment": "",
+          "command": "setWindowSize",
+          "target": "550x744",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "97c6e811-a3f8-46c5-a8a4-b9ac99516459",
+          "comment": "",
+          "command": "click",
+          "target": "css=fieldset:nth-child(6) > label:nth-child(4)",
+          "targets": [
+            [
+              "css=fieldset:nth-child(6) > label:nth-child(4)",
+              "css:finder"
+            ],
+            [
+              "xpath=//div[@id='research-study-data']/fieldset/fieldset[4]/label",
+              "xpath:idRelative"
+            ],
+            [
+              "xpath=//fieldset[4]/label",
+              "xpath:position"
+            ],
+            [
+              "xpath=//label[contains(.,'High Blood Pressure')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "31acc8c9-cdd1-4e26-acef-1bab6b634ff6",
+          "comment": "",
+          "command": "if",
+          "target": "hasInsurance",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "d03ea48f-d2bd-4591-aaad-c5815c3c56bc",
+          "comment": "",
+          "command": "click",
+          "target": "name=highBloodPressure",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "1c12171e-56c7-45b5-b784-0f894784b32f",
+          "comment": "",
+          "command": "end",
+          "target": "",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "55c1fdac-7d32-416d-89e0-bc4fd4bb4643",
+          "comment": "",
+          "command": "if",
+          "target": "hasDeductiblesOrCoPayments",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "00a01149-c169-42bf-a856-164455bf411d",
+          "comment": "",
+          "command": "click",
+          "target": "name=diabetes",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "8c957bdc-e703-4b72-9768-93487b8aae71",
+          "comment": "",
+          "command": "end",
+          "target": "",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "3ca943c3-694f-4859-a677-a96fd44b2b5f",
+          "comment": "",
+          "command": "if",
+          "target": "hasPhysician",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "12fc8991-c129-461e-9932-1ace0f763f11",
+          "comment": "",
+          "command": "click",
+          "target": "name=glaucoma",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "65afda1b-3c10-480d-b329-ef718e39c0ac",
+          "comment": "",
+          "command": "end",
+          "target": "",
+          "targets": [],
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "suites": [
+    {
+      "id": "fc216689-c181-4424-9d78-a1a397fd2b61",
+      "name": "Default Suite",
+      "persistSession": false,
+      "parallel": false,
+      "timeout": 300,
+      "tests": [
+        "b0cd4a7f-8f37-42e2-9f3f-5a9f05e7f434"
+      ]
+    }
+  ],
+  "urls": [
+    "https://hopeful-bartik-dccd71.netlify.app/"
+  ],
+  "plugins": []
+}
