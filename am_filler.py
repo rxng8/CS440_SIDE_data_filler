@@ -12,21 +12,25 @@ def main():
         os.mkdir("outputs")
 
     side_file = sys.argv[1]
-    data_file = sys.argv[2]
+    data_folder = sys.argv[2]
 
-    test_side_file = "./side.generated/a1.side"
-    test_data_file = "./data/a1.json"
     # application = re.match(r"([\w\s]*)\.side", side_file)[1]
     # applicant = re.match(r"\.\/tmp\/([\d]+)\.json", data_file)[1]
 
-    data = json.load(open(data_file))
-    derive(data)
-    unfilled = json.load(open(side_file))
-    filled = fill(unfilled, data)
+    for data_file in os.listdir(data_folder):
+        if not data_file.endswith(".json"):
+            continue
 
-    test_file = "outputs/result.side"
-    json.dump(filled, open(test_file, "w+"))
-    print("Dump json successfully!")
+        data_path = os.path.join(data_folder, data_file)
+
+        data = json.load(open(data_path))
+        derive(data)
+        unfilled = json.load(open(side_file))
+        filled = fill(unfilled, data)
+
+        result_file_path = f"outputs/{data_file[:-4]}side"
+        json.dump(filled, open(result_file_path, "w+"))
+        print(f"Successfully filled the script with applicant data in {data_file}")
     
 
 def derive(native):
