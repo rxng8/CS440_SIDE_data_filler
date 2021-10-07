@@ -1,0 +1,237 @@
+{
+  "id": "df2ca5a3-3804-4b99-8559-1ab1b4e41479",
+  "version": "2.0",
+  "name": "a",
+  "url": "https://hopeful-bartik-dccd71.netlify.app",
+  "tests": [
+    {
+      "id": "822ddf60-5a45-40c8-aaf5-5c27c9d160b9",
+      "name": "a",
+      "commands": [
+        {
+          "id": "1d819517-d66a-44d9-907b-166ab39ae7e8",
+          "comment": "",
+          "command": "open",
+          "target": "/index1.html",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "b21dd847-90ef-46cd-b6c7-c21bd8dfa36e",
+          "comment": "",
+          "command": "setWindowSize",
+          "target": "550x752",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "f63e57f3-38ec-4fed-9b88-d2c053e9f6f8",
+          "comment": "",
+          "command": "click",
+          "target": "id=firstName",
+          "targets": [
+            [
+              "id=firstName",
+              "id"
+            ],
+            [
+              "name=firstname",
+              "name"
+            ],
+            [
+              "css=#firstName",
+              "css:finder"
+            ],
+            [
+              "xpath=//input[@id='firstName']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//form[@id='myForm']/input",
+              "xpath:idRelative"
+            ],
+            [
+              "xpath=//input",
+              "xpath:position"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "cebf954d-b7d2-43ad-a524-a8c33741a547",
+          "comment": "",
+          "command": "type",
+          "target": "id=firstName",
+          "targets": [],
+          "value": "firstName"
+        },
+        {
+          "id": "5a982bd9-4c01-44e8-a539-9777a5aaadb2",
+          "comment": "",
+          "command": "click",
+          "target": "id=lastName",
+          "targets": [
+            [
+              "id=lastName",
+              "id"
+            ],
+            [
+              "name=lastname",
+              "name"
+            ],
+            [
+              "css=#lastName",
+              "css:finder"
+            ],
+            [
+              "xpath=//input[@id='lastName']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//form[@id='myForm']/input[2]",
+              "xpath:idRelative"
+            ],
+            [
+              "xpath=//input[2]",
+              "xpath:position"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "9bef6639-2627-4631-8191-83351760c148",
+          "comment": "",
+          "command": "type",
+          "target": "id=lastName",
+          "targets": [],
+          "value": "lastName"
+        },
+        {
+          "id": "70c7eafe-d455-4cb7-9528-78617b8f90dc",
+          "comment": "",
+          "command": "click",
+          "target": "name=email",
+          "targets": [
+            [
+              "name=email",
+              "name"
+            ],
+            [
+              "css=#myForm > input:nth-child(8)",
+              "css:finder"
+            ],
+            [
+              "xpath=//input[@name='email']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//form[@id='myForm']/input[6]",
+              "xpath:idRelative"
+            ],
+            [
+              "xpath=//input[6]",
+              "xpath:position"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "868e3444-7476-4215-9819-9fc0be726a10",
+          "comment": "",
+          "command": "type",
+          "target": "name=email",
+          "targets": [],
+          "value": "email"
+        },
+        {
+          "id": "e4e9182b-2e1f-4ccc-bd5b-521af0566d08",
+          "comment": "",
+          "command": "if",
+          "target": "hasInsurance",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "e326cb93-357d-415c-8279-03120bff7017",
+          "comment": "",
+          "command": "click",
+          "target": "name=highBloodPressure",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "88784b58-5603-4b1c-9327-14d6daad9188",
+          "comment": "",
+          "command": "end",
+          "target": "",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "15fe4bcb-b359-4d4b-ab45-d50d197e2b5a",
+          "comment": "",
+          "command": "if",
+          "target": "hasDeductiblesOrCoPayments",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "8831041b-f60c-4864-9ab3-aabb3f55443e",
+          "comment": "",
+          "command": "click",
+          "target": "name=diabetes",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "33330359-de53-4249-b587-9c62fa2735cb",
+          "comment": "",
+          "command": "end",
+          "target": "",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "054db6c6-e9b1-45b0-a4e8-bc28e6f70b3d",
+          "comment": "",
+          "command": "if",
+          "target": "hasPhysician",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "d6f916c2-c726-4358-9da0-94a3fb8ef9f6",
+          "comment": "",
+          "command": "click",
+          "target": "name=glaucoma",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "d38ce4fc-af6a-4e1e-9e3c-7d4982d65508",
+          "comment": "",
+          "command": "end",
+          "target": "",
+          "targets": [],
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "suites": [
+    {
+      "id": "ddc45256-402b-44f7-ac85-d46f850b0100",
+      "name": "Default Suite",
+      "persistSession": false,
+      "parallel": false,
+      "timeout": 300,
+      "tests": [
+        "822ddf60-5a45-40c8-aaf5-5c27c9d160b9"
+      ]
+    }
+  ],
+  "urls": [
+    "https://hopeful-bartik-dccd71.netlify.app/"
+  ],
+  "plugins": []
+}

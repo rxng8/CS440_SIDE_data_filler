@@ -59,14 +59,30 @@ def fill(unfilled, data):
             new_commands.append(command)
         elif command['command'] == 'if':
             tag_label = command['target'] # get the tag value
-            bool_label = data[tag_label] # Get the actual binary data in the user json file
-            # put the binary data in
-            if bool_label: 
-                command['target'] = "true"
-            else:
-                command['target'] = "false"
-            command['value'] = "true"
-            new_commands.append(command)
+            value_to_compare = command['value'] # get the value to be comapred with the tagged label
+
+            bool_or_categorical_label = data[tag_label] # Get the actual binary data in the user json file # or # Get the actual categorical data in the user json file
+
+            if value_to_compare == "": # if this tag is the boolean type
+                assert type(bool_or_categorical_label) == bool, "Wrong data type, the tagged field should contains binary values."
+                # put the binary data in
+                if bool_or_categorical_label: 
+                    command['target'] = "true"
+                else:
+                    command['target'] = "false"
+                command['value'] = "true"
+                new_commands.append(command)
+            else: # if this tag is categorical-type data
+                assert type(bool_or_categorical_label) == str, "Wrong data type, the tagged field should contains binary values."
+
+                # put the categorical data in
+                if bool_or_categorical_label == command['value']: 
+                    command['target'] = "true"
+                else:
+                    command['target'] = "false"
+                command['value'] = "true"
+
+                new_commands.append(command)
         else:
             new_commands.append(command)
 
